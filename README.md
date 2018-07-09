@@ -3,7 +3,12 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/
 --->
 
 
-What We Do
-==========
+# Layer Updates
 
-This process is to be used and adapted to improve service by building the skills and abilities of the team members and strengthening the environment that we work in.
+Layer data management using custom tools based on the Python site package [ArcPy](http://desktop.arcgis.com/en/arcmap/10.5/analyze/arcpy/what-is-arcpy-.htm).
+
+- Addresses
+- Masterplan
+- Parcels
+- Roads
+- Zoning

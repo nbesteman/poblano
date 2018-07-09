@@ -1,0 +1,35 @@
+OBJECTID,FENAME3,Cnt_FENAME3
+-1, ,12849
+-1,10th,8
+-1,11th,14
+-1,12th,8
+-1,30th,1
+-1,58th,7
+-1,68th,44
+-1,Adams,17
+-1,Audubon,1
+-1,Baseline,4
+-1,Bridge,2
+-1,Cross Road,1
+-1,Division,1
+-1,Douglas,3
+-1,Exit 61,1
+-1,Fifth,1
+-1,Grant,19
+-1,Halcyon Hill,1
+-1,Hill,1
+-1,Horseshoe,2
+-1,Lake Michigan,1
+-1,Lake Woods,1
+-1,Lakewoods,1
+-1,Laura Lane,2
+-1,M 89,5
+-1,North East Lake,2
+-1,Old Allegan,4
+-1,Patterson,7
+-1,Pine,1
+-1,Polk,1
+-1,Shore,10
+-1,Tyler,4
+-1,Washington,4
+-1,Washout,1

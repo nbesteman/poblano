@@ -1,0 +1,591 @@
+{
+    "id": "PV2Masterplan_7999",
+    "layerType": "ArcGISMapServiceLayer",
+    "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2Masterplan/MapServer",
+    "visibility": true,
+    "opacity": 0.74,
+    "title": "Future Land Use",
+    "itemId": "5a10c3a481854a0ca192539f738e1206",
+    "layers": [
+        {
+            "id": 0,
+            "popupInfo": {
+                "title": "Allegan City Future Land Use: {LABEL}",
+                "fieldInfos": [
+                    {
+                        "fieldName": "OBJECTID",
+                        "label": "OBJECTID",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "LABEL",
+                        "label": "LABEL",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "MASTERPLAN",
+                        "label": "MASTERPLAN",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "GlobalID",
+                        "label": "GlobalID",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Shape",
+                        "label": "Shape",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Shape.STArea()",
+                        "label": "Shape.STArea()",
+                        "tooltip": "",
+                        "visible": false,
+                        "format": {
+                            "places": 2,
+                            "digitSeparator": true
+                        },
+                        "stringFieldOption": "textbox"
+                    }
+                ],
+                "description": "Label: {LABEL}<br />Land Use: {MASTERPLAN}<br /><br /><a href='http://www.cityofallegan.org/reports/FINAL-MASTER-PLAN-WITH-MAPS.pdf' target='_blank'>Local Unit Link</a>",
+                "showAttachments": true,
+                "mediaInfos": []
+            },
+            "layerDefinition": {
+                "source": {
+                    "type": "mapLayer",
+                    "mapLayerId": 0
+                }
+            },
+            "name": "Allegan City Future Land Use",
+            "minScale": 0,
+            "maxScale": 0,
+            "parentLayerId": -1,
+            "defaultVisibility": true
+        },
+        {
+            "id": 1,
+            "popupInfo": {
+                "title": "Allegan Township Future Land Use: {LABEL}",
+                "fieldInfos": [
+                    {
+                        "fieldName": "OBJECTID",
+                        "label": "OBJECTID",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "LABEL",
+                        "label": "LABEL",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "MASTERPLAN",
+                        "label": "MASTERPLAN",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "GlobalID",
+                        "label": "GlobalID",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Shape",
+                        "label": "Shape",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Shape.STArea()",
+                        "label": "Shape.STArea()",
+                        "tooltip": "",
+                        "visible": false,
+                        "format": {
+                            "places": 2,
+                            "digitSeparator": true
+                        },
+                        "stringFieldOption": "textbox"
+                    }
+                ],
+                "description": "Label: {LABEL}<br />Land Use: {MASTERPLAN}<br /><br /><a href='http://www.allegantownship.org/PDF/Allegan%20Township%20Master%20Plan%20Document%202016%20Update%20Draft.pdf' target='_blank'>Local Unit Link</a>",
+                "showAttachments": true,
+                "mediaInfos": []
+            },
+            "layerDefinition": {
+                "source": {
+                    "type": "mapLayer",
+                    "mapLayerId": 1
+                }
+            },
+            "name": "Allegan Twp Future Land Use",
+            "minScale": 0,
+            "maxScale": 0,
+            "parentLayerId": -1,
+            "defaultVisibility": true
+        },
+        {
+            "id": 5,
+            "popupInfo": {
+                "title": "Fennville City Future Land Use:{LABEL}",
+                "fieldInfos": [
+                    {
+                        "fieldName": "OBJECTID",
+                        "label": "OBJECTID",
+                        "isEditable": false,
+                        "visible": false
+                    },
+                    {
+                        "fieldName": "LABEL",
+                        "label": "LABEL",
+                        "isEditable": false,
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "MASTERPLAN",
+                        "label": "MASTERPLAN",
+                        "isEditable": false,
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "GlobalID",
+                        "label": "GlobalID",
+                        "isEditable": false,
+                        "visible": false
+                    },
+                    {
+                        "fieldName": "Shape",
+                        "label": "Shape",
+                        "isEditable": false,
+                        "visible": false
+                    },
+                    {
+                        "fieldName": "Shape.STArea()",
+                        "label": "Shape.STArea()",
+                        "isEditable": false,
+                        "visible": false,
+                        "format": {
+                            "places": 2,
+                            "digitSeparator": true
+                        }
+                    }
+                ],
+                "description": null,
+                "showAttachments": false,
+                "mediaInfos": []
+            },
+            "layerDefinition": {
+                "source": {
+                    "type": "mapLayer",
+                    "mapLayerId": 5
+                }
+            },
+            "name": "Fennville City Future Land Use",
+            "minScale": 0,
+            "maxScale": 0,
+            "parentLayerId": -1,
+            "defaultVisibility": true
+        },
+        {
+            "id": 2,
+            "popupInfo": {
+                "title": "Heath Township Future Land Use: {LABEL}",
+                "fieldInfos": [
+                    {
+                        "fieldName": "OBJECTID",
+                        "label": "OBJECTID",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "LABEL",
+                        "label": "LABEL",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "MASTERPLAN",
+                        "label": "MASTERPLAN",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "GlobalID",
+                        "label": "GlobalID",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Shape",
+                        "label": "Shape",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Shape.STArea()",
+                        "label": "Shape.STArea()",
+                        "tooltip": "",
+                        "visible": false,
+                        "format": {
+                            "places": 2,
+                            "digitSeparator": true
+                        },
+                        "stringFieldOption": "textbox"
+                    }
+                ],
+                "description": "Label: {LABEL}<br />Land Use: {MASTERPLAN}<br /> <br /><a href='https://www.allegancounty.org/docs/LIS/masterplanMaps/HeathTwp_FLU.pdf' target='_blank'>Recent Future Land Use Map </a><br /><br /><a href='http://www.heathtownship.net/pdf/Adopted_Heath_Twp_Final_MP.pdf' target='_blank'>Local Unit Link</a>",
+                "showAttachments": true,
+                "mediaInfos": []
+            },
+            "layerDefinition": {
+                "source": {
+                    "type": "mapLayer",
+                    "mapLayerId": 2
+                }
+            },
+            "name": "Heath Township Future Land Use",
+            "minScale": 0,
+            "maxScale": 0,
+            "parentLayerId": -1,
+            "defaultVisibility": true
+        },
+        {
+            "id": 3,
+            "popupInfo": {
+                "title": "Laketown Township Future Land Use: {LABEL}",
+                "fieldInfos": [
+                    {
+                        "fieldName": "OBJECTID",
+                        "label": "OBJECTID",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "LABEL",
+                        "label": "LABEL",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "MASTERPLAN",
+                        "label": "MASTERPLAN",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "AC_Pro_DBO_AC_Masterplan_AREA",
+                        "label": "AC_Pro.DBO.AC_Masterplan.AREA",
+                        "tooltip": "",
+                        "visible": true,
+                        "format": {
+                            "places": 2,
+                            "digitSeparator": true
+                        },
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "CLASS",
+                        "label": "CLASS",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "created_user",
+                        "label": "created_user",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "created_date",
+                        "label": "created_date",
+                        "tooltip": "",
+                        "visible": true,
+                        "format": {
+                            "dateFormat": "longMonthDayYear"
+                        },
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "last_edited_user",
+                        "label": "last_edited_user",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "last_edited_date",
+                        "label": "last_edited_date",
+                        "tooltip": "",
+                        "visible": true,
+                        "format": {
+                            "dateFormat": "longMonthDayYear"
+                        },
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Unit",
+                        "label": "Unit",
+                        "tooltip": "",
+                        "visible": true,
+                        "format": {
+                            "places": 2,
+                            "digitSeparator": true
+                        },
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "UNITNUM",
+                        "label": "UNITNUM",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "hyperlink",
+                        "label": "hyperlink",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "GlobalID",
+                        "label": "GlobalID",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Shape",
+                        "label": "Shape",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Shape.STArea()",
+                        "label": "Shape.STArea()",
+                        "tooltip": "",
+                        "visible": false,
+                        "format": {
+                            "places": 2,
+                            "digitSeparator": true
+                        },
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Shape.STLength()",
+                        "label": "Shape.STLength()",
+                        "tooltip": "",
+                        "visible": false,
+                        "format": {
+                            "places": 2,
+                            "digitSeparator": true
+                        },
+                        "stringFieldOption": "textbox"
+                    }
+                ],
+                "description": "Label: {LABEL}<br />Land Use: {MASTERPLAN}<br /><br /><a href='http://www.laketowntwp.org/wp-content/uploads/2013/07/FLU_Jun24_05-2.pdf' target='_blank'>Local Unit Link</a>",
+                "showAttachments": true,
+                "mediaInfos": []
+            },
+            "layerDefinition": {
+                "source": {
+                    "type": "mapLayer",
+                    "mapLayerId": 3
+                }
+            },
+            "name": "Laketown Township Future Land Use",
+            "minScale": 0,
+            "maxScale": 0,
+            "parentLayerId": -1,
+            "defaultVisibility": true
+        },
+        {
+            "id": 4,
+            "popupInfo": {
+                "title": "Wayland Township Future Land Use: {LABEL}",
+                "fieldInfos": [
+                    {
+                        "fieldName": "OBJECTID",
+                        "label": "OBJECTID",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "LABEL",
+                        "label": "LABEL",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "MASTERPLAN",
+                        "label": "MASTERPLAN",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "AC_Pro_DBO_AC_Masterplan_AREA",
+                        "label": "AC_Pro.DBO.AC_Masterplan.AREA",
+                        "tooltip": "",
+                        "visible": true,
+                        "format": {
+                            "places": 2,
+                            "digitSeparator": true
+                        },
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "CLASS",
+                        "label": "CLASS",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "created_user",
+                        "label": "created_user",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "created_date",
+                        "label": "created_date",
+                        "tooltip": "",
+                        "visible": true,
+                        "format": {
+                            "dateFormat": "longMonthDayYear"
+                        },
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "last_edited_user",
+                        "label": "last_edited_user",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "last_edited_date",
+                        "label": "last_edited_date",
+                        "tooltip": "",
+                        "visible": true,
+                        "format": {
+                            "dateFormat": "longMonthDayYear"
+                        },
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Unit",
+                        "label": "Unit",
+                        "tooltip": "",
+                        "visible": true,
+                        "format": {
+                            "places": 2,
+                            "digitSeparator": true
+                        },
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "UNITNUM",
+                        "label": "UNITNUM",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "hyperlink",
+                        "label": "hyperlink",
+                        "tooltip": "",
+                        "visible": true,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "GlobalID",
+                        "label": "GlobalID",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Shape",
+                        "label": "Shape",
+                        "tooltip": "",
+                        "visible": false,
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Shape.STArea()",
+                        "label": "Shape.STArea()",
+                        "tooltip": "",
+                        "visible": false,
+                        "format": {
+                            "places": 2,
+                            "digitSeparator": true
+                        },
+                        "stringFieldOption": "textbox"
+                    },
+                    {
+                        "fieldName": "Shape.STLength()",
+                        "label": "Shape.STLength()",
+                        "tooltip": "",
+                        "visible": false,
+                        "format": {
+                            "places": 2,
+                            "digitSeparator": true
+                        },
+                        "stringFieldOption": "textbox"
+                    }
+                ],
+                "description": "Label: {LABEL}<br />Land Use: {MASTERPLAN}<br /><br /><a href='http://www.waytwp.org/Adobe/Wayland%20Twp%20Masterplan%20Map-draft.pdf' target='_blank'>Local Unit Link</a>",
+                "showAttachments": true,
+                "mediaInfos": []
+            },
+            "layerDefinition": {
+                "source": {
+                    "type": "mapLayer",
+                    "mapLayerId": 4
+                }
+            },
+            "name": "Wayland Township Future Land Use",
+            "minScale": 0,
+            "maxScale": 0,
+            "parentLayerId": -1,
+            "defaultVisibility": true
+        }
+    ]
+},

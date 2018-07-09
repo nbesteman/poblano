@@ -1,0 +1,7 @@
+OBJECTID,SURFACE,Cnt_SURFACE
+1, ,515
+2,Impassible,192
+3,paved,1
+4,Paved,9323
+5,Unknown,4
+6,Unpaved,2994

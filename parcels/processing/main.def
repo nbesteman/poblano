@@ -1,0 +1,67 @@
+Include "Mapbasic.def"
+Include "Icons.def"
+Include "Menu.Def"
+Include "J:\Apps\MapBasic\Global\Definitions\Directories.def"
+Include "J:\Apps\MapBasic\Global\Definitions\Printers.def"
+
+Define QUOTE Chr$(34)
+Define BuildDir "J:\Apps\MapBasic\LIS\LayerUpdates\build\"
+Define BatDir "J:\Apps\MapBasic\LIS\LayerUpdates\bat\"
+
+'Main Buttons
+Declare Sub MAIN()
+'parcels
+Declare Sub UpdateLocalParcels()
+Declare Sub ParcelQuery()
+Declare Sub CombineParcelTables()
+Declare Sub FormatParcelTable()
+Declare Sub CreateCountyParcels()
+Declare Sub UpdateAddressesGeocode()
+Declare Sub UpdateCountyMasterplan()
+Declare Sub UpdateCountyZoning()
+Declare Sub SplitCountySplits()
+Declare Sub CombineCountySubdivisions()
+Declare Sub CombineCountySublots()
+'roads
+Declare Sub UpdateACroads()
+Declare Sub LengthCalc()
+Declare Sub RoadShade()
+Declare Sub RoadShade_BW()
+Declare Sub BackupEQParcels()
+Declare Sub MakeEQParcels()
+Declare Sub PushEQParcels()
+'universal
+Declare Sub OpenBuild()
+
+	'Road Shading Directory
+	'Used in conjunction with Road Shading.mb to shade AC_Roads
+
+'Define AC Roads Thematics
+	Define CITYMAJ		MakePen(20,2,16711680)		'City Major
+	Define CITYMIN		MakePen(20,2,16744448)		'City Minor
+	Define LCLPV		MakePen(30,2,24624)		'County Local Paved
+	Define LCLUNPV		MakePen(20,191,0)		'County Local Unpaved
+	Define LCLIMP		MakePen(20,196,0)		'County Local Impassible
+	Define COUNTYPV		MakePen(30,2,16711680)		'County Primary Paved
+	Define COUNTYUNPV	MakePen(22,201,16711680)	'County Primary Unpaved
+	Define XPRS		MakePen(26,193,16711680)	'Expressway Paved
+	Define HWY		MakePen(20,193,16711680)	'State Highway Paved
+	Define UNCL		MakePen(20,2,15774720)		'Unclassified
+
+'Define AC Roads BW Thematics
+	Define XPRS_BW			MakePen(26,193,10526880)	'Expressway Paved
+	Define HWY_BW			MakePen(20,193,10526880)	'State Highway Paved
+	Define COUNTYPV_BW		MakePen(30,2,0)			'County Primary Paved
+	Define COUNTYUNPV_BW		MakePen(30,2,8421504)		'County Primary Unpaved
+	Define LCLPV_BW			MakePen(20,2,0)			'County Local Paved
+	Define LCLUNPV_BW		MakePen(20,2,8421504)		'County Local Unpaved
+	Define LCLIMP_BW		MakePen(20,196,0)		'County Local Impassible
+	Define CITYMAJ_BW		MakePen(10,2,0)			'City Major
+	Define CITYMIN_BW		MakePen(10,2,8421504)		'City Minor
+	Define UNCL_BW			MakePen(10,2,8421504)		'Unclassified
+
+Declare Sub QAQC(sUnit as String)
+
+'Log files
+Define LOG_FILE		1
+Define QAQC_FILE        2

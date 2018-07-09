@@ -1,0 +1,22 @@
+OBJECTID,MAINTENANCE,Cnt_MAINTENANCE
+1, ,41
+2,Allegan Co Rd Comm,6669
+3,Barry Co Rd Comm,48
+4,City of Allegan,323
+5,City of Douglas,201
+6,City of Fennville,69
+7,City of Holland,406
+8,City of Otsego,238
+9,City of Plainwell,258
+10,City of Saugatuck,159
+11,City of South Haven,6
+12,City of Wayland,182
+13,Kalamazoo Co Rd Comm,13
+14,Kent Co Rd Comm,18
+15,MDOT,899
+16,Ottawa Co Rd Comm,47
+17,Private,3294
+18,"Unmaintained, non-existan",1
+19,Van Buren Co Rd Comm,42
+20,Village of Hopkins,87
+21,Village of Martin,28

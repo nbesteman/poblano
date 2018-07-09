@@ -1,0 +1,8 @@
+Edit on Pro and replicate to Pub
+Should be automatically published if done correct.
+
+Edit using 
+J:\apps\Python\LayerUpdates\zoning\processing\Zoning_Editing.mxd
+
+
+How to add a Feature template:

@@ -1,0 +1,2028 @@
+OBJECTID,FENAME,Cnt_FENAME
+1, ,174
+2,1 Cobblestone,1
+3,100th,2
+4,101st,23
+5,102nd,82
+6,103rd,32
+7,103rd/52nd Cutoff,1
+8,104th,63
+9,104th/40th Cutoff,1
+10,105th,32
+11,106th,61
+12,106th/N US 131,1
+13,107th,41
+14,108th,84
+15,109th,76
+16,109th/N I 196,1
+17,109th/S I 196,1
+18,10th,51
+19,10th/137th Cutoff (Obliterated),1
+20,110th,58
+21,111th,32
+22,112th,64
+23,113th,28
+24,114th,45
+25,115th,14
+26,116th,76
+27,116th/N US 131,1
+28,116th/S US 131,1
+29,117th,21
+30,118th,82
+31,119th,16
+32,11th,21
+33,120th,75
+34,121st,33
+35,121st/15th Cutoff,1
+36,122nd,80
+37,123rd,30
+38,124th,79
+39,124th/N I 196,1
+40,124th/N US 131,1
+41,124th/S I 196,1
+42,125th,40
+43,126th,73
+44,127th,47
+45,128th,73
+46,128th/47th Cutoff,1
+47,129th,32
+48,129th/N US 131,2
+49,12th,64
+50,12th/S US 131,2
+51,130th,56
+52,131st,20
+53,132nd,61
+54,133rd,55
+55,134th,60
+56,135th,51
+57,135th/N US 131,1
+58,135th/S US 131,1
+59,136th,97
+60,136th/63rd Cutoff,1
+61,137th,32
+62,138th,73
+63,139th,21
+64,13th,27
+65,140th,99
+66,141st,35
+67,142nd,125
+68,142nd/N US 131,1
+69,142nd/S US 131,1
+70,143rd,43
+71,144th,102
+72,145th,26
+73,146th,103
+74,147th,53
+75,14th,41
+76,15th,22
+77,16th,59
+78,17th,16
+79,18th,52
+80,19th,41
+81,1st,8
+82,2 Cobblestone,1
+83,20th,45
+84,21st,47
+85,22nd,37
+86,23rd,20
+87,24th,40
+88,25th,11
+89,26th,66
+90,27th,15
+91,28th,43
+92,29th,7
+93,2nd,54
+94,2nd Division,1
+95,30th,63
+96,31st,3
+97,32nd,129
+98,33rd,21
+99,34th,65
+100,35th,26
+101,36th,49
+102,37th,22
+103,38 1/2,1
+104,38th,51
+105,39th,25
+106,3rd,9
+107,40th,61
+108,41st,28
+109,42nd,43
+110,42nd/104th Cutoff,1
+111,42nd/Baseline Cutoff,1
+112,43rd,34
+113,44th,56
+114,45th,16
+115,46th,44
+116,46th/109th Cutoff,1
+117,47th,35
+118,48th,90
+119,49th,17
+120,4th,55
+121,50th,30
+122,51st,11
+123,52nd,58
+124,52nd/104th Cutoff,1
+125,53rd,21
+126,54th,48
+127,54th/103rd Cutoff,1
+128,55th,32
+129,56th,60
+130,56th/128th Cutoff,1
+131,57th,19
+132,58th,56
+133,59th,19
+134,5th,29
+135,60th,71
+136,61st,13
+137,62nd,60
+138,63rd,30
+139,64th,79
+140,65th,27
+141,66th,69
+142,67th,2
+143,68th,20
+144,69th,3
+145,6th,39
+146,70th,12
+147,71st,12
+148,72nd,6
+149,74th,10
+150,7th,29
+151,8th,25
+152,9th,24
+153,A,6
+154,Abandoned 118th,1
+155,Abandoned 132nd,2
+156,Abandoned Ridge,1
+157,Abbey,1
+158,Abigail,1
+159,Academy,7
+160,Acorn,6
+161,Acres,1
+162,Adams,7
+163,Advent Lake,1
+164,Agnes,2
+165,Airport,3
+166,Airview,1
+167,Airway,7
+168,Alberta,1
+169,Alchandylissag,1
+170,Alden,5
+171,Alexa,2
+172,Alexander,1
+173,Alivia,3
+174,Allan,1
+175,Allegan,52
+176,Allegan County Fair,2
+177,Allegan Dam,15
+178,Allegan Dam East BAS,4
+179,Allegan High School East Access,3
+180,Allegan High School Front Access,1
+181,Allegan High School North Access,2
+182,Allegan High School South Access,1
+183,Allegan High School West Access,4
+184,Allegan Lake BAS,1
+185,Allegan/N US 131,1
+186,Allen,4
+187,Allett,1
+188,Alley,6
+189,Alpha,2
+190,Alpine,3
+191,Alyssa,1
+192,Amash Industrial,1
+193,Amelia,3
+194,Ames,3
+195,Amity,2
+196,Ammerman,1
+197,Ampitheatre,3
+198,Ampitheatre/S Audubon Cutoff,2
+199,Anderson,13
+200,Andrea's,2
+201,Andrews,2
+202,Ann,2
+203,Anna Michen,2
+204,Anns,1
+205,Ansbury,1
+206,Anthony,2
+207,Anvil,4
+208,Apollo,10
+209,Apple,11
+210,Apple Blossom,3
+211,Apple Ridge,2
+212,Appleton,1
+213,Appy Way,2
+214,Arbor,8
+215,Arbor Creek,2
+216,Arcadia,1
+217,Ardmore,1
+218,Argon,1
+219,Ariel,2
+220,Arlene,2
+221,Armintrout Ridge,2
+222,Arndt,5
+223,Arnold,2
+224,Arrow,1
+225,Arrowhead,11
+226,Artisan Row,3
+227,Ash,1
+228,Ashland,1
+229,Ashton,1
+230,Ashville,1
+231,Aspen,3
+232,Aster,4
+233,Atkins,2
+234,Atlantic,5
+235,Audubon,18
+236,Autumn,7
+237,Autumn Crest,1
+238,Autumn Wood,5
+239,Avis,2
+240,Avon,1
+241,Avonlea,2
+242,Ayers,1
+243,B,9
+244,B J,5
+245,Babylon,16
+246,Bailey,1
+247,Bailey's Cove,3
+248,Baker,4
+249,Balmoral,1
+250,Banberry,2
+251,Bandle,2
+252,Bannister,1
+253,Bardeen,2
+254,Barnwood,3
+255,Barton,6
+256,Baseline,97
+257,Baseline Lake,1
+258,Baseline Lake BAS,3
+259,Bass,1
+260,Bauer,2
+261,Baum,1
+262,Bauman Grove,2
+263,Bay Breeze,6
+264,Bay Breeze/Winding Cutoff,1
+265,Bayberry,1
+266,Baylor,1
+267,Bayou,6
+268,Bayview,8
+269,Beach,6
+270,Beach Glass,1
+271,Beach House,1
+272,Beachview,1
+273,Bear Creek,1
+274,Bedford,2
+275,Beech,8
+276,Beechnut,5
+277,Beechwood,5
+278,Beeline,11
+279,Beethoven,6
+280,Begonia,2
+281,Belgrave,4
+282,Bellwood,3
+283,Belmont,2
+284,Ben,2
+285,Bendemeer,3
+286,Benhoy,4
+287,Benjamin,1
+288,Benny,1
+289,Bent Ridge,2
+290,Beretta,1
+291,Beth,2
+292,Beverly,1
+293,Big Lake,2
+294,Big Lake BAS,1
+295,Big Sable,2
+296,Big Timber,5
+297,Birch,5
+298,Birchmoor,1
+299,Birchwood,4
+300,Birds Nest,1
+301,Birmingham,2
+302,Biscayne,2
+303,Blackstone,2
+304,Blake,2
+305,Blarney,1
+306,Bliss,2
+307,Bloomfield,2
+308,Blue Goose,3
+309,Blue Jay,2
+310,Blue Sky,1
+311,Blue Spruce,6
+312,Blue Star,175
+313,Blue Star/N I 196,6
+314,Blue Star/S I 196,5
+315,Blue Water,1
+316,Blueberry Pine,2
+317,Bluebird,4
+318,Bluegill,2
+319,Bluff,3
+320,Bluff Creek,1
+321,Boardwalk,6
+322,Bode'Wadmi,2
+323,Bolks,3
+324,Bond,4
+325,Boot Lake Ridge,3
+326,Booth,1
+327,Bordeaux,1
+328,Bosek,1
+329,Boulder,7
+330,Box Canyon,2
+331,Boysen,8
+332,Braden,2
+333,Bradley,4
+334,Brady,2
+335,Braeden,1
+336,Bramblewood,5
+337,Brandon,1
+338,Brandy,1
+339,Breanna's,2
+340,Breezy Point,1
+341,Breezy Ty,1
+342,Brenda,1
+343,Brenner,1
+344,Brentwood,3
+345,Brianne,1
+346,Briarlane,2
+347,Briarwood,2
+348,Bridge,50
+349,Bridges Acres,2
+350,Bridgeview,1
+351,Briggs,6
+352,Brigham,6
+353,Brighton,4
+354,Brinn Vista,1
+355,Brittany,3
+356,Broad,5
+357,Bronson,2
+358,Brook,1
+359,Brook Point,1
+360,Brook Village,4
+361,Brookfield,3
+362,Brookhill,3
+363,Brooks,1
+364,Brookside,5
+365,Brookside/Dix Cutoff,1
+366,Brookstone,2
+367,Browning,5
+368,Brownstone,1
+369,Bruce,1
+370,Bryans,1
+371,Bryant,2
+372,Buck Trail,1
+373,Buckingham,9
+374,Buena Vista,3
+375,Burgess Bay,1
+376,Burton,2
+377,Bushon,1
+378,Butler,9
+379,Buttercup,1
+380,Butternut,5
+381,Bysterveld County Park,2
+382,C,2
+383,Cabill,1
+384,Calgary,4
+385,Calkins,1
+386,Cambridge,2
+387,Camellia,6
+388,Camelot,1
+389,Cameron,2
+390,Camille,1
+391,Campbell,4
+392,Candlelight,3
+393,Cannonball,2
+394,Canopy,1
+395,Canter,4
+396,Cardinal,1
+397,Cardinal Points,2
+398,Carl,2
+399,Carlson,1
+400,Carlton,2
+401,Carousel,1
+402,Carrie,3
+403,Castle,6
+404,Castle Ridge,2
+405,Castleview,1
+406,Casual,1
+407,Catfish,1
+408,Catherine,3
+409,Cattail,2
+410,Cedar,22
+411,Cedar Square,1
+412,Cemetery,2
+413,Centennial,3
+414,Centennial Oak,1
+415,Center,28
+416,Central,16
+417,Centre,3
+418,Century,3
+419,Chalmers,2
+420,Chappell,6
+421,Charity,2
+422,Charles,10
+423,Charleston,3
+424,Chart,8
+425,Chase Farm,2
+426,Chatham,1
+427,Chautauqua Ridge,2
+428,Cheetah,2
+429,Chelsea,5
+430,Cherokee,8
+431,Cherry,38
+432,Cherryland,4
+433,Cherrywood,2
+434,Chestnut,12
+435,Chicory,2
+436,Chippewa,5
+437,Christopher,3
+438,Church,13
+439,Cider Hill,2
+440,Cidermill,1
+441,Cimarron,1
+442,Circle,2
+443,Circuit,2
+444,Clan Alpine,3
+445,Clara,1
+446,Claremont,1
+447,Clareridge,2
+448,Clarewood,4
+449,Clark,9
+450,Clearbrook,10
+451,Clearbrook Green,1
+452,Clearview,2
+453,Cleo,1
+454,Closed Taft,1
+455,Clover,1
+456,Cloverfield,1
+457,Clubhouse,1
+458,Clyde,2
+459,Cobblestone,4
+460,Colfax,6
+461,College,6
+462,Colonial,6
+463,Columbia,7
+464,Columbine,1
+465,Colver,1
+466,Commerce,4
+467,Comstock,2
+468,Conference,6
+469,Conklin,1
+470,Conley,3
+471,Cook,1
+472,Cooke Farm,3
+473,Coppice,2
+474,Cora,2
+475,Corey,2
+476,Cornflower,1
+477,Cortez,4
+478,Cottage,5
+479,Cottontail,4
+480,Cottonwood,5
+481,Country,4
+482,Country Club,2
+483,Country Ridge,2
+484,Countryair,2
+485,Countryview,2
+486,County Road 653,1
+487,Court,6
+488,Courtney,2
+489,Covault,1
+490,Cove,9
+491,Coyote,1
+492,Coyote Point,2
+493,Cranberry,1
+494,Crane,1
+495,Cranville,5
+496,Crawford,1
+497,Creeekwood,1
+498,Creekridge,3
+499,Creekside,10
+500,Creekview,2
+501,Creekwood,9
+502,Crescent,9
+503,Crest,2
+504,Creston,3
+505,Crestridge,2
+506,Crestview,4
+507,Crestwood,2
+508,Critchfield,1
+509,Cross,1
+510,Cross Oaks,4
+511,Crossroad,1
+512,Crosswind,1
+513,Crows Nest,3
+514,Crystal,1
+515,Crystal Cove,2
+516,Culver,3
+517,Cumberland,3
+518,Cuper,3
+519,Curt,2
+520,Curtis,1
+521,Cushman,1
+522,Cutlass,2
+523,Cutler,5
+524,Cutting Industrial,1
+525,Cygnet,2
+526,Cypress,1
+527,Daffodil,3
+528,Dahlia,7
+529,Daisy,3
+530,Dale,4
+531,Dalton Ridge,2
+532,Damal,5
+533,Dana,2
+534,Danby,1
+535,Daniel,1
+536,Danielle,2
+537,Danz's,1
+538,Darling,1
+539,Davis,7
+540,Davoren,1
+541,Day,1
+542,Dead End,1
+543,Deannie,1
+544,Deep Forest,3
+545,Deep Woods Bayou,1
+546,Deer,5
+547,Deer Fly,1
+548,Deer Meadow,1
+549,Deer Path,1
+550,Deer Point,5
+551,Deer Run,7
+552,Deer Valley,1
+553,Deerfield,16
+554,Deerfield/Deerfield Cutoff,1
+555,Deerview,4
+556,Delano,14
+557,Delete,46
+558,DELETE,5
+559,Della,1
+560,Denali,1
+561,Dennis,5
+562,Depot Hill,2
+563,Destin,2
+564,Devon,2
+565,Diamond,3
+566,Dillingham,2
+567,Dilly's,1
+568,Discovery,3
+569,Division,30
+570,Dix,13
+571,Dix Street Elemetary Access,1
+572,Dodges,1
+573,Dogwood,4
+574,Dolphin,1
+575,Donald,1
+576,Dorothy,6
+577,Dorr Commerce,1
+578,Dory,2
+579,Doster,21
+580,Double Eagle,1
+581,Douglas,3
+582,Dover,11
+583,Dover Industrial,1
+584,Downing,3
+585,Drake,1
+586,Drew,2
+587,Drive,2
+588,Ducharme,1
+589,Duck Lake BAS,2
+590,Dugout,2
+591,Dumont,9
+592,Dumont Lake,7
+593,Dumont Lake BAS,2
+594,Dumont Lake County Park,1
+595,Dune View,1
+596,Dutch Acres,5
+597,Dwight,1
+598,Dylan,3
+599,E I 196,24
+600,E I 196/M 40,3
+601,Eagle,2
+602,Eagle Crest,1
+603,Eagle Greens,4
+604,Eagle Lake,2
+605,Eagle Point,2
+606,Earl,1
+607,East,6
+608,East Baseline Lake,5
+609,East Lake,4
+610,East Shore,3
+611,East Stoneridge,2
+612,Eastern,11
+613,Easy,2
+614,Eaton,1
+615,Echo,1
+616,Edgehill,1
+617,Edgewater,5
+618,Edgewood,1
+619,Edmonton,3
+620,Edsell,1
+621,Edson,2
+622,Edward,1
+623,Edwards,4
+624,Edy,1
+625,Electric,4
+626,Electron,1
+627,Eley,5
+628,Elizabeth,14
+629,Ell,2
+630,Ellis,3
+631,Elm,30
+632,Elm Tree,1
+633,Elmwood,1
+634,Elsie,1
+635,Ely,11
+636,Embo,1
+637,Emerald,1
+638,Emergency Access,1
+639,Emergency Beach Access,2
+640,Emma,2
+641,Emmons,1
+642,Enterprise,1
+643,Euclid,5
+644,Evergreen,4
+645,Excalibur,1
+646,Fabun,6
+647,Fair,7
+648,Fair Haven,2
+649,Fairlane,6
+650,Fairview,4
+651,Fairway,8
+652,Falcon,1
+653,Falconshire,1
+654,Fallbrook,2
+655,Fallen Leaf,3
+656,Far Hill,2
+657,Fareed,1
+658,Farmer,17
+659,Farmer/Washington Cutoff,1
+660,Farmview,5
+661,Fawn,5
+662,Fawnbrooke,2
+663,Fawnsrest,1
+664,Fenner Lake,2
+665,Fennville,6
+666,Fenwick,2
+667,Fern,3
+668,Ferndell,5
+669,Ferry,6
+670,Fiddlers,4
+671,Field Stone,2
+672,Fillmore,6
+673,Fireside,2
+674,First,13
+675,First Division,1
+676,Flamingo,1
+677,Flora Glynn,1
+678,Floral,2
+679,Floralwood,1
+680,Florence,5
+681,Florida,1
+682,Folly Beach,1
+683,Foote,1
+684,Forbes,1
+685,Forest,5
+686,Forest Beach,3
+687,Forest Cove,1
+688,Forest Haven,2
+689,Forest Ridge,2
+690,Forest Trail,2
+691,Forest View,1
+692,Forgotten,1
+693,Former Bannister,1
+694,Former Bridge,1
+695,Former Main,1
+696,Former Mill District,1
+697,Forrest,7
+698,Foster,1
+699,Fountain View,3
+700,Four Oaks,1
+701,Fourth,3
+702,Fox,8
+703,Fox Hill,3
+704,Fox Mountain,1
+705,Fox Ridge,1
+706,Fox Run,2
+707,Foxmoor,1
+708,Foxtrail,1
+709,Foxwood,2
+710,Francis,6
+711,Frank,6
+712,Franklin,14
+713,Frederick,2
+714,Fremont,9
+715,Friesian,1
+716,Front,2
+717,Frontier,2
+718,Fulham,1
+719,Fuller,1
+720,Fulton,6
+721,Fursman,1
+722,Future Yamoto,1
+723,Gainder,2
+724,Garandana,1
+725,Garden,9
+726,Garfield,3
+727,Gaslight,1
+728,Gates Corner,1
+729,Gateway,11
+730,Gauri Ma,1
+731,Gayhart,1
+732,Gene,8
+733,Geneva,4
+734,Geneva Lake,5
+735,Gerber,1
+736,Gerhardt,1
+737,Geurink,1
+738,Gilkey,3
+739,Gilpin,1
+740,Ginny,1
+741,Gladys,3
+742,Glascow Grove,4
+743,Glasgow,3
+744,Gleason,2
+745,Glen Cree,4
+746,Glendale,1
+747,Glenn,2
+748,Glenn Oaks,4
+749,Glenn Rest Area,4
+750,Glennview,2
+751,Glenview,4
+752,Gloucester,1
+753,Golden Oaks,1
+754,Golf Circle,2
+755,Golf Mere,6
+756,Golf View,3
+757,Golfview,7
+758,Goodell,3
+759,Goodrich,1
+760,Goodsell,2
+761,Goodwin,2
+762,Gordon,1
+763,Goshorn Lake,1
+764,Goshorn Way,2
+765,Graafschap,8
+766,Grand,19
+767,Grand Ravine,4
+768,Grand Tranverse,1
+769,Grandview,4
+770,Grant,29
+771,Grape,2
+772,Gray,1
+773,Gray Fox,4
+774,Graystone,3
+775,Green,1
+776,Green Meadow,6
+777,Green Pointe Center,1
+778,Green Ridge,10
+779,Green View,5
+780,Greenfield,6
+781,Greensview,2
+782,Greggery,1
+783,Gregor,1
+784,Gregorville,8
+785,Griffith,6
+786,Griswold,5
+787,Grooming,1
+788,Grove,10
+789,Gun River,7
+790,H,1
+791,Haas,4
+792,Hackel,3
+793,Hacker,1
+794,Hacklander BAS,2
+795,Halcyon,1
+796,Halifax,1
+797,Hambley,1
+798,Hamilton,6
+799,Hammond,10
+800,Hanlon,1
+801,Hanson,1
+802,Happy Hollow,1
+803,Happy Hour,1
+804,Harbor,5
+805,Harbors Lake,2
+806,Harborview,4
+807,Hardwood,1
+808,Hare,1
+809,Harley,1
+810,Harmony,3
+811,Harold,2
+812,Harris,3
+813,Harrison,1
+814,Harter,1
+815,Harvest,4
+816,Harvest Haven,1
+817,Harvestway,6
+818,Hastings,1
+819,Hawksnest,2
+820,Haworth Center,3
+821,Hawthorn,3
+822,Hawthorne,3
+823,Hayes,3
+824,Hazelwood,5
+825,He Loses,1
+826,Heather,2
+827,Heather Hill,1
+828,Heather Hills,3
+829,Heathridge,2
+830,Hedcor,2
+831,Hedgestone,3
+832,Heirloom,1
+833,Helen,5
+834,Helenjoy,1
+835,Helens,2
+836,Helmer,1
+837,Hemlock,6
+838,Henry,1
+839,Herbert,1
+840,Heritage,3
+841,Heritage Meadow,8
+842,Heritage South,1
+843,Herkimer,4
+844,Herlan Lake,2
+845,Heron,1
+846,Heron Bay,2
+847,Heron Creek,1
+848,Heron Ridge,2
+849,Hestia,1
+850,Hi Lo,2
+851,Hickory,12
+852,Hickory View,2
+853,Hicks,6
+854,Hidden Creek,3
+855,Hidden Dunes,1
+856,Hidden Forest,4
+857,Hidden Hollow,2
+858,Hidden Lake,1
+859,Hidden Lane,1
+860,Hidden Meadow,1
+861,Hidden Meadows,1
+862,Hidden Ponds,6
+863,Hidden River,1
+864,Hide-A-Way,1
+865,Hide Away,1
+866,High Shores,2
+867,Highbanks,3
+868,Highfield Beach,3
+869,Highland,14
+870,Highpointe,5
+871,Hilda,1
+872,Hill,15
+873,Hill Lake,1
+874,Hillcrest,10
+875,Hillside,5
+876,Hilltop,10
+877,Hilltop View,3
+878,Hobbs,1
+879,Hoffman,7
+880,Hoffmaster,3
+881,Hogback,2
+882,Holiday,3
+883,Holland,12
+884,Hollow,1
+885,Holly,2
+886,Holly Creek,4
+887,Holly Field,1
+888,Home,3
+889,Homer,4
+890,Homestead,7
+891,Hooker,8
+892,Hooter,1
+893,Hopkins Elementary School Access,2
+894,Hopkins High School Access,1
+895,Horseshoe,10
+896,Howard,8
+897,Hubbard,10
+898,Huber,1
+899,Hudson,2
+900,Hughes,1
+901,Hummingbird,1
+902,Hunters,4
+903,Hunters Creek,1
+904,Hunters Glen,6
+905,Hunters Ridge,2
+906,Huntington,1
+907,Huron,4
+908,Hutchins Lake,2
+909,Hyder Circle,3
+910,Hynes,2
+911,I 196 Crossover,20
+912,Ida,2
+913,Idaho,1
+914,Illinois,1
+915,Imperial Point,1
+916,Indian,4
+917,Indian Acres MHP,6
+918,Indian Lake,2
+919,Indian Pipe,3
+920,Indian Point,3
+921,Indiana,2
+922,Indianapolis,1
+923,Industrial,10
+924,Industrial Park,2
+925,Ingle,2
+926,Interchange,8
+927,Interlaken,1
+928,Irene,1
+929,Iron Works,1
+930,Ironwood,1
+931,Iroquois,25
+932,Iroquois/Cove Cutoff,1
+933,Iroquois/Ottawa Cutoff,1
+934,Irving,5
+935,Island,1
+936,Island Lake,3
+937,Island View,5
+938,J,2
+939,Jack Pine,3
+940,Jack Rabbit,3
+941,Jack Wilson,1
+942,Jackson,1
+943,Jakes,1
+944,James,12
+945,Jane,1
+946,Janet,5
+947,Janice,2
+948,Jansen Woods,1
+949,Jasmine,2
+950,Jaycee Park,1
+951,Jeff's,1
+952,Jefferson,18
+953,Jeffrey,5
+954,Jenner,5
+955,Jennifer,3
+956,Jennings,1
+957,Jenny,1
+958,Jersey,5
+959,Jewell,1
+960,Joan,6
+961,Joels,1
+962,John,1
+963,Johnson,1
+964,Jolly Roger,1
+965,Joseph,1
+966,Josie,2
+967,Joyce,1
+968,Julia,5
+969,June,6
+970,Jupiter,1
+971,Justin,4
+972,Kalamazoo,24
+973,Kalamazoo/South Shore Cutoff,2
+974,Kandel,3
+975,Karen,3
+976,Katherine,5
+977,Katheryne,1
+978,Kathy,1
+979,Kay,9
+980,Kaywood,1
+981,Keewatin,2
+982,Keith,3
+983,Kellamie,3
+984,Kelly Creek,2
+985,Kemp,1
+986,Ken J,1
+987,Kenneth,2
+988,Kenny's,1
+989,Kensington,6
+990,Kensington Park,4
+991,Kenwood,2
+992,Keppel,2
+993,Kester,1
+994,Keystone,3
+995,Kiella,1
+996,Kiess,1
+997,Kim,2
+998,Kimbel,1
+999,Kimber,5
+1000,Kimberly,2
+1001,King,2
+1002,Kingfisher Cove,1
+1003,Kings,2
+1004,Kingsway,2
+1005,Kinney,2
+1006,Kirkview,2
+1007,Kirkwell,1
+1008,Kittyhawk,1
+1009,Klingenmeyer,1
+1010,Knapp,4
+1011,Knight,1
+1012,Knowlcrest,1
+1013,Kooiker,1
+1014,Koops,1
+1015,Kooyers,1
+1016,Koteras,2
+1017,Kottler,1
+1018,Kricky,1
+1019,Kruz Kountry,1
+1020,Kuperus,2
+1021,Kupres Creek,1
+1022,Kyle,1
+1023,La Rochelle,2
+1024,La Salle,1
+1025,Labrador,1
+1026,Ladd,1
+1027,Lady Bug,1
+1028,Lafayette,1
+1029,Lagoon,2
+1030,Lake,37
+1031,Lake Allegan,2
+1032,Lake Breeze,2
+1033,Lake Effect,2
+1034,Lake Forest,6
+1035,Lake Geneva,3
+1036,Lake Michigan,8
+1037,Lake Ridge,4
+1038,Lake Shore,6
+1039,Lake Shore Dr,1
+1040,Lake Sixteen,3
+1041,Lake Trail,1
+1042,Lake View,1
+1043,Lake Woods,1
+1044,Lakeland,1
+1045,Lakeshore,50
+1046,Lakeside,5
+1047,Laketown,3
+1048,Lakeview,18
+1049,Lakewood,2
+1050,Lakewood Shores,2
+1051,Lamar,2
+1052,Landsburg,2
+1053,Lane,3
+1054,Lantern Watch,3
+1055,Laraway,2
+1056,Larry,2
+1057,LaRue,3
+1058,Lauder,1
+1059,Laura,4
+1060,Lauren,1
+1061,Laurence,2
+1062,Lawn,2
+1063,Lawrence,12
+1064,Le Boeuf,1
+1065,Le Vine,1
+1066,Leafy,1
+1067,Leap Frog,1
+1068,Lebarre,1
+1069,Lee,4
+1070,Leeds,1
+1071,Legacy Woods,1
+1072,Leighton Lakes,2
+1073,Leisure,11
+1074,Leo's,2
+1075,Leon,2
+1076,Lesa,2
+1077,Lester Lake,1
+1078,Leverich,2
+1079,Lewis,1
+1080,Liberty,4
+1081,Lighthouse,5
+1082,Lilac,9
+1083,Liland,1
+1084,Lillie,2
+1085,Lilly,2
+1086,Lily,1
+1087,Lilypad,1
+1088,Limberlost,2
+1089,Lincoln,146
+1090,Lincolnshire,4
+1091,Linda,1
+1092,Linn,6
+1093,Lisa,3
+1094,Litchfield,7
+1095,Little Diamond,1
+1096,Little Sable,3
+1097,LittleJohn Lake,1
+1098,Liverpool,1
+1099,Livvie,1
+1100,Locust,14
+1101,Locust Grove,1
+1102,Loew,1
+1103,Loew Hills,1
+1104,Logan,2
+1105,Lohman,2
+1106,Lois,1
+1107,London,1
+1108,Lone Oak,6
+1109,Lone Pine,1
+1110,Long,1
+1111,Longfellow,4
+1112,Longview,2
+1113,Lorene,1
+1114,Lorna,1
+1115,Lorraine,4
+1116,Lorrimar,1
+1117,Lou,1
+1118,Lovers,2
+1119,Lowe,3
+1120,Luciel,2
+1121,Lucielle,1
+1122,Lucy,2
+1123,Lugers,6
+1124,Lynn,1
+1125,M,1
+1126,M-40/E I-196,1
+1127,M 40,41
+1128,M 40/E I 196,2
+1129,M 40/W I 196,3
+1130,M 89,29
+1131,M 89/S US 131,1
+1132,M Brown,2
+1133,Maas,2
+1134,Mac,1
+1135,MacAlpine,3
+1136,MacBeth,2
+1137,Macdougall,2
+1138,MacDougall,3
+1139,Mackenzie,1
+1140,Main,107
+1141,Maize,1
+1142,Maksaba,5
+1143,Mallard,4
+1144,Manchester,5
+1145,Mandan,3
+1146,Manitoba,3
+1147,Mankin,2
+1148,Manlius,2
+1149,Manncreek,4
+1150,Manor,2
+1151,Maple,75
+1152,Maple Gate,2
+1153,Maple Greens,1
+1154,Maple Lake,2
+1155,Maple Lane,1
+1156,Maple Leaf,2
+1157,Maple Woods,1
+1158,Maraleighde,1
+1159,Marcia,2
+1160,Margaret,5
+1161,Mariette,1
+1162,Mariners Cove,1
+1163,Marion,1
+1164,Markus Glen,2
+1165,Marlo,1
+1166,Marsh,11
+1167,Marshall,18
+1168,Martha,1
+1169,Martin,4
+1170,Marty,2
+1171,Marvin,1
+1172,Mary,18
+1173,Mary Knoll,1
+1174,Mary Lynn,1
+1175,Mary Rd Eagle Lake Access,1
+1176,Mason,11
+1177,Masters,3
+1178,Matehuala,1
+1179,Matt Urban,1
+1180,Maxwell,1
+1181,May,6
+1182,Maywood,1
+1183,Mazzie,1
+1184,McCreery,1
+1185,McKinley,2
+1186,McMullan,1
+1187,McVea,2
+1188,Meade,2
+1189,Meadow,13
+1190,Meadow Creek,3
+1191,Meadow Pond,1
+1192,Meadow Wood,2
+1193,Meadowbrook,3
+1194,Meadowlark,2
+1195,Medie,2
+1196,Medlock,1
+1197,Megan,1
+1198,Melanie,1
+1199,Melodee Park,1
+1200,Melody,2
+1201,Melrose,1
+1202,Melville,1
+1203,Melvin,2
+1204,Mercury,2
+1205,Merson,1
+1206,Mesa,2
+1207,Metcalf's,3
+1208,Mexico,1
+1209,Meyer,3
+1210,Mia,1
+1211,Miami,3
+1212,Michele,1
+1213,Michigan,6
+1214,Middle,2
+1215,Midlakes,4
+1216,Midway,4
+1217,Mildred,1
+1218,Mill,5
+1219,Mill District,3
+1220,Millbridge,2
+1221,Miller,19
+1222,Millers,1
+1223,Millstone,4
+1224,Miner,2
+1225,Miner Lake,2
+1226,Miner Lake BAS,1
+1227,Minkler,2
+1228,Minkler Lake,2
+1229,Mishawaka,1
+1230,Mitchell,6
+1231,Mixer,3
+1232,Mohawk,11
+1233,Mollie,1
+1234,Monroe,32
+1235,Monterey Bay,2
+1236,Monterey Lake,12
+1237,Montrose,3
+1238,Moon,1
+1239,Moore,9
+1240,Morning Dew,1
+1241,Morning Glory,2
+1242,Morrell,14
+1243,Morren,5
+1244,Morrison,1
+1245,Morter,1
+1246,Mosley,1
+1247,Mossy Oak,1
+1248,Mountain Ash,1
+1249,Mozart,1
+1250,Mulberry,1
+1251,Mulder,1
+1252,Mulderink,2
+1253,Muriel,5
+1254,Murphy,3
+1255,My,1
+1256,Myrtle,3
+1257,N I 196,66
+1258,N I 196/109th,1
+1259,N I 196/124th,1
+1260,N I 196/Blue Star,5
+1261,N I 196/North Shore,1
+1262,N I 196/S Blue Star,1
+1263,N US 131,74
+1264,N US 131/116th,1
+1265,N US 131/124th,1
+1266,N US 131/129th,1
+1267,N US 131/135th,1
+1268,N US 131/142nd,1
+1269,N US 131/E Allegan,1
+1270,N US 131/E M 89,1
+1271,N US 131/W Allegan,1
+1272,N US 31,18
+1273,N US 31 BR,1
+1274,N US 31/Washington,1
+1275,Nadeau,2
+1276,Nahant,1
+1277,Naman,2
+1278,Nantucket,4
+1279,Naomi,4
+1280,Nate,2
+1281,Natilyn,2
+1282,Nature View,4
+1283,Nellie,3
+1284,Nelson,3
+1285,New Richmond BAS,4
+1286,New Richmond Bridge,5
+1287,Newell,2
+1288,Newman,1
+1289,Newnham,1
+1290,Newport,2
+1291,Nicholas,1
+1292,Nichols,1
+1293,Nicholson,2
+1294,Nicole,1
+1295,Nicolson,7
+1296,Nodding Pine,4
+1297,Nolan,1
+1298,Nop,2
+1299,Norcrest,2
+1300,Normandy,1
+1301,North,27
+1302,North Lake,8
+1303,North Lake BAS,1
+1304,North Memorial,2
+1305,North Miller Lake,2
+1306,North Point,2
+1307,North Shore,24
+1308,North Shore/N I 196,1
+1309,North Shore/S I 196,3
+1310,North Spur,2
+1311,North Stoneridge,3
+1312,North Vista,2
+1313,Northgate,1
+1314,Northshore,1
+1315,Northview,3
+1316,Northwest Shore,1
+1317,Nottingham,2
+1318,Novi,1
+1319,Nuthatch,2
+1320,O'Sullivan,1
+1321,O D,1
+1322,Oak,20
+1323,Oak Creek,1
+1324,Oak Hills,2
+1325,Oak Hollow,2
+1326,Oak Leaf,1
+1327,Oak Ridge,6
+1328,Oak Tree,1
+1329,Oak Valley,1
+1330,Oakdale,2
+1331,Oakhurst,2
+1332,Oakland Hills,7
+1333,Oakley,2
+1334,Oakridge,3
+1335,Oaks Crossing,2
+1336,Oakwood,4
+1337,Obliterated 68th/114th Cutoff,1
+1338,Obliterated Blue Star,1
+1339,Odawa,1
+1340,Ojibwa,3
+1341,Okemos,1
+1342,Old 129th,1
+1343,Old Allegan,48
+1344,Old Allegan Otsego,1
+1345,Old Garden,1
+1346,Old Interurban,1
+1347,Old M 40,1
+1348,Old Mill,2
+1349,Old Owl,6
+1350,Old Pine,2
+1351,Old Silo,2
+1352,Old Singapore,2
+1353,Old Walnut,1
+1354,Olive,1
+1355,Oneida,8
+1356,Orchard,11
+1357,Orchard Lake,12
+1358,Orchard Valley,1
+1359,Orchard View,1
+1360,Oriole,4
+1361,Orleans,7
+1362,Otis,10
+1363,Ototeman,3
+1364,Ottawa,22
+1365,Ottogan,43
+1366,Otuna,5
+1367,Outlook,2
+1368,Oval,3
+1369,Overlook,6
+1370,Owen,1
+1371,Oxford,4
+1372,Pacific,3
+1373,Padgham,1
+1374,Palmer,7
+1375,Palmetto,2
+1376,Papoose,1
+1377,Par Four,2
+1378,Paradise,3
+1379,Paris Ridge,1
+1380,Pariso Oved,2
+1381,Park,50
+1382,Park Drive,1
+1383,Parker,1
+1384,Parkside,2
+1385,Parkway,5
+1386,Partridge,2
+1387,Pasture,1
+1388,Patterson,75
+1389,Patti,2
+1390,Paul,1
+1391,Paula,1
+1392,Pauline,2
+1393,Payton,1
+1394,Peach,13
+1395,Peach Creek,5
+1396,Pear,1
+1397,Pearl,5
+1398,Penashi,1
+1399,Peninsula,1
+1400,Penn Central,1
+1401,Penn Crossing,1
+1402,Penny,2
+1403,Peony,5
+1404,Pepper,1
+1405,Pepper Brooke,2
+1406,Perales,1
+1407,Perch,3
+1408,Perry,1
+1409,Perryman,5
+1410,Pershing,3
+1411,Peterson,4
+1412,Petoskey,2
+1413,Petunia,3
+1414,Phase 6 Entrance,1
+1415,Pheasant Run,2
+1416,Phoenix,2
+1417,Pickeral,1
+1418,Pickwick,1
+1419,Pier Cove,1
+1420,Pierce,1
+1421,Pike,1
+1422,Pike Lake,2
+1423,Pike Lake BAS,1
+1424,Pine,30
+1425,Pine Cone,7
+1426,Pine Creek,1
+1427,Pine Creek BAS,1
+1428,Pine Hill,1
+1429,Pine Hollow,2
+1430,Pine Island,1
+1431,Pine Place,2
+1432,Pine Ridge,5
+1433,Pine River,1
+1434,Pine Trail,2
+1435,Pine Tree,7
+1436,Pinecrest,1
+1437,Pinegrove,2
+1438,Pineview,2
+1439,Pinewood,2
+1440,Pinnacle,4
+1441,Pioneer,5
+1442,Pipp Hospital Access,2
+1443,Plainwell,6
+1444,Platt,5
+1445,Pleasant,3
+1446,Pleasant Ridge,2
+1447,Pleasantview,5
+1448,Plum,7
+1449,Plummer Park,1
+1450,Plummerville,2
+1451,Plymouth,2
+1452,Point-of-View,3
+1453,Point Betsie,6
+1454,Ponderosa,7
+1455,Pontiac,6
+1456,Pony,1
+1457,Poplar Ridge,2
+1458,Pottawatomie,1
+1459,Pottawatomie Ridge,3
+1460,Potwyne,1
+1461,Prairie,4
+1462,Prairiewood,5
+1463,Pratt Lake,2
+1464,Presbyterian Camps,1
+1465,Preservation,5
+1466,Prestwick,3
+1467,Primrose,1
+1468,Prince,5
+1469,Pritchard,1
+1470,Productions,5
+1471,Proline,2
+1472,Proposed Singapore Dunes,7
+1473,Prospect,3
+1474,Pullin,1
+1475,Pullman,5
+1476,Pulver,1
+1477,Quade,1
+1478,Quail Run,1
+1479,Quebec,4
+1480,Queensway,1
+1481,Quiet Cove,1
+1482,Quilters,1
+1483,Rabbit Ridge,1
+1484,Rabbit River,16
+1485,Rabbit River Farms,1
+1486,Race,3
+1487,Radstock,5
+1488,Railroad,4
+1489,Railside,9
+1490,Ramblewood,1
+1491,Ranchero,6
+1492,Randall,1
+1493,Randolph,7
+1494,Ratcliff,1
+1495,Ravenswood,2
+1496,Ravine,15
+1497,Ravines,1
+1498,Ravinna,1
+1499,Raylynn,1
+1500,Raymond,3
+1501,Raynes,2
+1502,Recreation,2
+1503,Red Fox,3
+1504,Red Oak,2
+1505,Red Pine,3
+1506,Red Run,2
+1507,Redman,1
+1508,Redwood,1
+1509,Regent,7
+1510,Regina,3
+1511,Reimink,1
+1512,Remington,4
+1513,Reno,6
+1514,Reserve,2
+1515,Retreat,1
+1516,Revs,1
+1517,Reynolds,2
+1518,Rhonda,3
+1519,Rice,1
+1520,Richards,1
+1521,Richardson,3
+1522,Richelieu,5
+1523,Richland,2
+1524,Ridge,6
+1525,Ridgeview,4
+1526,Ridgeway,2
+1527,Ridgewood,1
+1528,River,36
+1529,River Lane,2
+1530,River Ledge,2
+1531,River Ridge,13
+1532,Riverbend,5
+1533,Riverbluff,7
+1534,Riverfront,1
+1535,Rivers Edge,2
+1536,Riverside,22
+1537,Riverview,14
+1538,Riverview Park,2
+1539,Riverwalk,5
+1540,Roberts,2
+1541,Robin,1
+1542,Robinson,4
+1543,Rockwood,3
+1544,Roger,1
+1545,Rolling,3
+1546,Rolling Hills,2
+1547,Rolling Meadows,2
+1548,Rolling Oaks,3
+1549,Rolling Ridge,2
+1550,Rollingview,2
+1551,Ronalds,7
+1552,Rookus,3
+1553,Rosco,1
+1554,Rose,5
+1555,Rose Bud,1
+1556,Rosewood,7
+1557,Round Lake,18
+1558,Royce,1
+1559,Ruby,9
+1560,Rupprecht,3
+1561,Rushing,3
+1562,Russcher,5
+1563,Russell,6
+1564,Russet,2
+1565,Russon,1
+1566,Rustic,2
+1567,Rustic Ridge,1
+1568,Ryan,1
+1569,Ryan Ridge,4
+1570,Ryan Woods,9
+1571,Ryder,1
+1572,Rymore Wood,2
+1573,S I 196,70
+1574,S I 196/109th,1
+1575,S I 196/124th,1
+1576,S I 196/Blue Star,4
+1577,S I 196/North Shore,1
+1578,S US 131,71
+1579,S US 131/106th,1
+1580,S US 131/116th,1
+1581,S US 131/12th,3
+1582,S US 131/135th,1
+1583,S US 131/142nd,1
+1584,S US 131/E Allegan,1
+1585,S US 131/W M 89,1
+1586,S US 31,16
+1587,S US 31 BR,3
+1588,S US 31/Bus US 31,1
+1589,S US 31/Washington,2
+1590,Sagewood,3
+1591,Sailview,5
+1592,Saint Peters,2
+1593,Saint Sebina,1
+1594,Salem,4
+1595,Sambroek,4
+1596,Samuel,1
+1597,Sanctuary,4
+1598,Sand Castle View,2
+1599,Sand Creek,1
+1600,Sandcastle,2
+1601,Sandra,2
+1602,Sandra Kay,2
+1603,Sandy,2
+1604,Sandy Beach,1
+1605,Sandy Pines,1
+1606,Sandy Ridge,8
+1607,Sandy View,1
+1608,Sara,1
+1609,Sarah,2
+1610,Saskatoon,1
+1611,Sassafras,4
+1612,Saturn,4
+1613,Saugatuck Dunes Park,1
+1614,Saugatuck Dunes State Park,2
+1615,Saugatuck Rest Area,6
+1616,Sauk,4
+1617,Scarborough,2
+1618,Scenic,5
+1619,Scenic Shores,1
+1620,Scenic Turn,3
+1621,Scenic View,2
+1622,Schaffer,1
+1623,Schanz,4
+1624,Schermerhorn Lake,5
+1625,School,5
+1626,Schoolhouse,1
+1627,Schultz Park,4
+1628,Schultz Park Boat Launch,5
+1629,Scotch Pine,2
+1630,Scott,1
+1631,Scurio,1
+1632,Sea Gate,2
+1633,Secluded Acres,4
+1634,Second,13
+1635,Second Division,1
+1636,Second St,1
+1637,Seiser,1
+1638,Selby,6
+1639,Selkirk Lake,2
+1640,Selly Oak,1
+1641,Serenity,1
+1642,Serenity Now,2
+1643,Serenity Pines,3
+1644,Serenity Ridge,2
+1645,Serry,3
+1646,Service,1
+1647,Settlers Creek,2
+1648,Seymour,2
+1649,Shady,1
+1650,Shady Creek,2
+1651,Shady Oak,1
+1652,Shady View,1
+1653,Shag Way,1
+1654,Shangrai La,3
+1655,Shangri La,2
+1656,Sharon,3
+1657,Sharps,1
+1658,Shawnee,6
+1659,Sheen Hollow,2
+1660,Sheffer Lake BAS,1
+1661,Sheffield,1
+1662,Shekora Shores,2
+1663,Shepherds,1
+1664,Sheridan,1
+1665,Sherman,19
+1666,Sherwood,25
+1667,Shipwreck,2
+1668,Shirley,2
+1669,Shore,5
+1670,Shore Crest,2
+1671,Shoreline,3
+1672,Shorewood,4
+1673,Shorewood Dunes,1
+1674,Short,2
+1675,Sib Rumery,2
+1676,Sigmund Bluff,1
+1677,Signal Point,4
+1678,Silas,1
+1679,Silver Acres,1
+1680,Silver Creek,3
+1681,Silver Lake,5
+1682,Silver Leaf,1
+1683,Silverhawk,4
+1684,Silverstone,2
+1685,Simonson,3
+1686,Singapore,3
+1687,Sir Knight,1
+1688,Sixteen Lake BAS,1
+1689,Skinner,1
+1690,Skylark,2
+1691,Skyline,1
+1692,Skyview,3
+1693,Slater,2
+1694,Sleepy Hollow Beach Resort,4
+1695,Smalla,1
+1696,Smith Lane,1
+1697,Snell's Back River Crossing,1
+1698,Snow Farm,1
+1699,Sobus,2
+1700,Solace,1
+1701,Songbird,2
+1702,Sophia,3
+1703,South,13
+1704,South Baseline Lake,1
+1705,South Fork,2
+1706,South Lake,2
+1707,South Lake Doster,12
+1708,South Memorial,2
+1709,South Pine,2
+1710,South Point Ridge,5
+1711,South Rolling Ridge,2
+1712,South Shore,12
+1713,South Spec Lake,1
+1714,South Stoneridge,2
+1715,Southern,2
+1716,Southpointe,3
+1717,Southside,1
+1718,Southwoods,2
+1719,Sparks,1
+1720,Spear,5
+1721,Spring,9
+1722,Spring Beauty,1
+1723,Spring Brook,1
+1724,Spring Hill Point,1
+1725,Spring Meadow,2
+1726,Springbrook,5
+1727,Springhill,2
+1728,Springwell,1
+1729,Spruce,17
+1730,Spruceview,2
+1731,Squire,1
+1732,St Andrews,7
+1733,St Joseph,4
+1734,Standing Stone,2
+1735,Standish,4
+1736,Stanton,1
+1737,Stanton Farms,1
+1738,Starlite,4
+1739,Starr,9
+1740,Starr Elem School Access,2
+1741,Starry,2
+1742,State,4
+1743,State Park,2
+1744,Sterling,4
+1745,Stern,1
+1746,Stevens,1
+1747,Stone Bridge,3
+1748,Stoney Hill,2
+1749,Stoney Point,2
+1750,Stoney Ridge,2
+1751,Stoneybrook,2
+1752,Stratford,1
+1753,Streeter,1
+1754,Suequehanna,1
+1755,Summer Creek,5
+1756,Summer Grove,3
+1757,Summerwyn,3
+1758,Summit,5
+1759,Summit View Concourse,1
+1760,Sun And Surf,3
+1761,Sun Valley,2
+1762,Sunday,3
+1763,Sunfield,3
+1764,Sunfish,2
+1765,Sunflower,4
+1766,Sunny Pine,1
+1767,Sunnyside,3
+1768,Sunquest,4
+1769,Sunrise,7
+1770,Sunset,19
+1771,Sunset Concourse,2
+1772,Sunset Cove,4
+1773,Sunset Meadow,2
+1774,Sunset Point,3
+1775,Sunset View,2
+1776,Superior,26
+1777,Superman,1
+1778,Susan,2
+1779,Sussex,1
+1780,Sutherland,1
+1781,Sutter Memorial,1
+1782,Swan,5
+1783,Swan Creek,3
+1784,Swan Lake,2
+1785,Swan Lake BAS,3
+1786,Swansea,2
+1787,Swing Bridge,2
+1788,Sycamore,12
+1789,Sycamore Bend,1
+1790,Tabbert,1
+1791,Tadpole,1
+1792,Taft,6
+1793,Takken,1
+1794,Tall Tree,1
+1795,Talley's,1
+1796,Tamarack,1
+1797,Tanglewood,1
+1798,Tannery Creek,1
+1799,Tavistock,1
+1800,Taylor,3
+1801,Temple,1
+1802,Templeton,2
+1803,Tepee,2
+1804,Terrace,4
+1805,Terravita,5
+1806,The Beach,2
+1807,The Glade,1
+1808,The Hermitage,1
+1809,Thelen,4
+1810,Third,8
+1811,Thomas,19
+1812,Thompson,2
+1813,Thoreau,1
+1814,Thornhill,2
+1815,Three Fires,1
+1816,Tiffany,1
+1817,Timber Creek,3
+1818,Timber Oaks,3
+1819,Timber Ridge Bay,4
+1820,Timbercrest,1
+1821,Timberidge,2
+1822,Timberview,1
+1823,Tippy,1
+1824,Tom,2
+1825,Tom Nolan,1
+1826,Tomahawk,3
+1827,Tompkins,1
+1828,Tony,3
+1829,Topview,1
+1830,Toronto,4
+1831,Townline,2
+1832,Track Side,1
+1833,Tracy,3
+1834,Trails End,1
+1835,Tranquility,1
+1836,Transport,2
+1837,Trappers Crossing,1
+1838,Travistock,2
+1839,Tree Haven,5
+1840,Trestle,1
+1841,Trillium,1
+1842,Trinity,1
+1843,Troon,3
+1844,Trowbridge,6
+1845,Tulip,4
+1846,Tulip Tree,2
+1847,Tumbleweed,1
+1848,Turkey,5
+1849,Turnberry,1
+1850,Turtle,2
+1851,Tyler,3
+1852,Union,15
+1853,Unity,1
+1854,University,4
+1855,Unknown,48
+1856,Unknown 1,2
+1857,Unknown0051202,1
+1858,Unknown005161,1
+1859,Unknown0051701,1
+1860,Unknown0053001,3
+1861,Urfer,1
+1862,US 131 Crossover,13
+1863,US 31 Crossover,1
+1864,Uthers,1
+1865,Valkyrie,2
+1866,Valley,2
+1867,Valley View,3
+1868,Valley Vista,8
+1869,Valleywood,2
+1870,Van Bruggen,5
+1871,Van Dalson,1
+1872,Van Dyke,1
+1873,Van Horn,2
+1874,Van Wieren,1
+1875,Vancouver,1
+1876,Vandermeulen,1
+1877,Varney,1
+1878,Vassar,1
+1879,Vernon,1
+1880,Vernon D. Ebersole Center,1
+1881,Versailles,3
+1882,Veterans,2
+1883,Viaduct,1
+1884,Victoria,1
+1885,Vienna Strasse,5
+1886,Villa,3
+1887,Village,12
+1888,Vine,6
+1889,Vineyard,1
+1890,Violet,1
+1891,Vista,1
+1892,Volkers,3
+1893,Vos,2
+1894,Voss,2
+1895,Voyager,3
+1896,W 48th/Regent Cutoff,1
+1897,W I 196,24
+1898,W I 196/M 40,1
+1899,Wake Robin,3
+1900,Wakefield,2
+1901,Walden,1
+1902,Walker,1
+1903,Walker Ridge,1
+1904,Walking Horse,2
+1905,Wall,5
+1906,Wallace,2
+1907,Walnut,15
+1908,Walnut Dale,4
+1909,Walnut Park,3
+1910,Walnut Woods,1
+1911,Walter,5
+1912,Walters,2
+1913,Wanamaker,2
+1914,Wapiti,3
+1915,Warbler,1
+1916,Ward,4
+1917,Warrant,1
+1918,Warwick,1
+1919,Washington,52
+1920,Washington/N US 31,3
+1921,Washington/S US 31,1
+1922,Water,30
+1923,Waterfall,1
+1924,Waters Edge,6
+1925,Waters Pointe,2
+1926,Watson,4
+1927,Watts,2
+1928,Waukazoo,2
+1929,Waverly,11
+1930,Wayne,4
+1931,Weber,2
+1932,Wedgewood,14
+1933,Weeks,1
+1934,Wegnar,1
+1935,Weicks,2
+1936,Weirich,2
+1937,Wellhead Access,2
+1938,Wells,4
+1939,Wendy,1
+1940,Wesler,5
+1941,West,7
+1942,West Memorial,1
+1943,West Shore,3
+1944,West Shore Woods,3
+1945,West Side County Park,1
+1946,Western,6
+1947,Westfield,3
+1948,Westshore,3
+1949,Westview,7
+1950,Westwind,1
+1951,Westwoods,4
+1952,Wetheral Lake,1
+1953,Wetmore,1
+1954,Whipporwill,2
+1955,Whisper,5
+1956,Whispering Oaks,1
+1957,Whispering Pines,2
+1958,White Horse,3
+1959,White Oak,2
+1960,White Pine,14
+1961,White Tail,1
+1962,White Trail,3
+1963,Whiteside,2
+1964,Whitetail,1
+1965,Whitney,1
+1966,Whittier,1
+1967,Whyment,1
+1968,Wild Creek,2
+1969,Wild Flower,4
+1970,Wild Turkey,2
+1971,Wildcat,1
+1972,Wilderness,4
+1973,Wilderness Ridge,6
+1974,Wildflower,4
+1975,Wildwood,14
+1976,Wiley,21
+1977,Williams,6
+1978,Willow,9
+1979,Willyard,3
+1980,Wilmott,15
+1981,Wilson,5
+1982,Winchester,6
+1983,Windcliff,2
+1984,Windego,1
+1985,Windemuller,2
+1986,Windhaven,2
+1987,Winding,20
+1988,Winding Oak,1
+1989,Windsor,1
+1990,Windsor Woods,5
+1991,Windwood,1
+1992,Windy Ridge,3
+1993,Winfield,1
+1994,Winnebago,3
+1995,Winnipeg,1
+1996,Winsted,1
+1997,Wintergreen,5
+1998,Wise,5
+1999,Wkama,2
+2000,Wolcott,1
+2001,Wonderland,4
+2002,Wood,4
+2003,Woodberry,1
+2004,Woodcliff,2
+2005,Woodcrest,3
+2006,Woodfield,2
+2007,Woodhams,8
+2008,Woodie,1
+2009,Woodland,10
+2010,Woodlea,3
+2011,Woodridge,3
+2012,Woodside,1
+2013,Woodside Meadow,2
+2014,Woodstock,2
+2015,Woodstone,1
+2016,Woodveiw,1
+2017,Woodview,4
+2018,Wooln,1
+2019,Wren,3
+2020,Wyndarden,1
+2021,Yale,1
+2022,Yamoto,2
+2023,Yazmin,1
+2024,York,3
+2025,Zak,3
+2026,Zellman,2
+2027,Zonne,2

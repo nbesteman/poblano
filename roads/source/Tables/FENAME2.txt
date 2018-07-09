@@ -1,0 +1,290 @@
+OBJECTID,FENAME2,Cnt_FENAME2
+1, ,11156
+2,101st,1
+3,102nd,9
+4,108th,11
+5,109th,1
+6,111th,1
+7,112th,1
+8,116th,9
+9,121st,1
+10,122nd,2
+11,123rd,2
+12,124th,2
+13,12th,1
+14,130th,12
+15,131st,2
+16,134th,1
+17,135th,26
+18,144th,8
+19,145th,7
+20,146th,3
+21,147th,1
+22,18th,2
+23,1st,13
+24,1st Division,1
+25,22nd,1
+26,26th,1
+27,2nd,26
+28,32nd,15
+29,33rd,8
+30,37th,1
+31,39th,1
+32,3rd,14
+33,44th,2
+34,4th,8
+35,54th,3
+36,57th,4
+37,59th,2
+38,61st,5
+39,62nd,1
+40,66th,9
+41,6th,4
+42,70th,22
+43,A,1
+44,A-2,185
+45,A-37,61
+46,A-42,49
+47,A-45,123
+48,Abandoned,5
+49,Allegan Dam,2
+50,Amber,1
+51,Ames,2
+52,Apple Blossom,1
+53,Audubon,15
+54,B,1
+55,Baseline,3
+56,Baseline Middle School Access,4
+57,Bauman's Grove,2
+58,Beck,1
+59,Bob Laar's,1
+60,Brandon,1
+61,Bridge,2
+62,Briggs,1
+63,Brookpoint,1
+64,Buck,1
+65,Buckingham,3
+66,Camelot,1
+67,Cherry,12
+68,Clan Alpine,3
+69,Clearview,1
+70,Club House,1
+71,Colonial,2
+72,Conference,5
+73,Country,1
+74,Crawford,1
+75,Creek,1
+76,Crossroads,1
+77,Dahlia,7
+78,Darling,1
+79,Deep Woods Bayou,1
+80,Deer Run,2
+81,Devon,2
+82,Dorothy,1
+83,Douglas,2
+84,Drenthen,2
+85,Dumont,1
+86,Dumont Lake,1
+87,Eagle Greens,4
+88,East,3
+89,East Lake,2
+90,Eaton,3
+91,Edgewater,3
+92,Elizabeth,3
+93,Ell Court,2
+94,Elm,4
+95,Elmwood,1
+96,Ely Lake Boat Launch,1
+97,Ely Lake Campground,41
+98,Exit 22,2
+99,Exit 26,2
+100,Exit 30,2
+101,Exit 34,2
+102,Exit 36,4
+103,Exit 41,4
+104,Exit 49,4
+105,Exit 49A,3
+106,Exit 49B,2
+107,Exit 50,1
+108,Exit 50 A,1
+109,Exit 50 B,1
+110,Exit 50 D,1
+111,Exit 50 E,2
+112,Exit 55,2
+113,Exit 59,2
+114,Exit 61,13
+115,Exit 64,2
+116,Exit 68,2
+117,Fabun,6
+118,Fairhaven,2
+119,Falcon,2
+120,Fern Walk,1
+121,Fountainview,3
+122,Fourth,1
+123,Fredericks,1
+124,Gerhardt,1
+125,Golf,8
+126,Golfview,3
+127,Grand View,2
+128,Grandville,4
+129,Grant,3
+130,Gun River,2
+131,Halcyon Hills,1
+132,Hanlon,1
+133,Haworth,3
+134,Hawthorne,1
+135,Hidden Ridge Resort,20
+136,Hide A,1
+137,High School Access,11
+138,Hillside,1
+139,Hooker,3
+140,Hughes,1
+141,I 196BL,34
+142,I 94 BL,2
+143,Imperial Pt,1
+144,Indian Point,1
+145,Indianapolis,1
+146,Jackrabbit,3
+147,Jackson,16
+148,Jupiter,1
+149,Kalamazoo,21
+150,Kaywood,1
+151,Keith,3
+152,Kelly,1
+153,Kenneth,1
+154,Kenny's,1
+155,Kent,3
+156,Kenwood,2
+157,Kester,1
+158,Kitty Hawk,1
+159,Kotokas,2
+160,Lake,23
+161,Lake 16,3
+162,Lake Michigan,3
+163,Lake Park Trailer Resort,4
+164,Lake Shore,6
+165,Lake View,5
+166,Lakeridge,1
+167,Lakeview,1
+168,Lakewood,2
+169,Lakewoods,1
+170,Laraway,1
+171,Lawrence,6
+172,Leon,2
+173,Lincoln,3
+174,Little John Lake,1
+175,Little Tom Lake Access,1
+176,Littlejohn Lake County Park,6
+177,Lock Ness,1
+178,Longfellow,4
+179,Lorraine,3
+180,Lucielle,2
+181,M 179,23
+182,M 222,40
+183,M 40,102
+184,M 89,152
+185,MacDougall,1
+186,Manchester,2
+187,Mankin,2
+188,Maple,9
+189,Maplewoods,1
+190,Meadow,2
+191,Meijer Access,1
+192,Melrose,1
+193,Merson,2
+194,Michigan,2
+195,Middle School Access,1
+196,Milgrove,2
+197,Mill District,1
+198,Miller Creek,5
+199,Minkler,3
+200,Minkler Lake,2
+201,Monroe,4
+202,Moore,2
+203,Morter,1
+204,N W Shore,1
+205,Natilya,1
+206,Newell,1
+207,Newport,2
+208,Nolan,1
+209,North,11
+210,North Shore Elem School Access,3
+211,Oakley,1
+212,Old Allegan,2
+213,Old Allegan-Otsego,2
+214,Old M 40,1
+215,Old Railroad Grade,1
+216,Orchard,5
+217,Osterhout Lake,1
+218,Otis,4
+219,Ottogan,31
+220,Oxbow,3
+221,Par 4,2
+222,Park,2
+223,Parkway,2
+224,Patterson,70
+225,Perrigo Campus,7
+226,Pershing,3
+227,Pier,3
+228,Pier Cove,6
+229,Pine,1
+230,Pine Point Campground,9
+231,Pleasant,1
+232,Pleasantview,2
+233,Plum,2
+234,Plummer,2
+235,Ponderosa,2
+236,Prospect,1
+237,Pullman,5
+238,Quiet,1
+239,Red Fox,1
+240,Red Run,2
+241,Redman,1
+242,River,2
+243,Riverside,1
+244,Riverview,3
+245,Rolling Ridge,2
+246,Round Lake,10
+247,Russon,1
+248,Saint Andrews,3
+249,Saint Joseph,4
+250,Sanctuary,4
+251,Sarah,1
+252,Sassafrass,2
+253,Schnable Lake Campground,21
+254,School Access,18
+255,Schuler,3
+256,Second Division,1
+257,Shore,4
+258,Silver,1
+259,Silver Creek County Park,19
+260,Silver Lake,2
+261,Snyder,2
+262,South,1
+263,Spruce,1
+264,Spur,2
+265,St Sebina,1
+266,Sterling,1
+267,Stern,1
+268,Sunsurf,3
+269,Sycamore,1
+270,Taft,1
+271,Taylor,1
+272,Thompson,1
+273,Trappers,1
+274,Van Bruggen,5
+275,Vienna Strauss,5
+276,Walker,1
+277,Walnut,1
+278,Washington,5
+279,Watson,10
+280,Waukazoo,1
+281,West,1
+282,Westwind,1
+283,Wildwood,4
+284,Williams,3
+285,Williams Bridge,15
+286,Womhoff,2
+287,Wood Lea,3
+288,Woodland,3
+289,Woods,2

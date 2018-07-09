@@ -1,0 +1,18 @@
+OBJECTID,FETYPE2,Cnt_FETYPE2
+-1, ,12179
+-1,Ave,150
+-1,Blvd,8
+-1,Bnd,1
+-1,Cir,3
+-1,Ct,22
+-1,Cv,1
+-1,Dr,109
+-1,Ln,19
+-1,Park,3
+-1,Pl,3
+-1,Rd,220
+-1,St,299
+-1,Ter,3
+-1,Trl,6
+-1,Way,2
+-1,Xing,1

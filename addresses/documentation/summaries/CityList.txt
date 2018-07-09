@@ -1,0 +1,32 @@
+OBJECTID,CITY,Cnt_CITY
+1, ,24
+2,Allegan,8085
+3,Battle Creek,1
+4,Bloomingdale,138
+5,Byron Center,125
+6,Caledonia,962
+7,DELTON,519
+8,Dorr,4923
+9,Douglas,1152
+10,Fennville,4892
+11,Gobles,394
+12,Grand Junction,759
+13,Grand Rapids,4
+14,Hamilton,3214
+15,HASTINGS,7
+16,Holland,7893
+17,Hopkins,2914
+18,Hudsonville,24
+19,Kalamazoo,17
+20,Martin,1030
+21,MIDDLEVILLE,74
+22,Otsego,3660
+23,Plainwell,5277
+24,Pullman,1547
+25,Saugatuck,2267
+26,Shelbyville,1950
+27,South Haven,2184
+28,Wayland,4482
+29,West Olive,1
+30,Wyoming,1
+31,Zeeland,149

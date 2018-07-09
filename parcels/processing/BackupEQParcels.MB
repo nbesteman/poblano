@@ -1,0 +1,29 @@
+
+Include "main.def"
+
+'Sub BackupEQParcels()
+Sub Main()
+Set ProgressBars Off
+
+Dim sUnit,sUnitID,sBSAUnit,sCurrentID,sLeft2,sParcelID as String 
+
+'---unit selection list
+Open Table "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\units_select.tab" as Units
+Select * from Units where Process = "T" Order by Code into Unitselect
+'Select * from Units where Code = "16" or Code = "21" Order by Code into Unitselect
+Fetch First from Unitselect
+Do While Not EOT(Unitselect)
+	sUnit = Unitselect.Unit
+	sUnitID = Unitselect.Code
+Print "starting "+sUnitID + " " +sUnit
+
+
+
+Open Table "J:\data\"+sUnitID+" "+sUnit+"\"+sUnit+" Parcels\"+sUnit+" Parcels.TAB" as tmpEQ
+'print "J:\data\"+sUnitID+" "+sUnit+"\"+sUnit+" Parcels\"+sUnit+" Parcels.TAB"
+Commit Table tmpEQ As "J:\Apps\Python\LayerUpdates\parcels\backup_MapInfoEQ\"+sUnit+" Parcels.TAB" TYPE NATIVE Charset "WindowsLatin1" Version 300
+Close table tmpEQ
+Fetch Next from Unitselect
+loop
+Close All
+End Sub

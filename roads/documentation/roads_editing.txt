@@ -1,0 +1,11 @@
+20180430
+
+Open RoadsCreationWS_nb.mxd located in J:\Apps\Python\LayerUpdates\roads
+Open Attribute Assistant and make sure AddressManagement Addin is installed.  
+
+If it is not open you will want the tool set open:  
+Split Tool:
+If tool doesn't work load the config file located in:
+J:\Apps\Python\LayerUpdates\AttributeAssistant\configFiles
+Into default location:  C:\Users\nbesteman\AppData\Roaming\ArcGISSolutions\ConfigFiles
+

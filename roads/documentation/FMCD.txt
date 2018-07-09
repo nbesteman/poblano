@@ -1,0 +1,36 @@
+OID_,UnitName,Cnt_UnitNa,Min_FMCD_C
+,Allegan City,1,1260
+,Allegan Twp,1,1280
+,Casco Twp,1,13700
+,Cheshire Twp,1,15200
+,Clyde Twp,1,16720
+,Dorr Twp,1,22680
+,Douglas City,1,22740
+,Fennville City,1,27740
+,Fillmore Twp,1,28120
+,Ganges Twp,1,31360
+,Gun Plain Twp,1,35720
+,Heath Twp,1,37460
+,Holland City,1,38640
+,Hopkins Twp,1,39200
+,Hopkins Village,1,39200
+,Laketown Twp,1,45180
+,Lee Twp,1,46600
+,Leighton Twp,1,46760
+,Manlius Twp,1,50840
+,Martin Twp,1,52000
+,Martin Village,1,52000
+,Monterey Twp,1,55200
+,Otsego City,1,61620
+,Otsego Twp,1,61640
+,Overisel Twp,1,61820
+,Plainwell City,1,64740
+,Salem Twp,1,71100
+,Saugatuck City,1,71700
+,Saugatuck Twp,1,71720
+,South Haven City,1,74980
+,Trowbridge Twp,1,80620
+,Valley Twp,1,81580
+,Watson Twp,1,84580
+,Wayland City,1,84880
+,Wayland Twp,1,84900

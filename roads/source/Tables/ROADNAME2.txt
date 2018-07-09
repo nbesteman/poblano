@@ -1,0 +1,37 @@
+OBJECTID,ROADNAME2,Cnt_ROADNAME2
+1, ,12850
+2,10th St,8
+3,11th St,14
+4,12th St,8
+5,30th St,1
+6,58th St,7
+7,68th St,44
+8,Adams Rd,17
+9,Audubon Rd,1
+10,Baseline Rd,4
+11,Bridge St,2
+12,Cross Road Ln,1
+13,Division St,1
+14,Douglas Ave,3
+15,Exit 61,1
+16,Fifth St,1
+17,Grant Rd,19
+18,Halcyon Hill Dr,1
+19,Hill Dr,1
+20,Horseshoe Cv,2
+21,Lake Michigan Dr,1
+22,Lake Woods Dr,1
+23,Lakewoods Dr,1
+24,Laura Lane Dr,2
+25,M 89,5
+26,N Patterson Rd,1
+27,North East Lake Rd,2
+28,Old Allegan Rd,4
+29,Patterson,5
+30,Patterson Rd,1
+31,Pine St,1
+32,Polk Rd,1
+33,S Shore Dr,7
+34,Tyler Rd,4
+35,W Shore Dr,3
+36,Washington Ave,4

@@ -1,0 +1,11 @@
+OBJECTID,CLASSIFICATION,Cnt_CLASSIFICATION
+1, ,3
+2,Alley,6
+3,City Major,759
+4,City Minor,1205
+5,County Local,4857
+6,County Primary,1998
+7,Expressway,450
+8,Private,3302
+9,Ramp,34
+10,State Highway,415

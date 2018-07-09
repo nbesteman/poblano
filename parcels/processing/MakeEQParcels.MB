@@ -1,0 +1,60 @@
+
+Include "main.def"
+
+Sub Main()
+Set ProgressBars Off
+
+Dim sUnit,sUnitID,sBSAUnit,sCurrentID,sLeft2,sParcelID as String 
+'Dim sOwn,sOwnAddress,sOwnCity,sOwnState,sOwnZip,sOwnCare,sPropertyAddress,sZoning,sLiberPage,sTaxPayName,sTaxPayCareOf,sTaxPayStreet,sTaxPayCity,sTaxPayState,sTaxPayZIP as string
+'Dim sSchoolDistrict,sPropertyClass,sHomestead as string
+'Dim iAssessment as Integer
+'Dim fDeedAcres as Float
+'Dim oParcel as object
+
+Open Table "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\meters\EQ\AC_ParcelsEQ_meters.TAB" as src_parcels
+Commit Table src_parcels As  "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\meters\EQ\srcEQparcels.TAB"
+Open Table "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\meters\EQ\srcEQparcels.TAB" as tmpEQparcels
+Select Mapping_ID,
+       Deed_Acres,
+       Acres,     'this has to be MInfo_Acres
+       Comment,
+       Error,
+       Label,
+       CenterX,
+       CenterY,
+       Angle,
+       OffsetX,
+       OffsetY
+       from src_parcels
+       into tmpEQparcels2
+Commit Table tmpEQparcels2 As "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\meters\EQ\EQparcels.TAB"
+
+'change the format of Deed_Acres and Acres from Float to the
+Close All
+
+Open Table "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\meters\EQ\EQparcels.TAB" as tmpEQparcels
+Alter Table "tmpEQparcels" ( modify Acres Decimal(9,2),Deed_Acres Decimal(9,2),OffsetX Integer, OffsetY Integer ) Interactive
+Update tmpEQparcels Set Acres = Area(obj, "acre")
+Commit Table tmpEQparcels
+Close All
+
+Open Table "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\meters\EQ\EQparcels.TAB" as tmpEQparcels
+'---unit selection list
+Open Table "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\units_select.tab" as Units
+Select * from Units where Process = "T" Order by Code into Unitselect
+'Select * from Units where Code = "16" or Code = "21" Order by Code into Unitselect
+Fetch First from Unitselect
+Do While Not EOT(Unitselect)
+	sUnit = Unitselect.Unit
+	sUnitID = Unitselect.Code
+Print "starting "+sUnitID + " " +sUnit
+
+
+select * from tmpEQparcels Where Left$(Mapping_ID,2) = sUnitID into srcSelect
+Commit Table srcSelect As "J:\Apps\Python\LayerUpdates\parcels\build_MapInfoEQ\"+sUnit+" Parcels.TAB" TYPE NATIVE Charset "WindowsLatin1" Version 300
+
+Fetch Next from Unitselect
+loop
+Close All
+
+End Sub

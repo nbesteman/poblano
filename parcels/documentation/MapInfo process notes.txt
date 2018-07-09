@@ -1,0 +1,7 @@
+
+
+manually run universal translator and save as tab file in international feet
+
+manually open the intl ft version and save as a meters projections
+
+run J:\Apps\Python\LayerUpdates\parcels\processing\MakeEQParcels.mbx

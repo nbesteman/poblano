@@ -1,0 +1,335 @@
+OBJECTID,ROADNAME1,Cnt_ROADNAME1
+1, ,11150
+2,101st Ave,1
+3,102nd Ave,9
+4,108th St SE,11
+5,109th Ave,1
+6,111th Ave,1
+7,112th Ave,1
+8,116th Ave,1
+9,116th St,8
+10,121st Ave,1
+11,122nd Ave,2
+12,123rd St,2
+13,124th Ave,2
+14,12th St,1
+15,130th Ave,12
+16,131st St,2
+17,134th Ave,1
+18,135th Ave,26
+19,144th Ave,8
+20,145th Ave,7
+21,146th Ave,3
+22,147th Ave,1
+23,18th St,2
+24,1st Division St,1
+25,1st St,4
+26,22nd St,1
+27,26th St,1
+28,2nd,7
+29,2nd Ave,1
+30,2nd St,19
+31,32nd St,15
+32,33rd St,8
+33,37th St,1
+34,39th St,1
+35,3rd,5
+36,3rd Ave,1
+37,3rd St,8
+38,44th St,2
+39,48th St,2
+40,4th,3
+41,4th Ave,2
+42,4th St,3
+43,54th St,3
+44,57th St,4
+45,59th St,2
+46,61st St,5
+47,62nd St,1
+48,66th St,9
+49,6th St,3
+50,70th St,22
+51,A-2,185
+52,A-37,61
+53,A-42,49
+54,A-45,123
+55,A Ave,1
+56,Abandoned,5
+57,Allegan Dam Rd,2
+58,Amber Ln,1
+59,Ames Ave,2
+60,Apple Blossom Ct,1
+61,Audubon Rd,8
+62,Audubon St,1
+63,Ave,1
+64,B St,1
+65,Baseline Middle School Access,4
+66,Baseline Rd,1
+67,Bauman's Grove,2
+68,Beck Rd,1
+69,Bob Laar's Rd,1
+70,Brandon Dr,1
+71,Bridge St,2
+72,Briggs St,1
+73,Brookpoint Dr,1
+74,Buck Trl,1
+75,Buckingham St,3
+76,Camelot Pl,1
+77,Cherry Ave,4
+78,Clan Alpine St,3
+79,Clearview Dr,1
+80,Club House Ct,1
+81,Colonial Rd,2
+82,Conference St,5
+83,Country Ln,1
+84,Crawford Ave,1
+85,Creek St,1
+86,Crossroads Ln,1
+87,Dahlia Ave,7
+88,Deep Woods Bayou,1
+89,Deer Run Dr,2
+90,Devon St,2
+91,Dorothy Dr,1
+92,Douglas St,2
+93,Drenthen Dr,2
+94,Dumont Lake Dr,1
+95,Dumont Rd,1
+96,E 1st Ave,1
+97,E 1st St,2
+98,E Lake 16 Dr,1
+99,E Ottogan St,6
+100,E Shore Dr,3
+101,E Van Bruggen Dr,1
+102,Eagle Greens Blvd,4
+103,East Dr,3
+104,East Lake Rd,2
+105,Eaton Park,3
+106,Edgewater Ter,3
+107,Elizabeth St,3
+108,Ell Court,2
+109,Elm Dr,1
+110,Elm St,3
+111,Elmwood St,1
+112,Ely Lake Boat Launch,1
+113,Ely Lake Campground,41
+114,Exit 22,2
+115,Exit 26,2
+116,Exit 30,2
+117,Exit 34,2
+118,Exit 36,4
+119,Exit 41,4
+120,Exit 49,4
+121,Exit 49A,3
+122,Exit 49B,2
+123,Exit 50,1
+124,Exit 50 A,1
+125,Exit 50 B,1
+126,Exit 50 D,1
+127,Exit 50 E,2
+128,Exit 55,2
+129,Exit 59,2
+130,Exit 61,13
+131,Exit 64,2
+132,Exit 68,2
+133,Fabun Ave,6
+134,Fairhaven Dr,2
+135,Falcon Dr,1
+136,Falcon Way,1
+137,Fern Walk,1
+138,Fountainview Cir,3
+139,Fourth St,1
+140,Fredericks Ln,1
+141,Gerhardt Rd,1
+142,Golf Rd,8
+143,Golfview Blvd,3
+144,Grand View Dr,2
+145,Grandville Ave,4
+146,Grant Rd,3
+147,Gun River Ct,1
+148,Gun River Dr,1
+149,Halcyon Hills Dr,1
+150,Hanlon Ct,1
+151,Haworth Ct,3
+152,Hawthorne Ct,1
+153,Hidden Ridge Resort,20
+154,Hide A Way,1
+155,High School Access,11
+156,Hillside Ln,1
+157,Hooker Rd,3
+158,Hughes Pl,1
+159,I 196BL,34
+160,I 94 BL,2
+161,Imperial Pt,1
+162,Indian Point Rd,1
+163,Indianapolis Rd,1
+164,Jackrabbit Ct,3
+165,Jackson Rd,13
+166,Jackson St,3
+167,Jupiter Dr,1
+168,Kalamazoo Ave,21
+169,Kaywood St,1
+170,Keith Rd,3
+171,Kelly Dr,1
+172,Kenneth St,1
+173,Kenny's Ln,1
+174,Kent St,3
+175,Kenwood St,2
+176,Kester St,1
+177,Kitty Hawk Ln,1
+178,Kotokas Rd,2
+179,Lake 16 Dr,1
+180,Lake Dr,5
+181,Lake Michigan Dr,3
+182,Lake Park Trailer Resort,4
+183,Lake Rd,3
+184,Lake Shore Dr,6
+185,Lake St,8
+186,Lake View Ave,5
+187,Lakeridge Rd,1
+188,Lakeview St,1
+189,Lakewood Blvd,1
+190,Lakewood Dr,1
+191,Lakewoods Dr,1
+192,Laraway Dr,1
+193,Lawrence Dr,2
+194,Lawrence St,4
+195,Leon Rd,2
+196,Lincoln Rd,3
+197,Little John Lake Rd,1
+198,Little Tom Lake Access,1
+199,Littlejohn Lake County Park,6
+200,Lock Ness Ln,1
+201,Longfellow St,4
+202,Lorraine Dr,3
+203,Lucielle St,2
+204,M 179,23
+205,M 222,40
+206,M 40,102
+207,M 89,152
+208,Macdougall St,1
+209,MacDougall St,1
+210,Manchester Dr,2
+211,Mankin Ave,2
+212,Maple Ln,1
+213,Maple St,8
+214,Maplewoods Dr,1
+215,Meadow Ln,2
+216,Meijer Access,1
+217,Melrose Ave,1
+218,Merson St,2
+219,Michigan Ave,2
+220,Middle School Access,1
+221,Milgrove Rd,2
+222,Mill District Rd,1
+223,Miller Creek Rd,5
+224,Minkler Lake Rd,2
+225,Minkler Rd,2
+226,Monroe Rd,3
+227,Monroe St,1
+228,Moore Dr,2
+229,Morter St,1
+230,N 6th Ave W,1
+231,N Cherry Ave,2
+232,N Darling Ln,1
+233,N Lake Dr,7
+234,N Patterson Rd,24
+235,N Spur Ct,2
+236,N Van Bruggen Dr,1
+237,N W Shore Dr,1
+238,Natilya,1
+239,Newell St,1
+240,Newport Rd,2
+241,Nolan St,1
+242,North Shore Elem School Access,3
+243,North St,11
+244,Oakley Ave,1
+245,Old Allegan-Otsego Rd,2
+246,Old Allegan Rd,2
+247,Old M 40,1
+248,Old Railroad Grade,1
+249,Orchard Dr,2
+250,Orchard St,3
+251,Osterhout Lake Dr,1
+252,Otis Ct,2
+253,Otis Ln,2
+254,Ottogan St,24
+255,Oxbow Rd,3
+256,Par 4 Ct,2
+257,Park St,2
+258,Parkway St,2
+259,Perrigo Campus,7
+260,Pershing St,3
+261,Pier Cove Rd,6
+262,Pier Rd,3
+263,Pine Point Campground,9
+264,Pine St,1
+265,Pleasant Dr,1
+266,Pleasantview Dr,2
+267,Plum Ln,2
+268,Plummer Dr,2
+269,Ponderosa Ct,2
+270,Prospect Ave,1
+271,Pullman St,5
+272,Quiet Cv,1
+273,Red Fox Ln,1
+274,Red Run,2
+275,Redman Dr,1
+276,Richardson Dr,1
+277,River Dr,1
+278,River Rd,1
+279,Riverside Dr,1
+280,Riverview Rd,3
+281,Round Lake Dr,10
+282,Russon St,1
+283,S Audubon Rd,6
+284,S Cherry St,6
+285,S Lake 16 Dr,1
+286,S Minkler Rd,1
+287,S Patterson Rd,46
+288,S Rolling Ridge Dr,2
+289,S Shore Dr,1
+290,S Van Bruggen Dr,1
+291,Saint Andrews Dr,3
+292,Saint Joseph St,4
+293,Sanctuary Trl,4
+294,Sarah Ln,1
+295,Sassafrass Dr,2
+296,Schnable Lake Campground,21
+297,School Access,18
+298,Schuler Dr,3
+299,Second Division St,1
+300,Silver Creek County Park,19
+301,Silver Lake Dr,2
+302,Snyder Rd,2
+303,South Ln,1
+304,Spruce St,1
+305,St Sebina,1
+306,Sterling St,1
+307,Stern St,1
+308,Sunsurf Ct,3
+309,Sycamore Bnd,1
+310,Taft Rd,1
+311,Taylor Dr,1
+312,Thompson St,1
+313,Trappers Xing,1
+314,Vienna Strauss Rd,5
+315,W 1st Ave,2
+316,W 1st St,4
+317,W Baseline Rd,2
+318,W Van Bruggen Dr,2
+319,Walker Rd,1
+320,Walnut Ave,1
+321,Washington Ave,4
+322,Washington St,1
+323,Watson Rd,11
+324,Watson St,1
+325,Waukazoo Trl,1
+326,West St,1
+327,Westwind Pl,1
+328,Wildwood Rd,4
+329,Williams Bridge Rd,15
+330,Williams Rd,3
+331,Womhoff St,2
+332,Wood Lea Dr,3
+333,Woodland Dr,3
+334,Woods St,2

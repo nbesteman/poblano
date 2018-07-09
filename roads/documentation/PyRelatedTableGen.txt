@@ -1,0 +1,32 @@
+
+>>> import arcpy
+
+>>> arcpy.AddField_management("C:/Users/bmay/Documents/ArcGIS/Default.gdb/AC_Roads", "JOIN_ID", "LONG")
+
+>>> arcpy.CalculateField_management("C:/Users/bmay/Documents/ArcGIS/Default.gdb/AC_Roads","JOIN_ID", "[OBJECTID]")
+
+>>> arcpy.MakeFeatureLayer_management("C:/Users/bmay/Documents/ArcGIS/Default.gdb/AC_Roads", "roadlyr1"
+
+>>> arcpy.SelectLayerByAttribute_management("roadlyr1", "NEW_SELECTION","(FENAME2) <> ' ' ")
+
+>>> arcpy.TableToTable_conversion("roadlyr1","C:/Users/bmay/Documents/ArcGIS/Default.gdb/","tmpAlt_Name")
+
+>>> arcpy.AddField_management("C:/Users/bmay/Documents/ArcGIS/Default.gdb/tmpAlt_Name", "PRETYPE", "TEXT","","", "4")
+
+>>>arcpy.AlterField_management("C:/Users/bmay/Documents/ArcGIS/Default.gdb/tmpAlt_Name", "FEDIRP2" , "PREDIR")
+
+>>>arcpy.AlterField_management("C:/Users/bmay/Documents/ArcGIS/Default.gdb/tmpAlt_Name", "FENAME2" , "ALTSTNAME")
+
+>>>arcpy.AlterField_management("C:/Users/bmay/Documents/ArcGIS/Default.gdb/tmpAlt_Name", "FETYPE2" , "STREETYPE")
+
+>>>arcpy.AlterField_management("C:/Users/bmay/Documents/ArcGIS/Default.gdb/tmpAlt_Name", "FEDIRS2" , "SUFDIR")
+
+New Order:
+JOIN_ID
+PREDIR
+PRETYPE
+ALTSTNAME
+STREETYPE
+SUFDIR  
+
+arcpy.CalculateField_management(in_table="C:/Users/bmay/Documents/ArcGIS/Default.gdb/AC_Roads", field="FENAME2", expression="(OBJECTID)", expression_type="VB", code_block="")

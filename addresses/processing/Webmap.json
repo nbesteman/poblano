@@ -1,0 +1,4130 @@
+{
+    "operationalLayers": [
+        {
+            "id": "Ortho_2009_5353",
+            "layerType": "ArcGISTiledMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/Orthos/Ortho_2009/MapServer",
+            "visibility": false,
+            "opacity": 1,
+            "title": "2009 Orthoimagery",
+            "itemId": "cc78b2589a904fbfa11e0a5d9f2e37b1",
+            "minScale": 63999,
+            "maxScale": 1128.497176,
+            "showLegend": false
+        },
+        {
+            "id": "Ortho_2014_Detailed_4015",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/Orthos/Ortho_2014_Detailed/MapServer",
+            "visibility": true,
+            "opacity": 1,
+            "title": "2014 Orthoimagery",
+            "itemId": "03a66cdaae0d46d8b6a1b5749fd1ab3d",
+            "minScale": 63999,
+            "maxScale": 0,
+            "showLegend": false
+        },
+        {
+            "id": "ValleyGLO_2044",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/PLSSV/ValleyGLO/MapServer",
+            "visibility": false,
+            "opacity": 1,
+            "title": "ValleyGLO",
+            "itemId": "620e5eee6c1640ab9248cfa7b6d6d531"
+        },
+        {
+            "id": "PV2Dimensions_4454",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2Dimensions/MapServer",
+            "visibility": true,
+            "opacity": 1,
+            "title": "Dimensions (ft)",
+            "itemId": "16c02aee7b3d4f2584fd7fea8bd135a5",
+            "minScale": 198647,
+            "maxScale": 0,
+            "showLegend": false
+        },
+        {
+            "id": "PV2Adresses_455",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2Adresses/MapServer",
+            "visibility": true,
+            "opacity": 1,
+            "title": "Adresses",
+            "itemId": "a28440f1621d480f9549ef9463211287",
+            "minScale": 656582,
+            "maxScale": 0,
+            "showLegend": false
+        },
+        {
+            "id": "PV2P_Historic2015_6351",
+            "layerType": "ArcGISTiledMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2P_Historic2015/MapServer",
+            "visibility": false,
+            "opacity": 1,
+            "title": "2015 Tax Parcels",
+            "itemId": "0b4de0ed93db496786fa60c8e91b51ce"
+        },
+        {
+            "id": "PV2P_Historic2016_6450",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2P_Historic2016/MapServer",
+            "visibility": false,
+            "opacity": 1,
+            "title": "2016 Tax Parcels",
+            "itemId": "240df58aa13a4275811443a613cafc70",
+            "layers": [
+                {
+                    "id": 0,
+                    "popupInfo": {
+                        "title": "2016 Tax Parcels",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "MAPPING_ID",
+                                "label": "MAPPING_ID",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "DEED_ACRES",
+                                "label": "DEED_ACRES",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ACRES",
+                                "label": "ACRES",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Com",
+                                "label": "Com",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ERROR",
+                                "label": "ERROR",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "CENTERX",
+                                "label": "CENTERX",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "CENTERY",
+                                "label": "CENTERY",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ANGLE",
+                                "label": "ANGLE",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "OFFSETX",
+                                "label": "OFFSETX",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "OFFSETY",
+                                "label": "OFFSETY",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Status",
+                                "label": "Status",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Changed",
+                                "label": "Changed",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ExtraText1",
+                                "label": "Extra1",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ExtraText2",
+                                "label": "ExtraText2",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ExtraDbl1",
+                                "label": "Extra",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ExtraDbl2",
+                                "label": "ExtraDbl2",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Prop_Address",
+                                "label": "Prop_Address",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "GlobalID",
+                                "label": "GlobalID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STLength()",
+                                "label": "Shape.STLength()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            }
+                        ],
+                        "description": "Parcel Number: {MAPPING_ID}<br /> <br />{ACRES} Acres",
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                }
+            ]
+        },
+        {
+            "id": "PV2P_Historic2017_1690",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2P_Historic2017/MapServer",
+            "visibility": false,
+            "opacity": 1,
+            "title": "2017 Tax Parcels",
+            "itemId": "48d3edc2a46c4b7083c9423c0b3f68de"
+        },
+        {
+            "id": "PV2Parcels_6139",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2Parcels/MapServer",
+            "visibility": true,
+            "opacity": 1,
+            "title": "Current Tax Parcels",
+            "itemId": "8ce8fe6b6bf04367acbdc518e1600098",
+            "minScale": 24000,
+            "maxScale": 0,
+            "showLegend": false
+        },
+        {
+            "id": "PV2P_Popup_9274",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2P_Popup/MapServer",
+            "visibility": false,
+            "opacity": 1,
+            "title": "Current Tax Parcel popup",
+            "itemId": "ca99806451854f4b92c9ffa3151a68d2",
+            "showLegend": false,
+            "layers": [
+                {
+                    "id": 0,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 0
+                        }
+                    },
+                    "name": "Parcel Popup",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": -1,
+                    "defaultVisibility": true,
+                    "popupInfo": {
+                        "title": "Current Tax Parcel : {MAPPING_ID}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "MAPPING_ID",
+                                "label": "MAPPING_ID",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ACRES",
+                                "label": "ACRES",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ownername1",
+                                "label": "ownername1",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "propstreetcombined",
+                                "label": "propstreetcombined",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "liberpage",
+                                "label": "liberpage",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "propaddrdirect",
+                                "label": "propaddrdirect",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "propstreetname",
+                                "label": "propstreetname",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ass",
+                                "label": "ass",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 0,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "tax",
+                                "label": "tax",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 0,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STLength()",
+                                "label": "Shape.STLength()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "totalacres",
+                                "label": "totalacres",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "Changed",
+                                "label": "Changed",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ExtraText2",
+                                "label": "ExtraText2",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ExtraDbl1",
+                                "label": "Extra",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "ExtraDbl2",
+                                "label": "ExtraDbl2",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "GlobalID",
+                                "label": "GlobalID",
+                                "isEditable": false,
+                                "visible": false
+                            },
+                            {
+                                "fieldName": "Rework",
+                                "label": "Rework",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Creator",
+                                "label": "Creator",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Created",
+                                "label": "Created",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "dateFormat": "shortDateShortTime",
+                                    "timezone": "utc"
+                                }
+                            },
+                            {
+                                "fieldName": "Editor",
+                                "label": "Editor",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Edited",
+                                "label": "Edited",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "dateFormat": "shortDateShortTime",
+                                    "timezone": "utc"
+                                }
+                            },
+                            {
+                                "fieldName": "Status",
+                                "label": "Status",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ownerstreetaddr",
+                                "label": "ownerstreetaddr",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ownercity",
+                                "label": "ownercity",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ownerstate",
+                                "label": "ownerstate",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ownerzip",
+                                "label": "ownerzip",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ownercareof",
+                                "label": "ownercareof",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "OFFSETY",
+                                "label": "OFFSETY",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "zoning",
+                                "label": "zoning",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "OFFSETX",
+                                "label": "OFFSETX",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "ANGLE",
+                                "label": "ANGLE",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "taxpaycareof",
+                                "label": "taxpaycareof",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "taxpaystreetaddr",
+                                "label": "taxpaystreetaddr",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "taxpaycity",
+                                "label": "taxpaycity",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "taxpaystate",
+                                "label": "taxpaystate",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "taxpayzip",
+                                "label": "taxpayzip",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ExtraText1",
+                                "label": "Extra1",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "prim_unit",
+                                "label": "prim_unit",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 0,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "ass_mailzip",
+                                "label": "ass_mailzip",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "CENTERY",
+                                "label": "CENTERY",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "CENTERX",
+                                "label": "CENTERX",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "genericlistitem",
+                                "label": "genericlistitem",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "neighborhood",
+                                "label": "neighborhood",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "propclass",
+                                "label": "propclass",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "schooldist",
+                                "label": "schooldist",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "exemptcode",
+                                "label": "exemptcode",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "mapnum",
+                                "label": "mapnum",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "usernum",
+                                "label": "usernum",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 0,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "useCode",
+                                "label": "useCode",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 0,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "overAllStatus",
+                                "label": "overAllStatus",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "isExempt",
+                                "label": "isExempt",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 0,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "propstatus",
+                                "label": "propstatus",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "shortnotes",
+                                "label": "shortnotes",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "MayPRE",
+                                "label": "MayPRE",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 0,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "homestead",
+                                "label": "homestead",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "qualag",
+                                "label": "qualag",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 0,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "year",
+                                "label": "year",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 0,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "landass",
+                                "label": "landass",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 0,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ERROR",
+                                "label": "ERROR",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "COMMENT",
+                                "label": "COMMENT",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "DEED_ACRES",
+                                "label": "DEED_ACRES",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            },
+                            {
+                                "fieldName": "taxpayname",
+                                "label": "taxpayname",
+                                "isEditable": false,
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            }
+                        ],
+                        "description": "<font color='#000000'><span style='background-color: rgb(255, 255, 255);'>Owner: {ownername1}<br />Property Address:  {propstreetcombined}</span><br /><span style='background-color: rgb(255, 255, 255);'>Acres: {ACRES}<br /><br /></span></font><a href='https://is.bsasoftware.com/bsa.is/AssessingServices/ServiceAssessingSearchResults.aspx?p={MAPPING_ID}&amp;i=1&amp;appid=0&amp;unit=380' target='_blank'><font size='2'>Assessing Information</font></a><font color='#000000'><span style='background-color: rgb(255, 255, 255);'><font size='2'> </font><br /> </span></font><a href='https://www.allegancounty.org/docs/LIS/2017Parcels/{MAPPING_ID}.pdf' target='_blank'><br /><font size='2'>PDF Parcel Map </font><br /></a>",
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                }
+            ]
+        },
+        {
+            "id": "PV2Subdivisions_4443",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2Subdivisions/MapServer",
+            "visibility": false,
+            "opacity": 1,
+            "title": "Subdivision Plats",
+            "itemId": "ed3af8b35f08439d8f23805ee7d60ddc",
+            "minScale": 48000,
+            "maxScale": 0,
+            "showLegend": false,
+            "layers": [
+                {
+                    "id": 0,
+                    "popupInfo": {
+                        "title": "Subdivision: {NAME}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "SUBDIVISIO",
+                                "label": "SUBDIVISIO",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "NAME",
+                                "label": "NAME",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "GlobalID",
+                                "label": "GlobalID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Creator",
+                                "label": "Creator",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Created",
+                                "label": "Created",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "dateFormat": "longMonthDayYear"
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Editor",
+                                "label": "Editor",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Edited",
+                                "label": "Edited",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "dateFormat": "longMonthDayYear"
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "SiteLink",
+                                "label": "SiteLink",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STLength()",
+                                "label": "Shape.STLength()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            }
+                        ],
+                        "description": "<a href='{SiteLink}' target='_blank'>Link to MI.gov Statewide Search for Subdivision Plats</a>",
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                }
+            ]
+        },
+        {
+            "id": "PV2Masterplan_7999",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2Masterplan/MapServer",
+            "visibility": true,
+            "opacity": 0.74,
+            "title": "Future Land Use",
+            "itemId": "5a10c3a481854a0ca192539f738e1206",
+            "layers": [
+                {
+                    "id": 0,
+                    "popupInfo": {
+                        "title": "Allegan City Future Land Use: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "MASTERPLAN",
+                                "label": "MASTERPLAN",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "GlobalID",
+                                "label": "GlobalID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            }
+                        ],
+                        "description": "Label: {LABEL}<br />Land Use: {MASTERPLAN}<br /><br /><a href='http://www.cityofallegan.org/reports/FINAL-MASTER-PLAN-WITH-MAPS.pdf' target='_blank'>Local Unit Link</a>",
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    },
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 0
+                        }
+                    },
+                    "name": "Allegan City Future Land Use",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": -1,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 1,
+                    "popupInfo": {
+                        "title": "Allegan Township Future Land Use: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "MASTERPLAN",
+                                "label": "MASTERPLAN",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "GlobalID",
+                                "label": "GlobalID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            }
+                        ],
+                        "description": "Label: {LABEL}<br />Land Use: {MASTERPLAN}<br /><br /><a href='http://www.allegantownship.org/PDF/Allegan%20Township%20Master%20Plan%20Document%202016%20Update%20Draft.pdf' target='_blank'>Local Unit Link</a>",
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    },
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 1
+                        }
+                    },
+                    "name": "Allegan Twp Future Land Use",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": -1,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 5,
+                    "popupInfo": {
+                        "title": "Fennville City Future Land Use:{LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "isEditable": false,
+                                "visible": false
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "isEditable": false,
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "MASTERPLAN",
+                                "label": "MASTERPLAN",
+                                "isEditable": false,
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "GlobalID",
+                                "label": "GlobalID",
+                                "isEditable": false,
+                                "visible": false
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "isEditable": false,
+                                "visible": false
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": false,
+                        "mediaInfos": []
+                    },
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 5
+                        }
+                    },
+                    "name": "Fennville City Future Land Use",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": -1,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 2,
+                    "popupInfo": {
+                        "title": "Heath Township Future Land Use: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "MASTERPLAN",
+                                "label": "MASTERPLAN",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "GlobalID",
+                                "label": "GlobalID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            }
+                        ],
+                        "description": "Label: {LABEL}<br />Land Use: {MASTERPLAN}<br /> <br /><a href='https://www.allegancounty.org/docs/LIS/masterplanMaps/HeathTwp_FLU.pdf' target='_blank'>Recent Future Land Use Map </a><br /><br /><a href='http://www.heathtownship.net/pdf/Adopted_Heath_Twp_Final_MP.pdf' target='_blank'>Local Unit Link</a>",
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    },
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 2
+                        }
+                    },
+                    "name": "Heath Township Future Land Use",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": -1,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 3,
+                    "popupInfo": {
+                        "title": "Laketown Township Future Land Use: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "MASTERPLAN",
+                                "label": "MASTERPLAN",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "AC_Pro_DBO_AC_Masterplan_AREA",
+                                "label": "AC_Pro.DBO.AC_Masterplan.AREA",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "CLASS",
+                                "label": "CLASS",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "created_user",
+                                "label": "created_user",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "created_date",
+                                "label": "created_date",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "dateFormat": "longMonthDayYear"
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "last_edited_user",
+                                "label": "last_edited_user",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "last_edited_date",
+                                "label": "last_edited_date",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "dateFormat": "longMonthDayYear"
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Unit",
+                                "label": "Unit",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "UNITNUM",
+                                "label": "UNITNUM",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "hyperlink",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "GlobalID",
+                                "label": "GlobalID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STLength()",
+                                "label": "Shape.STLength()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            }
+                        ],
+                        "description": "Label: {LABEL}<br />Land Use: {MASTERPLAN}<br /><br /><a href='http://www.laketowntwp.org/wp-content/uploads/2013/07/FLU_Jun24_05-2.pdf' target='_blank'>Local Unit Link</a>",
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    },
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 3
+                        }
+                    },
+                    "name": "Laketown Township Future Land Use",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": -1,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 4,
+                    "popupInfo": {
+                        "title": "Wayland Township Future Land Use: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "MASTERPLAN",
+                                "label": "MASTERPLAN",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "AC_Pro_DBO_AC_Masterplan_AREA",
+                                "label": "AC_Pro.DBO.AC_Masterplan.AREA",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "CLASS",
+                                "label": "CLASS",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "created_user",
+                                "label": "created_user",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "created_date",
+                                "label": "created_date",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "dateFormat": "longMonthDayYear"
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "last_edited_user",
+                                "label": "last_edited_user",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "last_edited_date",
+                                "label": "last_edited_date",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "dateFormat": "longMonthDayYear"
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Unit",
+                                "label": "Unit",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "UNITNUM",
+                                "label": "UNITNUM",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "hyperlink",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "GlobalID",
+                                "label": "GlobalID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STLength()",
+                                "label": "Shape.STLength()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            }
+                        ],
+                        "description": "Label: {LABEL}<br />Land Use: {MASTERPLAN}<br /><br /><a href='http://www.waytwp.org/Adobe/Wayland%20Twp%20Masterplan%20Map-draft.pdf' target='_blank'>Local Unit Link</a>",
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    },
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 4
+                        }
+                    },
+                    "name": "Wayland Township Future Land Use",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": -1,
+                    "defaultVisibility": true
+                }
+            ]
+        },
+        {
+            "id": "PV2Zoning_6241",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2Zoning/MapServer",
+            "visibility": false,
+            "opacity": 0.76,
+            "title": "Zoning",
+            "itemId": "0ff92d6a9d6c4e3cb4d716162f8bd978",
+            "layers": [
+                {
+                    "id": 0,
+                    "popupInfo": {
+                        "title": "Allegan City Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 1,
+                    "popupInfo": {
+                        "title": "AlleganTwp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 2,
+                    "popupInfo": {
+                        "title": "Casco Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 3,
+                    "popupInfo": {
+                        "title": "Cheshire Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 5,
+                    "popupInfo": {
+                        "title": "Douglas City Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 6,
+                    "popupInfo": {
+                        "title": "Dorr Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 7,
+                    "popupInfo": {
+                        "title": "Fillmore Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 8,
+                    "popupInfo": {
+                        "title": "Ganges Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 9,
+                    "popupInfo": {
+                        "title": "Gun Plain Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 10,
+                    "popupInfo": {
+                        "title": "Heath Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 11,
+                    "popupInfo": {
+                        "title": "Hopkins Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 12,
+                    "popupInfo": {
+                        "title": "Laketown Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 13,
+                    "popupInfo": {
+                        "title": "Leighton Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 14,
+                    "popupInfo": {
+                        "title": "Manlius Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 15,
+                    "popupInfo": {
+                        "title": "Martin Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 16,
+                    "popupInfo": {
+                        "title": "Monterey Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 17,
+                    "popupInfo": {
+                        "title": "Otsego City Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 18,
+                    "popupInfo": {
+                        "title": "Otsego Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 19,
+                    "popupInfo": {
+                        "title": "Overisel Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 20,
+                    "popupInfo": {
+                        "title": "Plainwell City Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 21,
+                    "popupInfo": {
+                        "title": "Salem Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 22,
+                    "popupInfo": {
+                        "title": "Saugatuck City Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 23,
+                    "popupInfo": {
+                        "title": "Saugatuck Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 24,
+                    "popupInfo": {
+                        "title": "Trowbridge Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 25,
+                    "popupInfo": {
+                        "title": "Valley Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 26,
+                    "popupInfo": {
+                        "title": "Watson Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 27,
+                    "popupInfo": {
+                        "title": "Wayland City Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 28,
+                    "popupInfo": {
+                        "title": "Wayland Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                },
+                {
+                    "id": 4,
+                    "popupInfo": {
+                        "title": "Clyde Twp Zoning: {LABEL}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "LABEL",
+                                "label": "LABEL",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ZONING",
+                                "label": "ZONING",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "hyperlink",
+                                "label": "Local Unit Information",
+                                "tooltip": "",
+                                "visible": true,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STArea()",
+                                "label": "Shape.STArea()",
+                                "isEditable": false,
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                }
+                            }
+                        ],
+                        "description": "Label: {LABEL}<br />Zoning: {ZONING}<br /><a href='https://www.allegancounty.org/docs/LIS/zoningMaps/ClydeTwpZoningMap.pdf' target='_blank'>Recent Zoning Map</a><br /><a href='{hyperlink}' target='_blank'>Local Unit Link</a>",
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                }
+            ]
+        },
+        {
+            "id": "PV2Contours_4088",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2Contours/MapServer",
+            "visibility": false,
+            "opacity": 1,
+            "title": "Contours (ft)",
+            "itemId": "796e9cdd387a4614b0d5d7384463ef2a",
+            "minScale": 62348,
+            "maxScale": 0
+        },
+        {
+            "id": "PV2LocalUnits_8599",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2LocalUnits/MapServer",
+            "visibility": false,
+            "opacity": 0.26,
+            "title": "Local Government Units",
+            "itemId": "853914becea14952ab5b9ebe2fd7e33b",
+            "showLegend": false,
+            "layers": [
+                {
+                    "id": 0,
+                    "popupInfo": {
+                        "title": "LocalUnitsPopup: {UnitName}",
+                        "fieldInfos": [
+                            {
+                                "fieldName": "OBJECTID",
+                                "label": "OBJECTID",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": null,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "ExtraText1",
+                                "label": "Extra1",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": null,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "UnitID",
+                                "label": "UnitID",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "UnitName",
+                                "label": "UnitName",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": null,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "InUnit",
+                                "label": "InUnit",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": null,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "SiteLink",
+                                "label": "SiteLink",
+                                "tooltip": "",
+                                "visible": true,
+                                "format": null,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape",
+                                "label": "Shape",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": null,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "GlobalID",
+                                "label": "GlobalID",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": null,
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "Shape.STLength()",
+                                "label": "Shape.STLength()",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": {
+                                    "places": 2,
+                                    "digitSeparator": true
+                                },
+                                "stringFieldOption": "textbox"
+                            },
+                            {
+                                "fieldName": "GlobalID",
+                                "label": "GlobalID",
+                                "tooltip": "",
+                                "visible": false,
+                                "format": null,
+                                "stringFieldOption": "textbox"
+                            }
+                        ],
+                        "description": null,
+                        "showAttachments": true,
+                        "mediaInfos": []
+                    }
+                }
+            ]
+        },
+        {
+            "id": "PV2ZipCodes_10",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2ZipCodes/MapServer",
+            "visibility": false,
+            "opacity": 0.3,
+            "title": "Zip Codes",
+            "itemId": "d6c10ee014064ffab332aefd234bf955",
+            "minScale": 300000,
+            "maxScale": 206
+        },
+        {
+            "id": "PV2Roads_4",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2Roads/MapServer",
+            "visibility": true,
+            "opacity": 1,
+            "title": "Roads",
+            "itemId": "5d39533aa99f49788dd6d5ba19341a49",
+            "showLegend": false
+        },
+        {
+            "id": "PV2BaseLayers_814",
+            "layerType": "ArcGISMapServiceLayer",
+            "url": "https://gis.allegancounty.org/gis/rest/services/ParcelViewer2/PV2BaseLayers/MapServer",
+            "visibility": true,
+            "opacity": 1,
+            "title": "Base Layers",
+            "itemId": "2ec0646f63b049f29b37bb31868e3b67",
+            "minScale": 33718868,
+            "maxScale": 0,
+            "showLegend": false,
+            "layers": [
+                {
+                    "id": 0,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 0
+                        }
+                    },
+                    "name": "1k",
+                    "minScale": 999,
+                    "maxScale": 0,
+                    "parentLayerId": -1,
+                    "subLayerIds": [
+                        1,
+                        2,
+                        3,
+                        4
+                    ],
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 1,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 1
+                        }
+                    },
+                    "name": "PLSS Quarter Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 0,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 2,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 2
+                        }
+                    },
+                    "name": "Government Units",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 0,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 3,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 3
+                        }
+                    },
+                    "name": "PLSS Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 0,
+                    "defaultVisibility": false
+                },
+                {
+                    "id": 4,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 4
+                        }
+                    },
+                    "name": "PLSS Townships",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 0,
+                    "defaultVisibility": false
+                },
+                {
+                    "id": 5,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 5
+                        }
+                    },
+                    "name": "1.5k",
+                    "minScale": 1999,
+                    "maxScale": 1000,
+                    "parentLayerId": -1,
+                    "subLayerIds": [
+                        6,
+                        7,
+                        8,
+                        9
+                    ],
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 6,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 6
+                        }
+                    },
+                    "name": "PLSS Quarter Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 5,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 7,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 7
+                        }
+                    },
+                    "name": "Government Units",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 5,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 8,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 8
+                        }
+                    },
+                    "name": "PLSS Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 5,
+                    "defaultVisibility": false
+                },
+                {
+                    "id": 9,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 9
+                        }
+                    },
+                    "name": "PLSS Townships",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 5,
+                    "defaultVisibility": false
+                },
+                {
+                    "id": 10,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 10
+                        }
+                    },
+                    "name": "3k",
+                    "minScale": 3999,
+                    "maxScale": 2000,
+                    "parentLayerId": -1,
+                    "subLayerIds": [
+                        11,
+                        12,
+                        13,
+                        14
+                    ],
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 11,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 11
+                        }
+                    },
+                    "name": "PLSS Quarter Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 10,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 12,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 12
+                        }
+                    },
+                    "name": "PLSS Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 10,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 13,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 13
+                        }
+                    },
+                    "name": "Government Units",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 10,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 14,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 14
+                        }
+                    },
+                    "name": "PLSS Townships",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 10,
+                    "defaultVisibility": false
+                },
+                {
+                    "id": 15,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 15
+                        }
+                    },
+                    "name": "6k",
+                    "minScale": 7999,
+                    "maxScale": 4000,
+                    "parentLayerId": -1,
+                    "subLayerIds": [
+                        16,
+                        17,
+                        18,
+                        19
+                    ],
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 16,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 16
+                        }
+                    },
+                    "name": "PLSS Quarter Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 15,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 17,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 17
+                        }
+                    },
+                    "name": "PLSS Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 15,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 18,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 18
+                        }
+                    },
+                    "name": "Government Units",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 15,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 19,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 19
+                        }
+                    },
+                    "name": "PLSS Townships",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 15,
+                    "defaultVisibility": false
+                },
+                {
+                    "id": 20,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 20
+                        }
+                    },
+                    "name": "12k",
+                    "minScale": 15999,
+                    "maxScale": 8000,
+                    "parentLayerId": -1,
+                    "subLayerIds": [
+                        21,
+                        22,
+                        23,
+                        24
+                    ],
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 21,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 21
+                        }
+                    },
+                    "name": "Government Units",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 20,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 22,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 22
+                        }
+                    },
+                    "name": "PLSS Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 20,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 23,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 23
+                        }
+                    },
+                    "name": "PLSS Quarter Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 20,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 24,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 24
+                        }
+                    },
+                    "name": "PLSS Townships",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 20,
+                    "defaultVisibility": false
+                },
+                {
+                    "id": 25,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 25
+                        }
+                    },
+                    "name": "24k",
+                    "minScale": 31999,
+                    "maxScale": 16000,
+                    "parentLayerId": -1,
+                    "subLayerIds": [
+                        26,
+                        27,
+                        28,
+                        29
+                    ],
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 26,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 26
+                        }
+                    },
+                    "name": "Government Units",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 25,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 27,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 27
+                        }
+                    },
+                    "name": "PLSS Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 25,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 28,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 28
+                        }
+                    },
+                    "name": "PLSS Quarter Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 25,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 29,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 29
+                        }
+                    },
+                    "name": "PLSS Townships",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 25,
+                    "defaultVisibility": false
+                },
+                {
+                    "id": 30,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 30
+                        }
+                    },
+                    "name": "48k",
+                    "minScale": 63999,
+                    "maxScale": 32000,
+                    "parentLayerId": -1,
+                    "subLayerIds": [
+                        31,
+                        32,
+                        33
+                    ],
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 31,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 31
+                        }
+                    },
+                    "name": "PLSS Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 30,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 32,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 32
+                        }
+                    },
+                    "name": "Government Units",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 30,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 33,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 33
+                        }
+                    },
+                    "name": "PLSS Townships",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 30,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 34,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 34
+                        }
+                    },
+                    "name": "96k",
+                    "minScale": 127999,
+                    "maxScale": 64000,
+                    "parentLayerId": -1,
+                    "subLayerIds": [
+                        35,
+                        36,
+                        37
+                    ],
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 35,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 35
+                        }
+                    },
+                    "name": "Government Units",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 34,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 36,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 36
+                        }
+                    },
+                    "name": "PLSS Sections",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 34,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 37,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 37
+                        }
+                    },
+                    "name": "PLSS Townships",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 34,
+                    "defaultVisibility": false
+                },
+                {
+                    "id": 38,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 38
+                        }
+                    },
+                    "name": "192k",
+                    "minScale": 255999,
+                    "maxScale": 128000,
+                    "parentLayerId": -1,
+                    "subLayerIds": [
+                        39,
+                        40
+                    ],
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 39,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 39
+                        }
+                    },
+                    "name": "Government Units",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 38,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 40,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 40
+                        }
+                    },
+                    "name": "PLSS Townships",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 38,
+                    "defaultVisibility": false
+                },
+                {
+                    "id": 41,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 41
+                        }
+                    },
+                    "name": "350k",
+                    "minScale": 433499,
+                    "maxScale": 260000,
+                    "parentLayerId": -1,
+                    "subLayerIds": [
+                        42,
+                        43
+                    ],
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 42,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 42
+                        }
+                    },
+                    "name": "Government Units",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 41,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 43,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 43
+                        }
+                    },
+                    "name": "PLSS Townships",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 41,
+                    "defaultVisibility": false
+                },
+                {
+                    "id": 44,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 44
+                        }
+                    },
+                    "name": "471k",
+                    "minScale": 507999,
+                    "maxScale": 433500,
+                    "parentLayerId": -1,
+                    "subLayerIds": [
+                        45,
+                        46
+                    ],
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 45,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 45
+                        }
+                    },
+                    "name": "Government Units",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 44,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 46,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 46
+                        }
+                    },
+                    "name": "PLSS Townships",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 44,
+                    "defaultVisibility": false
+                },
+                {
+                    "id": 47,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 47
+                        }
+                    },
+                    "name": "768k",
+                    "minScale": 7113816,
+                    "maxScale": 508000,
+                    "parentLayerId": -1,
+                    "subLayerIds": [
+                        48,
+                        49
+                    ],
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 48,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 48
+                        }
+                    },
+                    "name": "Government Units",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 47,
+                    "defaultVisibility": true
+                },
+                {
+                    "id": 49,
+                    "layerDefinition": {
+                        "source": {
+                            "type": "mapLayer",
+                            "mapLayerId": 49
+                        }
+                    },
+                    "name": "County Boundary",
+                    "minScale": 0,
+                    "maxScale": 0,
+                    "parentLayerId": 47,
+                    "defaultVisibility": true
+                }
+            ]
+        }
+    ],
+    "baseMap": {
+        "baseMapLayers": [
+            {
+                "id": "World_Street_Map_8421",
+                "layerType": "ArcGISTiledMapServiceLayer",
+                "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer",
+                "visibility": true,
+                "opacity": 1,
+                "title": "World Street Map"
+            }
+        ],
+        "title": "Streets Basemap"
+    },
+    "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+    },
+    "authoringApp": "WebMapViewer",
+    "authoringAppVersion": "10.5",
+    "version": "2.7"
+}

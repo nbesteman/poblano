@@ -1,0 +1,1236 @@
+OBJECTID,EDITNOTES,Cnt_EDITNOTES
+-1, ,8890
+-1, Added FETYPE,1
+-1, REMOVE duplicative FENAME2/FETYPE2 (Same in both fields) + REMOVED FEDIRP + Corrected ADDRESSES,1
+-1, REMOVE FEDIRP + Corrected ADDRESS RANGES,1
+-1,"""New"" A90 (non-driveable, non-existant but certified County Local Rd) to balance out certified mileage",1
+-1,03/03/2009,1
+-1,"03/18/2009 modified, corrected range",2
+-1,06/07/2012,1
+-1,07/24/2012,1
+-1,"20090520 modify, 20161003 extended range from 1930 to 1908",1
+-1,20121010 Corrected FENAME + Added FEDIRP2/FENAME2/FETYPE2 + Corrected ADDRESS RANGES,1
+-1,20130816 flipped fraddr and toaddr and changed address range numbers,1
+-1,"20141201 Corrected address TOADDR, 20130508 REPOSITIONED to center of roadway + Corrected ADDRESS RANGES",1
+-1,"20150828 chnage from B Ave to Mozart Ct, 20150724 change from S Ave to B Ave",1
+-1,"20160216 corrected name, 20120628 SPLIT for Cul-de-sac + REPOSITIONED COMPLETELY + Corrected ADDRESS RANGES",1
+-1,"20160216 corrected name, SPLIT 20160216 for Cul-de-sac (FCC = A43) + REPOSITIONED COMPLETELY + Corrected ADDRESS RANGES",1
+-1,20170113 corrected from Grandterrace Dr to Grand Tranverse Dr,1
+-1,20170505 corrected to Trl.  20160506 New private road Peninsula Dr,1
+-1,add address range,7
+-1,add address ranges,2
+-1,Add FEDIRP,1
+-1,"Add FENAME+FETYPE, Removed FENAME2+FETYPE2, Add ADDRESS RANGES + REPOSITION",1
+-1,"Add FENAME2, corrected address ranges",1
+-1,"Add FENAME2, FENAME3, FETYPE3, corrected address ranges",3
+-1,"Add FENAME3, FETYPE3",2
+-1,Add new DISCONTINUOUS segment of ANDREA'S LN with addresses,1
+-1,Add new private cul-de-sac (FCC = 43) with address ranges,1
+-1,Add new private road,1
+-1,add ranges,1
+-1,Add segment of private road with addresses,1
+-1,Add segments for roundabout including ADDRESS RANGES,2
+-1,added address range,6
+-1,Added ADDRESS RANGE + Added TRAFALIGN,1
+-1,Added ADDRESS RANGE.,1
+-1,added address ranges,21
+-1,Added ADDRESS RANGES,221
+-1,Added ADDRESS RANGES (ODD + EVEN ON BOTH SIDES),1
+-1,Added ADDRESS RANGES + Added FENAME2/FETYPE2,1
+-1,Added ADDRESS RANGES + Corrected FENAME + Added FENAME2/FETYPE2 + FENAME3/FETYPE3,1
+-1,Added ADDRESS RANGES + Corrected FENAME + REMOVED FETYPE,1
+-1,Added ADDRESS RANGES + Remove FEDIRP + Corrected FENAME,1
+-1,Added ADDRESS RANGES + REPOSITIONED,1
+-1,Added ADDRESS RANGES and  ZIPs,1
+-1,added address ranges and FEDIRP,1
+-1,Added ADDRESS RANGES and ZIPs,10
+-1,Added ADDRESS RANGES on Allegan Co side of the roadway.,2
+-1,Added ADDRESS RANGES to left (west) side of segment.,3
+-1,"added address ranges, added zipcodes",1
+-1,"added address ranges, also modidfied 20090126",1
+-1,"added address ranges, corrected fename and fetype",1
+-1,Added ADDRESS RANGES. Again.,1
+-1,Added ADDRESSES + Corrected FENAME/FETYPE + Corrected FENAME2/FETYPE2 + Added FENAME3/FETYPE3,2
+-1,Added ADDRESSES + REPOSITIONED. This road has NOT YET BEEN BUILT and is positioned in the center of the RIGHT-OF-WAY,1
+-1,Added ALL ADDRESS RANGES,1
+-1,"Added ALL ADDRESS RANGES; Added ZIPL, ZIPR",1
+-1,added due to completely messed up address ranges on Woodlea Dr,1
+-1,Added FEDIRP,2
+-1,Added FEDIRP + Added ADDRESS RANGES,2
+-1,Added FEDIRP + Corrected ADDRESS RANGES,15
+-1,Added FEDIRP + Corrected FENAME+FETYPE + REMOVED FEDIRP3+FENAME3+FETYPE3,3
+-1,Added FEDIRP + Corrected FETYPE + Added FENAME2/FETYPE2 + Corrected ADDRESS RANGES,3
+-1,added fedirp and corrected address ranges,6
+-1,Added FEDIRP2/FENAME2/FETYPE2 + Corrected ADDRESS RANGES,3
+-1,Added FENAME,2
+-1,Added FENAME + Added ADDRESSES + Change FCC from ""A65"" to ""A41"",3
+-1,Added FENAME/FETYPE + Added ADDRESS RANGES,2
+-1,Added FENAME/FETYPE + Added ADDRESS RANGES + Change FCC to ""A41"",2
+-1,Added FENAME2,1
+-1,Added FENAME2 (The secondary state trunkline route designation for this freeway),8
+-1,Added FENAME2 + Corrected ADDRESS RANGES,2
+-1,added fename2 and fetype2,2
+-1,"Added FENAME2, corrected address ranges",1
+-1,Added FENAME2/FETYPE2,4
+-1,Added FENAME2/FETYPE2 + Added ADDRESS RANGES,4
+-1,Added FENAME2/FETYPE2 + Corrected ADDRESS RANGES,12
+-1,Added FENAME2/FETYPE2 + Corrected ADDRESS RANGES + REPOSITIONED,3
+-1,Added FENAME2/FETYPE2 + REPOSITIONED to center of roadway,1
+-1,Added FENAME3/FETYPE3,2
+-1,Added FETYPE,21
+-1,Added FETYPE + Added ADDRESS RANGES,6
+-1,Added FETYPE + corrected address ranges,2
+-1,Added FETYPE + Corrected ADDRESS RANGES,5
+-1,"Added FETYPE, corrected address ranges",2
+-1,Added FETYPE. AGAIN.,2
+-1,Added FETYPE2,1
+-1,Added Intercounty Highway designation to FENAME2,14
+-1,Added Intercounty Highway designation to FENAME2 + Corrected ADDRESS RANGES,7
+-1,Added missing segment of CO. LOCAL road (bringing  total length to certified length of 0.29 miles),1
+-1,Added missing segment of public (City Minor) street,1
+-1,"added zips, corrected address ranges",2
+-1,address range,4
+-1,address range changed from 710 and 711 to 700 and 701,1
+-1,address ranges,1
+-1,also modified 20090128,2
+-1,Certified Public Road does not exist (FCC = A90) and is not driveable + Changed FENAME2/FETYPE2,1
+-1,Change FCC - This road does NOT physically exist (and is not driveable); FCC = A90,1
+-1,Change FCC = A31& LEGALSYSTEM = 2 (NOT A RAMP ANYMORE) + REPOSITION + Fix FENAME/FETYPE + Fix ADDRESSES,1
+-1,CHANGE FCC to ""A90"" (certified but not-driveable) - No Road Exists Here Any More.,1
+-1,Change FCC to ""A90"" (Certified but Not-Driveable) + Added ADDRESS RANGES,1
+-1,Change FCC to ""A90"" (Certified but Undriveable) + Added ADDRESS RANGES,1
+-1,"Change FCC to A41 + Added FENAME, FENAME2 + Added ADDRESS RANGES",1
+-1,"Change FCC to A41 + Added FENAME, FENAME2 + Corrected ADDRESS RANGES",2
+-1,"Change FCC to A41 + Added FENAME/FETYPE, FENAME2 + Corrected ADDRESS RANGES",1
+-1,"Change FCC to A90 - Road does not physically exist in ANY form (but may still be certified). If Uncertified, please DELE",1
+-1,Change FCC to A90 - There is no actual or driveable roadway here + REMOVE FETYPE,1
+-1,Change FCC to A90 - this road is certified but not driveable; verify with ACRC if necessary...,1
+-1,change fename address ranges and redraw,1
+-1,change fename and address range,1
+-1,"change fename and address range, 20120618 Add new private (A41) road",1
+-1,change fename and address ranges,1
+-1,"change fename and address ranges ,modify 20090609",1
+-1,"changed fename ,20120618 Corrected FENAME + Added ADDRESS RANGES",1
+-1,Changed FENAME + Removed FETYPE + Added FENAME2 + Added FENAME3/FETYPE3,1
+-1,"changed fename and address ranges, ,20120618 Corrected FENAME + Removed FEDIRP = Fixed ADDRESS RANGES",1
+-1,"changed fename and address ranges, 20150718 Corrected FENAME + Removed FEDIRP = Fixed ADDRESS RANGES",1
+-1,"changed Fename, also modified on 20120320",1
+-1,"changed fename,20120618 Corrected FENAME + Removed FEDIRP",1
+-1,Changed FETYPE from Rd to Dr per Otsego FD,1
+-1,changed from South Geneva Lake Dr to S Geneva Lake Dr,1
+-1,changed from West Geneva Lake Dr to W Geneva Lake Dr,1
+-1,changed toaddl from 1848 to 1868 and toadder from 1849 to 1869,1
+-1,"changed TOADDR to accommodate dispatch duplicate range in Saugatuck, 20121010 Added FETYPE + Corrected ADDRESS RANGES",1
+-1,COMPLETELY REPOSITIONED entire segment to proper location + Corrected ADDRESSES,1
+-1,Completely REPOSITIONED to proper location (it was WAY off),1
+-1,corected address ranges,6
+-1,correct address range,1
+-1,correct address ranges,9
+-1,Correct ADDRESS RANGES,3
+-1,Correct ADDRESS RANGES + Remove incorrect FEDIRP,1
+-1,"correct address ranges, modify 20090303",1
+-1,"correct address ranges, modify on 20090303",1
+-1,Correct ADDRESSES + Remove incorrect FEDIRP + Add FENAME2/FETYPE2,1
+-1,Correct FENAME (based on correction of intersecting feature FENAME),4
+-1,Correct FENAME + Add FETYPE + Add FENAME2 (SECOND REQUEST!) + REPOSITIONED north end of segment,2
+-1,correct Fename from Ralynn to Raylynn,1
+-1,"Correct FENAME, FETYPE, FENAME2 + Remove FETYPE2 + Add FENAME3, FETYPE3",3
+-1,Correct FENAME/FETYPE + Add FENAME2/FETYPE2 + Add ADDRESS RANGES,1
+-1,Correct FENAME2 + REMOVE FETYPE2 + Add FENAME3/FETYPE3,2
+-1,Correct FENAME2 + Remove FETYPE2 + Add FENAME3/FETYPE3 + Correct ADDRESS RANGES,3
+-1,Correct TOADDR,1
+-1,corrected address range,55
+-1,Corrected ADDRESS RANGE,2
+-1,Corrected ADDRESS RANGE + Added TRAFALIGN,2
+-1,corrected address range FRADDL starting at 202,1
+-1,Corrected ADDRESS RANGE on left (west) side of segment.,9
+-1,corrected address range TOADDR ending at 200,1
+-1,"corrected address range, also modified 20090205",1
+-1,"corrected address range, also modified 20090311",1
+-1,"corrected address range, also modified 20090409",1
+-1,"corrected address range, also modified 20090413",1
+-1,"corrected address range, also modified 20090509",3
+-1,"corrected address range, also modified 20090521",1
+-1,"corrected address range, also modified 20090708",2
+-1,"corrected address range, also modified 20090815",1
+-1,"corrected address range, also modified 20120207",1
+-1,Corrected ADDRESS RANGE.,1
+-1,corrected address ranges,745
+-1,Corrected ADDRESS RANGES,425
+-1,Corrected ADDRESS RANGES (also modified 20090126),1
+-1,"Corrected ADDRESS RANGES (yes, they are correct!)",3
+-1,Corrected ADDRESS RANGES + Added FENAME2,1
+-1,Corrected ADDRESS RANGES + Added FENAME2/FETYPE2,5
+-1,Corrected ADDRESS RANGES + Added FENAME2+FETYPE2,4
+-1,Corrected ADDRESS RANGES + Added FETYPE,1
+-1,Corrected ADDRESS RANGES + Corrected FENAME,1
+-1,Corrected ADDRESS RANGES + Corrected FENAME + Added FETYPE2 + Corrected FENAME2 + Added FENAME3,1
+-1,Corrected ADDRESS RANGES + REMOVE FENAME2/FETYPE2 (Has NEVER been Wiley Rd),3
+-1,Corrected ADDRESS RANGES + REMOVE FENAME2/FETYPE2 + REPOSITIONED to center of realigned roadway,1
+-1,Corrected ADDRESS RANGES + Repositioned at Floral Dr intersection,1
+-1,Corrected ADDRESS RANGES + Repositioned at Mariette St intersection,1
+-1,Corrected ADDRESS RANGES + REPOSITIONED at north end of segment,1
+-1,Corrected ADDRESS RANGES + REPOSITIONED entire segment to proper location,1
+-1,Corrected ADDRESS RANGES + Repositioned to proper location,1
+-1,Corrected ADDRESS RANGES + Repositioned to proper location (delete extra node),1
+-1,Corrected ADDRESS RANGES + Split for new road segment,2
+-1,corrected address ranges and fedirp,6
+-1,corrected address ranges and fedrip,2
+-1,corrected address ranges and FENAME,1
+-1,corrected address ranges and fetype,3
+-1,corrected address ranges and yes we know they flow the wrong way but it's accurate,4
+-1,corrected address ranges and zipcodes,1
+-1,Corrected ADDRESS RANGES on left (west) side of segment.,1
+-1,"corrected address ranges, , Corrected FENAME + Corrected FETYPE",1
+-1,"corrected address ranges, added zipl and zipr",1
+-1,"corrected address ranges, also 20090303",2
+-1,"corrected address ranges, also correction in 2009",1
+-1,"corrected address ranges, also correction on 20100428",2
+-1,"corrected address ranges, also modified 20090129",1
+-1,"corrected address ranges, also modified 20090202",1
+-1,"corrected address ranges, also modified 20090213",2
+-1,"corrected address ranges, also modified 20090223",2
+-1,"corrected address ranges, also modified 20090304",2
+-1,"corrected address ranges, also modified 20090311",1
+-1,"corrected address ranges, also modified 20090313",1
+-1,"corrected address ranges, also modified 20090318",1
+-1,"corrected address ranges, also modified 20090403",1
+-1,"corrected address ranges, also modified 20090407",2
+-1,"corrected address ranges, also modified 20090409",1
+-1,"corrected address ranges, also modified 20090422",2
+-1,"corrected address ranges, also modified 20090505",1
+-1,"corrected address ranges, also modified 20090506",1
+-1,"corrected address ranges, also modified 20090528",1
+-1,"corrected address ranges, also modified 20090529",1
+-1,"corrected address ranges, also modified 20090601",8
+-1,"corrected address ranges, also modified 20090630",1
+-1,"corrected address ranges, also modified 20090701",1
+-1,"corrected address ranges, also modified 20090702",2
+-1,"corrected address ranges, also modified 20090819",2
+-1,"corrected address ranges, also modified 20090902",1
+-1,"corrected address ranges, also modified 20100422",4
+-1,"corrected address ranges, also modified 20100428",11
+-1,"corrected address ranges, also modified 20100505",2
+-1,"corrected address ranges, also modified 20110610",2
+-1,"corrected address ranges, also modified 20120207",2
+-1,"corrected address ranges, also modified fename on 20090304",1
+-1,"corrected address ranges, also modified on 20090205",2
+-1,"corrected address ranges, also modified on 20090505",1
+-1,"corrected address ranges, also modify 20090126",1
+-1,"corrected address ranges, also modify on 03/03/2009",1
+-1,"corrected address ranges, Corrected FENAME + Added FETYPE + Added FENAME2 (SECOND REQUEST!)",9
+-1,"corrected address ranges, Corrected FENAME + Corrected FENAME2",2
+-1,"corrected address ranges, Corrected FENAME + Corrected FETYPE",1
+-1,"corrected address ranges, Corrected FENAME + Removed FETYPE",1
+-1,"corrected address ranges, Corrected FENAME/FETYPE + Corrected FENAME2/FETYPE2",1
+-1,"corrected address ranges, corrected zipcode",1
+-1,"corrected address ranges, modified 20090708",1
+-1,"corrected address ranges, REPOSITIONED at Park Ln + Corrected FENAME/FETYPE + Corrected FENAME2/FETYPE2",1
+-1,Corrected ADDRESS RANGES.,2
+-1,Corrected ADDRESS RANGES. AGAIN.,6
+-1,"corrected address tanges, also modified 20090122",1
+-1,corrected addresses,2
+-1,Corrected ADDRESSES + Corrected FETYPE + Added FENAME2/FETYPE2,3
+-1,Corrected ADDRESSES + Modified FENAME,1
+-1,Corrected ADDRESSES + Remove incorrect FEDIRP + Add FENAME2/FETYPE2,1
+-1,Corrected ALL ADDRESS RANGES,43
+-1,Corrected ALL ADDRESS RANGES + REPOSITIONED segment,1
+-1,Corrected ALL ADDRESS RANGES + REPOSITIONED to proper location,1
+-1,Corrected ALL ADDRESS RANGES; Corrected FETYPE,1
+-1,Corrected FCC - Private Cul-de-sac (FCC = A43) + Corrected FENAME + Removed FETYPE + Corrected ADDRESS RANGES,1
+-1,"Corrected FCC Code to ""A90"" (Certified, Not-Driveable) + Added ADDRESS RANGES",2
+-1,Corrected FCC from A65 to A41 (named road) + Added FENAME/FETYPE + Added ADDRESSES,1
+-1,Corrected FCC to ""A43"" (Private cul-de-sac) + REPOSITIONED + Corrected ADDRESS RANGES + Note TRAFALIGN,1
+-1,Corrected FEDIRP,1
+-1,corrected fedirp and address ranges,1
+-1,"Corrected FEDIRP, FENAME, FETYPE, FEDIRP2, FENAME2, FETYPE2",8
+-1,"Corrected FEDIRP, FENAME, FETYPE, FEDIRP2, FENAME2, FETYPE2, address range",2
+-1,"Corrected FEDIRP, FENAME, FETYPE, FEDIRP2, FENAME2, FETYPE2, address ranges",3
+-1,"Corrected FEDIRP, FENAME, FETYPE, FEDIRP2, FENAME2, FETYPE2; Corrected ALL ADDRESS RANGES",1
+-1,"Corrected FEDIRP, FENAME, FETYPE, FEDIRP2, FENAME2, FETYPE2; Corrected FRADDL+FRADDR",1
+-1,"Corrected FEDIRP, FENAME, FETYPE, FEDIRP2, FENAME2, FETYPE2; Corrected FRADDL+TOADDL",2
+-1,"Corrected FEDIRP, FENAME, FETYPE, FEDIRP2, FENAME2, FETYPE2; Corrected FRADDL+TOADDL+TOADDR",1
+-1,"Corrected FEDIRP, FENAME, FETYPE, FEDIRP2, FENAME2, FETYPE2; Corrected FRADDR",2
+-1,"Corrected FEDIRP, FENAME, FETYPE, FEDIRP2, FENAME2, FETYPE2; Corrected FRADDR+TOADDR",1
+-1,Corrected FEDIRP; Corrected ALL ADDRESS RANGES,5
+-1,Corrected FEDIRP; Corrected FRADDL+FRADDR,1
+-1,corrected fename,4
+-1,corrected Fename,1
+-1,Corrected FENAME,14
+-1,Corrected FENAME - 2nd or 3rd time request! + Corrected ADDRESS RANGES,5
+-1,Corrected FENAME - 2nd or 3rd time requesting this change!,1
+-1,Corrected FENAME (""McMullan"") + Corrected ADDRESS RANGES,1
+-1,Corrected FENAME (Added capital ""B"" to ""MacBeth""),1
+-1,Corrected FENAME (Added capital ""B"" to ""MacBeth"") + Added ADDRESS RANGES,1
+-1,Corrected FENAME (Added space and capital ""S"" to ""La Salle"") + Added ADDRESSES,1
+-1,Corrected FENAME (NICHOLS not Nicholas) + Corrected ADDRESS RANGES,1
+-1,Corrected FENAME (two 'n's and an apostrophe),2
+-1,Corrected FENAME (Two ""L""s in Mitchell),2
+-1,Corrected FENAME + Added ADDRESS RANGES,12
+-1,Corrected FENAME + Added ADDRESS RANGES + REPOSITIONED to center of road,1
+-1,Corrected FENAME + Added FEDIRP2/FENAME2/FETYPE2,6
+-1,Corrected FENAME + Added FEDIRP2/FENAME2/FETYPE2 + Fixed ADDRESS RANGES,2
+-1,Corrected FENAME + Added FENAME/FETYPE2 + Corrected ADDRESS RANGES,1
+-1,Corrected FENAME + Added FENAME2 + Added FENAME3/FETYPE3 + Corrected ADDRESSES,4
+-1,Corrected FENAME + Added FENAME2/FETYPE2,6
+-1,Corrected FENAME + Added FENAME2/FETYPE2 + Added ADDRESS RANGES,2
+-1,Corrected FENAME + Added FENAME2/FETYPE2 + Added ADDRESS RANGES + REPOSITIONED,1
+-1,Corrected FENAME + Added FENAME2/FETYPE2 + Added ADDRESSES,1
+-1,Corrected FENAME + Added FENAME2/FETYPE2 + Corrected ADDRESS RANGES,7
+-1,Corrected FENAME + Added FENAME2/FETYPE2 + Corrected ADDRESS RANGES + REPOSITIONED,1
+-1,Corrected FENAME + Added FENAME2/FETYPE2 + REPOSITIONED to center of roadway,1
+-1,Corrected FENAME + Added FETYPE + Added ADDRESS RANGES,1
+-1,Corrected FENAME + Added FETYPE + Added ADDRESSES,1
+-1,Corrected FENAME + Added FETYPE + Added FEDIRP2/FENAME2/FETYPE2,3
+-1,Corrected FENAME + Added FETYPE + Added FEDIRP2/FENAME2/FETYPE2 + Corrected ADDRESSES,2
+-1,Corrected FENAME + Added FETYPE + Added FENAME2,1
+-1,Corrected FENAME + Added FETYPE + Added FENAME2 (SECOND REQUEST!),39
+-1,Corrected FENAME + Added FETYPE + Added FENAME2 (SECOND REQUEST!) + Added ADDRESSES,1
+-1,Corrected FENAME + Added FETYPE + Added FENAME2 (SECOND REQUEST!) + Corrected ADDRESSES,1
+-1,Corrected FENAME + Added FETYPE + REPOSITIONED entire segment + Added ADDRESSES,2
+-1,Corrected FENAME + Added FETYPE + REPOSITONED entire segment + Added ADDRESSES,1
+-1,Corrected FENAME + Corrected ADDRESS RANGES,11
+-1,Corrected FENAME + Corrected FETYPE,8
+-1,"Corrected FENAME + FETYPE, Added ADDRESS RANGES",2
+-1,"Corrected FENAME + FETYPE, Added ADDRESSES + REPOSITIONED entire segment",3
+-1,Corrected FENAME + REMOVE FEDIRP2/FENAME2/FETYPE2,1
+-1,Corrected FENAME + REMOVE FETYPE,1
+-1,Corrected FENAME + REMOVED FENAME2 + Added ADDRESS RANGES,1
+-1,Corrected FENAME + Removed FENAME2 + Corrected ADDRESS RANGES,1
+-1,Corrected FENAME + REMOVED FENAME2/FETYPE2 + Added ADDRESSES,1
+-1,Corrected FENAME + Removed FETYPE,11
+-1,Corrected FENAME + REMOVED FETYPE,3
+-1,Corrected FENAME + Removed FETYPE + Added ADDRESS RANGES,8
+-1,Corrected FENAME + REMOVED FETYPE + Added ADDRESS RANGES,2
+-1,Corrected FENAME + Removed FETYPE + Added FENAME2 + Corrected ADDRESSES,2
+-1,Corrected FENAME + Removed FETYPE + Added FENAME2/FETYPE2 + Corrected ADDRESSES,1
+-1,Corrected FENAME + Removed FETYPE + Corrected ADDRESS RANGES,3
+-1,Corrected FENAME + REMOVED FETYPE + Corrected ADDRESS RANGES,1
+-1,Corrected FENAME + Removed FETYPE + Corrected ADDRESS RANGES + REPOSITIONED,1
+-1,Corrected FENAME + Repositioned to proper location,2
+-1,corrected fename and address ranges,2
+-1,Corrected FENAME and FENAME2 + Corrected ADDRESS RANGES,1
+-1,corrected Fename and Fetype,1
+-1,corrected fename and fetype and address ranges,8
+-1,corrected Fename and Fetype and address ranges,1
+-1,corrected fename and fetype and addresses,1
+-1,corrected fename and fetype and fename2,1
+-1,"corrected Fename and Fetype, added address ranges",1
+-1,corrected fename from Pine Tree to Pine Trail,2
+-1,"Corrected FENAME, FENAME2",1
+-1,"Corrected FENAME, FENAME2, and ADDRESS RANGES",4
+-1,"corrected fename, fetype and address ranges",2
+-1,"corrected fename, fetype, also fename2 and 3",1
+-1,"Corrected FENAME, FETYPE, FENAME2 + Removed FETYPE2 + Added FENAME3, FETYPE3",2
+-1,"corrected fename, fetype,fename2, fetype2 and address ranges",1
+-1,"Corrected FENAME, FETYPE; Added FENAME2, FETYPE2; Corrected ALL ADDRESS RANGES",5
+-1,"Corrected FENAME, FETYPE; Corrected ALL ADDRESS RANGES",3
+-1,"Corrected FENAME, Removed FETYPE",2
+-1,"Corrected FENAME, Removed FETYPE + FENAME2 + FETYPE2 + Added ADDRESS RANGES",1
+-1,Corrected FENAME/FETYPE,10
+-1,Corrected FENAME/FETYPE & FENAME2/FETYPE2 + Fixed ADDRESS RANGES,1
+-1,Corrected FENAME/FETYPE + Add FENAME2/FETYPE2 + Corrected ADDRESSES + REPOSITIONED,1
+-1,Corrected FENAME/FETYPE + Added ADDRESS RANGES,8
+-1,Corrected FENAME/FETYPE + Added FEDIRP + Added FENAME2/FETYPE2,1
+-1,Corrected FENAME/FETYPE + Added FENAME2/FETYPE2,3
+-1,Corrected FENAME/FETYPE + Added FENAME2/FETYPE2 & FENAME3/FETYPE3 + Corrected ADDRESS RANGES,1
+-1,Corrected FENAME/FETYPE + Added FENAME2/FETYPE2 + Added ADDRESS RANGES,2
+-1,Corrected FENAME/FETYPE + Added FENAME2/FETYPE2 + Added ADDRESSES + Corrected LEGALSYS (this is a CITY MAJOR - 4),3
+-1,Corrected FENAME/FETYPE + Added FENAME2/FETYPE2 + Corrected ADDRESS RANGES,4
+-1,Corrected FENAME/FETYPE + ADDRESS RANGES,1
+-1,Corrected FENAME/FETYPE + Corrected ADDRESS RANGES,13
+-1,Corrected FENAME/FETYPE + Corrected ADDRESS RANGES + Corrected TRAFALIGN,2
+-1,Corrected FENAME/FETYPE + Corrected ADDRESSES + SPLIT for address and roadname change,1
+-1,Corrected FENAME/FETYPE + Corrected ADDRESSES + SPLIT for address range change,1
+-1,Corrected FENAME/FETYPE + Corrected ADDRESSES + SPLIT for road name and address change,1
+-1,Corrected FENAME/FETYPE + Corrected FENAME2/FETYPE2,2
+-1,Corrected FENAME/FETYPE + Corrected FENAME2/FETYPE2 + Added ADDRESSES,2
+-1,Corrected FENAME/FETYPE + Corrected FENAME2/FETYPE2 + REPOSITIONED to center of roadway,1
+-1,Corrected FENAME/FETYPE + Deleted FENAME2/FETYPE2,1
+-1,Corrected FENAME/FETYPE + FENAME2/FETYPE2 + Corrected ADDRESSES,3
+-1,Corrected FENAME/FETYPE + REMOVE FENAME2/FETYPE2 + Corrected ADDRESS RANGES,2
+-1,Corrected FENAME/FETYPE + REPOSITIONED segment to center of roadway,1
+-1,Corrected FENAME/FETYPE ADDRESS RANGES,1
+-1,Corrected FENAME/FETYPE. AGAIN,1
+-1,Corrected FENAME/FETYPE. AGAIN.,8
+-1,Corrected FENAME/FETYPE. AGAIN. Corrected ADDRESS RANGES. AGAIN.,7
+-1,Corrected FENAME; Added FETYPE; Corrected ALL ADDRESS RANGES,1
+-1,Corrected FENAME; Corrected ALL ADDRESS RANGES,2
+-1,Corrected FENAME+FENAME2; Corrected ALL ADDRESS RANGES,6
+-1,Corrected FENAME+FETYPE + Added FENAME2. PLEASE make these changes so this road is CONSISTENT!,17
+-1,Corrected FENAME+FETYPE + Added FENAME2+FETYPE2 + Added ADDRESS RANGES,3
+-1,Corrected FENAME+FETYPE + Corrected ADDRESSES + Repositioned,1
+-1,"Corrected FENAME+FETYPE, Added FENAME2, Added ADDRESS RANGES",4
+-1,Corrected FENAME+FETYPE; Added ADDRESS RANGES,1
+-1,Corrected FENAME+FETYPE; Corrected ALL ADDRESS RANGES,3
+-1,Corrected FENAME2,2
+-1,Corrected FENAME2 + Added FETYPE2,3
+-1,"Corrected FENAME2 + Removed FETYPE2 + Added FENAME3, FETYPE3",1
+-1,Corrected FENAME2 + REMOVED FETYPE2 + REMOVED FENAME3,1
+-1,Corrected FENAME2; Removed FETYPE2; This road is NOT Viaduct Rd - that is a different roadway,26
+-1,corrected fetype,1
+-1,Corrected FETYPE,6
+-1,Corrected FETYPE & FETYPE2 (swapped the designations),2
+-1,Corrected FETYPE & FETYPE2 + Corrected ADDRESS RANGES + Repositioned to center of road,2
+-1,Corrected FETYPE (""St"" not ""Rd""),1
+-1,Corrected FETYPE +  Corrected ADDRESS RANGES,1
+-1,Corrected FETYPE + Added ADDRESS RANGE + Added TRAFALIGN,1
+-1,Corrected FETYPE + Added ADDRESS RANGES,10
+-1,Corrected FETYPE + Added FEDIRP2/FENAME2/FETYPE2,1
+-1,"Corrected FETYPE + Added FEDIRP2/FENAME2/FETYPE2, corrected address ranges",2
+-1,Corrected FETYPE + Added FENAME2/FETYPE2,6
+-1,Corrected FETYPE + Added FENAME2/FETYPE2 + Corrected ADDRESSES,1
+-1,Corrected FETYPE + corrected address ranges,1
+-1,Corrected FETYPE + Corrected ADDRESS RANGES,2
+-1,Corrected FETYPE + FETYPE2 + REPOSITION at east end (at Second St),1
+-1,Corrected FETYPE + Removed FENAME2/FETYPE2 + Added ADDRESS RANGES + EXTENDED segment to the west,1
+-1,Corrected FETYPE + Removed FENAME2/FETYPE2 + Corrected ADDRESS RANGES,2
+-1,corrected fetype and address ranges,1
+-1,Corrected FETYPE to ""AVE"" and FETYPE2 to ""ST"" (Swapped them.),1
+-1,Corrected FETYPE to ""AVE"" and FETYPE2 to ""ST"" (Swapped them.) + Fixed ADDRESS RANGES,4
+-1,"corrected Fetype to Ln, corrected address ranges",3
+-1,Corrected FETYPE to ST.,2
+-1,"corrected FETYPE, added address range",1
+-1,Corrected FETYPE. AGAIN.,3
+-1,Corrected FETYPE. AGAIN. Corrected ADDRESS RANGES. AGAIN.,2
+-1,Corrected FETYPE; Removed FENAME2+FETYPE2; Added ALL ADDRESS RANGES,1
+-1,corrected Fetype2,1
+-1,"corrected fmcdl, 20120530 Corrected ADDRESS RANGES",2
+-1,"Corrected fmcdl,Split for Corporate Boundary, Corrected all ADDRESS RANGES, Corrected FENAME+FETYPE",1
+-1,"corrected fmcdr, 20120530 Added ADDRESS RANGES",1
+-1,corrected FRADDL,1
+-1,"corrected FRADDL and FRADDR, 20130104 REPOSITIONED to center of roadway",1
+-1,Corrected FRADDL+FRADDR,1
+-1,Corrected FRADDL+TOADDL,4
+-1,corrected fraddr and fraddl 20141015REPOSITIONED segment to center of realigned roadway,1
+-1,"corrected fraddr and toaddl, 20141015 REPOSITIONED to center of roadway",1
+-1,Corrected FRADDR+TOADDR,4
+-1,Corrected LEGALSYSTEM - This is a COUNTY LOCAL road (""3"") and NOT a Primary (""2""). Verified through Larry Brown at ACRC.,5
+-1,Corrected LEGALSYSTEM (from 3 to 2) - VERIFIED it's a COUNTY PRIMARY road thorugh ACRC.,5
+-1,corrected range,2
+-1,corrected ranges,10
+-1,"corrected ranges, Corrected FENAME + Removed FETYPE",2
+-1,"corrected roadname from 136th to 146th , 20130322 Added ADDRESS RANGES",2
+-1,"corrected roadname, added address range",1
+-1,corrected streetname to Harbors Lake Dr from Harbor Lake Dr,2
+-1,corrected to Geneva lake Dr,1
+-1,Corrected TOADDL+TOADDR,2
+-1,corrected toaddr 20141015REPOSITIONED segment to center of realigned roadway + Corrected ADDRESS RANGES,1
+-1,corrected TOADDR from 0 to 7164,1
+-1,"corrected toaddr, REMOVED FENAME2/FETYPE2",1
+-1,Corrected TOADDR+TOADDRL,1
+-1,corrrected address ranges,2
+-1,"Cutoff was OBLITERATED in 2010-11. If still certified, needs to have FCC = A90. If not certified, please DELETE.",1
+-1,DELETE - actual Paradise Ln is already in the layer .25 mile to the South.,1
+-1,DELETE - DUPLICATE SEGMENT of 19th St to the west (same certified length and all). Verify with ACRC if needed.,1
+-1,DELETE - extraneous segment of roadway.,1
+-1,DELETE - Incorrect segment. This is a residential driveway. Balmoral Ave is to the south.,1
+-1,DELETE - No road at this location.,2
+-1,DELETE - No Road Exists,3
+-1,DELETE - NO Road exists here.,1
+-1,DELETE - NO ROAD HERE.,1
+-1,DELETE - NO ROAD. Goes through a shooting range. I don't think cars drive through shooting ranges...,1
+-1,DELETE - No roadway in use here,1
+-1,DELETE - No roadway present. No indication it will get built. Please REMOVE.,2
+-1,DELETE - No roadway present. No indication of future roadway. Please remove.,1
+-1,DELETE - Non-existant road segment. Please delete completely.,1
+-1,DELETE - Non-existant roadway,1
+-1,DELETE - NOT an A64 by any means! Office parking lot...,1
+-1,"DELETE - Obliterated, DE-CERTIFIED segment of former county road (Verified through ACRC)",1
+-1,DELETE - Please. Gated access road to a private parking lot.,1
+-1,DELETE - Ramp removed during construction of Blue Star/North Shore Roundabout.,1
+-1,DELETE - Road Does Not Exist,1
+-1,DELETE - Road does not exist.,1
+-1,"DELETE - Road drawn in wrong place; actually 1,030 feet north (see new road segment added)",1
+-1,"DELETE - Road obliterated several years ago - If ACRC has not decertified segment yet, then make FCC=""A90""",1
+-1,DELETE - Roadway does not exist nor will it in the foreseeable future.,2
+-1,DELETE - Roadway segment does NOT exist.,1
+-1,DELETE - Second delete request. This is the poor guy's driveway! NOT a named private road..,1
+-1,DELETE - Second delete request; ROAD STILL DOES NOT EXIST,1
+-1,DELETE - Second delete request; street does not exist,1
+-1,DELETE - Second request to delete; road is 1/2 mile to the west and was added previously.,1
+-1,DELETE - Street no longer exists here.,1
+-1,DELETE - THERE IS STILL NO ROAD HERE AT ALL.,2
+-1,DELETE - This has FCC = A41 (private) but LEGALSYSTEM = 3 (County Local). Segment obliterated / no longer exists. Either,1
+-1,DELETE - This is a gated parking lot access to a private facility.,1
+-1,DELETE - This is NOT a certified county road (check w/ACRC if there's a question) + There is NO ROAD here,1
+-1,DELETE - this is not a private cul-de-sac (A43),1
+-1,"DELETE - this is not Harley Ct, this is a friggin' driveway",1
+-1,DELETE - This is NOT Prairiewood Dr (it's a private driveway),1
+-1,DELETE - This is NOT Unity Ln (see next pvt drive to the north!). Please DELETE.,1
+-1,DELETE - Uncertified Road No Longer Exists,1
+-1,"DELETE - Uncertified Road No Longer Exists, corrected address ranges",1
+-1,DELETE - Verified: This is a single home driveway.,1
+-1,DELETE middle segment - Permanently blocked,1
+-1,"DELETE private dr, Burton Dr exists to the West",3
+-1,DELETE segment - improperly placed.,1
+-1,DELETE segment - not a private road - obliterated completely,1
+-1,DELETE this segment.,1
+-1,DELETE unnecessary segment,1
+-1,"delete, it's now a driveway to a single house",1
+-1,"delete, it is now a driveway to a single house",1
+-1,"delete, not a road",1
+-1,DELETE. AGAIN.,1
+-1,"drop fename2 and change fetype and address ranges,20120618 Corrected FENAME and FENAME2 + Corrected ADDRESS RANGES",1
+-1,edit address range,1
+-1,edited fraddl and fraddr,1
+-1,emove Incorrect FENAME2 (Really? I-94? In Holland?) + Corrected ADDRESS RANGES,1
+-1,EXTENDED segment to the west for repositioned Lilly Ct + Adjusted ADDRESS RANGES,1
+-1,"extension to Pacific Ave, addressed private road segment",1
+-1,FCC - A41 not A43 (NOT a private cul-de-sac),1
+-1,"FCC = A90 (NON-DRIVEABLE footpath for New Richmond Br Co Pk) + Fix FENAME, FENAME2, ADDRESSES + Add FENAME3 + REPOSITION",2
+-1,"FCC A31 from A32 - this is part of Blue Star Hwy (A31) now, not 139th Ave (A32); Correct ADDRESSES; Add FENAME2; reposit",1
+-1,FCC change - This is a private cul-de-sac (""A43"") + REPOSITIONED + Fix FEDIRP/FETYPE + Fix ADDRESSES + Fix TRAFALIGN,1
+-1,FCC Change to ""A32"" (Part of a CITY MINOR roundabout) + Change LEGALSYSTEM to ""5"" + Add ADDRESSES & ZIPs,5
+-1,FCC change to A90 - this segment was obliterated and no longer physically exists. Check with ACRC if there are questions,1
+-1,FCC Change to A90 (Certified but NOT DRIVEABLE - no road here) + Added ADDRESSES,6
+-1,fix addres range,2
+-1,Fix FCC (A43 to A41 - NOT a cul-de-sac - has a TREE in the middle!) + REPOSITION + Add ADDRESSES + Add FETYPE2,1
+-1,it's a parking lot,1
+-1,"last fix 20090126, address range",2
+-1,MAJOR REPOSITIONING - scale back to actual route of street + Correct ADDRESS RANGES,1
+-1,modified 01/26/2009,1
+-1,modified address ranges,3
+-1,Modified FENAME,1
+-1,Modified FENAME + Added ADDRESS RANGES,1
+-1,modified roadname and address ranges,1
+-1,modify address ranges,3
+-1,Moved western end of segment to proper location + Corrected ADDRESS RANGES,1
+-1,"New ""A90"" segment (no actual, driveable roadway) to give 876 total feet for certified road. (Note: FCC = A90)",1
+-1,New A43 - PRIVATE CUL-DE-SAC (This is a cul-de-sac),1
+-1,New access roadway (FCC = A41),2
+-1,"NEW address, named private road (second request to add this road)",1
+-1,New Boating Access Site (FCC = A67) roadway,5
+-1,New circle drive segment - NOT A CUL-DE-SAC (e.g. NOT an FCC of A43!),4
+-1,NEW City Minor street segment,1
+-1,NEW Cul-de-sac (FCC=A33) segment,2
+-1,New cul-de-sac loop segment with address ranges + Note TRAFALIGN,3
+-1,NEW cul-de-sac segment (FCC=A43) + Added FENAME/ADDRESSES/etc.,1
+-1,New cutoff segment,1
+-1,NEW freeway on-ramp (FCC = A13),1
+-1,New named  private road with address ranges,1
+-1,NEW named & addressed private road segment,2
+-1,New named and addressed private road segment,1
+-1,New named boat launch (FCC = A67). Note TRAFALIGN.,3
+-1,NEW named private road,1
+-1,NEW named private road segment,1
+-1,New named private road segment with addresses.,1
+-1,New named private road with addresses.,1
+-1,"NEW named, address (circular) private road segment + Note TRAFALIGN (""+"")",1
+-1,"NEW named, address private road",2
+-1,"NEW named, address private road (FCC=A41)",1
+-1,"NEW named, address private road (southbound side of divided road) + Note TRAFALIGN",1
+-1,"NEW named, address private road + Note TRAFALGIN",2
+-1,"NEW named, address private road segment",3
+-1,"NEW named, address private road segment (NOT FCC = A43) + Note TRAFALIGN",2
+-1,"NEW named, address private road segment + Note TRAFALIGN",3
+-1,"NEW named, addressed (circular) private roadway + Note TRAFALIGN (""+"")",1
+-1,"NEW named, addressed County Local CUL-DE-SAC (FCC=A33).",1
+-1,"NEW named, addressed COUNTY LOCAL road.",1
+-1,"NEW named, addressed private (FCC=A41) road",1
+-1,"NEW named, addressed private CUL-DE-SAC (FCC = A43)",1
+-1,"NEW named, addressed private cul-de-sac (FCC = A43) + Note TRAFALIGN",1
+-1,"NEW named, addressed private CUL-DE-SAC (FCC=""A43"")",1
+-1,"NEW named, addressed private CUL-DE-SAC (FCC=A43) - Second add request on this",1
+-1,"NEW named, addressed private raod",1
+-1,"New named, addressed private road",1
+-1,"NEW named, addressed private road",16
+-1,"NEW named, addressed Private Road",1
+-1,"NEW named, addressed private road (also includes FENAME2/FETYPE2)",1
+-1,"NEW named, addressed private road (EVEN address ranges on BOTH sides!)",1
+-1,"NEW named, addressed private road (FCC = A41)",1
+-1,"NEW named, addressed private road (FCC=A41) - Second add request on this",1
+-1,"NEW named, addressed private road (make sure ADJ_CNTY = 5)",1
+-1,"NEW named, addressed private road (NOTE FCC = A43 - Private CUL-DE-SAC)",1
+-1,"NEW named, addressed private road (NOTE: Yes, there IS an apostrophe ( ' ) in the middle of this Native American street",2
+-1,"NEW named, addressed private road + Note TRAFALIGN = ""+""",5
+-1,"NEW named, addressed private road CUL-DE-SAC (FCC=A43)",1
+-1,"New named, addressed private road segment",2
+-1,"NEW named, addressed private road segment",6
+-1,"NEW named, addressed private road segment - Not an A43 since there is an undriveable obstruction in the turnaround",2
+-1,"NEW named, addressed private road segment + Note TRAFALIGN",1
+-1,"NEW named, addressed private road segment + Note TRAFALIGN = ""-""",1
+-1,"NEW named, addressed private road segment. Note TRAFALIGN.",1
+-1,"NEW named, addressed private road with LOOP at the west end (NOT an A43 cul-de-sac!)",3
+-1,"NEW named, addressed private road. Note FCC = ""A43"" (cul-de-sac)",2
+-1,"NEW named, addressed private roadway",2
+-1,"NEW named, addressed private street (FCC = A41) + Note TRAFALIGN",2
+-1,"NEW named, addressed private street.",1
+-1,"New named, addressed roundabout segment + Note TRAFALIGN",5
+-1,"NEW named, addressed uncertified road segment (Note TRAFALIGN value)",2
+-1,"New named, addressed uncertified road segment.",1
+-1,"NEW named, addressed unclassified (FCC=A41) road segment",1
+-1,"NEW named, private CUL-DE-SAC (FCC=A43) - Second request to add this one",1
+-1,"NEW named, private road",1
+-1,"NEW named, private road (addresses unknown)",1
+-1,"NEW named, private road (FCC=A41) - Second request to add this one",1
+-1,NEW named/addressed private road segment,2
+-1,"New non-certified, named, addressed cul-de-sac segment (FCC=A43)",1
+-1,New PRIVATE (FCC = A41) road,1
+-1,New private access road segment,6
+-1,New private access roadway (FIELD CHECKED - It's there),1
+-1,New private CUL-DE-SAC (FCC = ""A43"") w/roadname + addresses.,1
+-1,New private cul-de-sac (FCC = A43) with address ranges,3
+-1,NEW Private CUL-DE-SAC (FCC=A33) + Added FENAME/FETYPE +  Added ADDRESS RANGES,1
+-1,New PRIVATE CUL-DE-SAC (FCC=A43),1
+-1,New Private CUL-DE-SAC (FCC=A43) segment + Address Ranges,1
+-1,NEW Private Cul-de-Sac segment (FCC = A43),1
+-1,New private road,1
+-1,NEW private road - not yet named or addressed,1
+-1,New private road (A41),3
+-1,New private road (unnamed) with address ranges,1
+-1,NEW private road segment + Note TRAFALIGN,1
+-1,New Private road segment with addresses + Note TRAFALIGN,2
+-1,New private road segment with street name,1
+-1,New Private Road w/Address Ranges,1
+-1,New private road w/roadname + addresses.,1
+-1,New private road with address range,2
+-1,New private road with address ranges,31
+-1,New Private road with address ranges,1
+-1,NEW private road with address ranges,1
+-1,New private road with address ranges.,1
+-1,New private road with address ranges; Note TRAFALIGN,2
+-1,New private road with address rnages,1
+-1,NEW private road with ADDRESSES,1
+-1,"New private road, includes ADDRESS RANGES + Note FCC = A43 (private cul-de-sac)",3
+-1,"New private road, includes ADDRESS RANGES.",6
+-1,"New private road, including Address Ranges",1
+-1,New private roadway,1
+-1,New private roadway incl. ADDRESS RANGES,2
+-1,New private roadway with address ranges,1
+-1,"NEW private, addressed road segment (FCC is NOT ""A43"") + Note TRAFALIGN",2
+-1,"NEW private, addressed road segment (name unknown at present)",3
+-1,"New private, named road + Note TRAFALIGN",2
+-1,new road,2
+-1,New Road - SECOND SUBMISSION,1
+-1,New road segment,1
+-1,"new road, private turned public upon completion",1
+-1,New segment for boat launch.,2
+-1,New segment for ebd lanes of City Minor Street,1
+-1,New segment for ebd lanes of private raod,1
+-1,New segment for loop road with addresses,1
+-1,New segment for nbd lanes of divided road,2
+-1,"New segment for nbd lanes of divided road (NOTE: This is NOT INSIDE the City of Holland, but it's a City Major road)",1
+-1,NEW segment for Private Cul-de-sac (FCC = A43),1
+-1,NEW segment for Private Road (FCC = A41),1
+-1,New segment of City Minor Road,1
+-1,New segment of County Local road added between Oak St and James Ave,1
+-1,"NEW segment of named, addressed private road due to roadway realignment",1
+-1,New segment of private circle drive.,2
+-1,"New segment of private, named, addressed CUL-DE-SAC (FCC=A43)",1
+-1,New segment of public but NON-MAINTAINED/IMPASSABLE (FCC = A90) alley to bring total certified length to 120 ft.,1
+-1,NEW segment of road (replaces portions of Viaduct Rd and Vassar Ave),1
+-1,"New segment to complete private, named & addressed cul-de-sac + Note TRAFALIGN",1
+-1,New street segment,1
+-1,NEW uncertified road segment + Note TRAFALIGN (""+""),1
+-1,NEW unclassified road segment (FCC = A62),1
+-1,NEW unnamed trailer park road segment (FCC = A65),2
+-1,NEW unnamed trailer park road segment (FCC = A65) + Note TRAFALIGN,2
+-1,NEW westbound (one-way) segment for Lincolnshire Dr,1
+-1,newroad,6
+-1,Newroad,4
+-1,"Newroad (actually, a move of an incorrectly drawn segment 1,030 feet to the south)",1
+-1,Newroad (alley),2
+-1,Newroad (City Minor cul-de-sac),1
+-1,Newroad (FCC = A65),1
+-1,Newroad (new cul-de-sac); FCC = A33,1
+-1,Newroad (NOT a cul-de-sac),1
+-1,Newroad (NOT cul-de-sac),6
+-1,"Non-existant, never-constructed private roadway. Please DELETE.",1
+-1,"NOT a public/certified road. FCC = A41, LEGALSYSTEM = 0. Also corrected ADDRESS RANGES.",1
+-1,paved,1
+-1,"paved, corrected address range",1
+-1,Proposed route of road in Singapore Dunes Development to be constructed in 2014-15.,7
+-1,"recorrected address ranges20120615 ,Corrected ADDRESS RANGES + REMOVE FENAME2/FETYPE2 (Has NEVER been Wiley Rd)",1
+-1,redraw and corect address ranges,3
+-1,redraw and correct address ranges,2
+-1,redraw and corrected address ranges,2
+-1,redraw for Nellie Dr,2
+-1,REMOVE ADDRESS RANGES (it's okay!) + MOVE entire segment to proper location.,1
+-1,Remove duplicate FENAME2/FETYPE2 + Added ADDRESS RANGES,2
+-1,Remove duplicate FENAME2/FETYPE2 + Corrected ADDRESS RANGES,1
+-1,REMOVE duplicative FENAME2/FETYPE2 (Same in both fields),6
+-1,REMOVE duplicative FENAME2/FETYPE2 (Same in both fields) + Corrected ADDRESSES,2
+-1,REMOVE duplicative FENAME2/FETYPE2 (Same in both fields) + REMOVED FEDIRP,4
+-1,REMOVE duplicative FENAME2/FETYPE2 (Same in both fields) + REMOVED FEDIRP + Corrected ADDRESS RANGES,4
+-1,REMOVE duplicative FENAME2/FETYPE2 (Same in both fields) + REMOVED FEDIRP + Corrected ADDRESSES,3
+-1,REMOVE duplicative FENAME2/FETYPE2 (Same in both fields)\,1
+-1,REMOVE duplicative FENAME2/FETYPE2 + REMOVED incorrected FEDIRP + Corrected ADDRESSES,1
+-1,REMOVE errant FENAME2/FETYPE2,4
+-1,REMOVE FEDIRP,2
+-1,Remove FEDIRP (there is no FEDIRP here),1
+-1,"Remove FEDIRP (there is no FEDIRP here), Corrected FENAME",1
+-1,REMOVE FEDIRP + Correct FENAME + Add FENAME3/FETYPE3 + Correct ADDRESS RANGES,2
+-1,Remove FEDIRP + Correct FENAME + Correct ADDRESSES + REPOSITIONED to center of road,1
+-1,REMOVE FEDIRP + Corrected ADDRESS RANGES,2
+-1,Remove FEDIRP; Corrected FENAME + Fixed ADDRESSES + REPOSITION to center of road,1
+-1,Remove FEDIRP; Remove FENAME2+FETYPE2; Corrected ALL ADDRESS RANGES,3
+-1,REMOVE FENAME2 (M-222 ends at US-131 ramps) + Added ADDRESS RANGES,2
+-1,Remove FENAME2/FETYPE2 (duplicative),1
+-1,REMOVE FENAME2/FETYPE2 (Has NEVER been Wiley Rd),1
+-1,REMOVE FENAME2/FETYPE2 (never has been 59th St - please remove!),1
+-1,REMOVE FENAME2/FETYPE2 + Corrected ADDRESS RANGES,1
+-1,Remove FENAME2+FETYPE2 (this was never the name - a typo); Corrected ALL ADDRESS RANGES,2
+-1,REMOVE FETYPE (Really - Please remove FETYPE) + Corrected ADDRESS RANGES,2
+-1,Remove incorrect FEDIRP,3
+-1,Remove incorrect FEDIRP + Added FENAME2/FETYPE2,4
+-1,Remove Incorrect FENAME2 (Really? I-94? In Holland?) + Corrected ADDRESS RANGES,1
+-1,Removed erroneous ADDRESS ranges,2
+-1,REMOVED erroneous ADDRESS RANGES + REPOSITIONED segment to center of roadway,1
+-1,Removed erroneous FENAME2/FETYPE2.,2
+-1,Removed FEDIRP + Corrected FENAME,12
+-1,Removed FEDIRP + Corrected FENAME + Corrected ADDRESS RANGES,1
+-1,Removed FEDIRP + Corrected FENAME/FETYPE,1
+-1,REMOVED FEDIRP2 + Corrected FENAME2/FETYPE2,1
+-1,REMOVED FEDIRP2 + Corrected FENAME2/FETYPE2 and address ranges,2
+-1,Removed FEDIRP3 + Corrected FENAME3 + Added ADDRESS RANGES,2
+-1,Removed FENAME + Corrected FETYPE + Added FEDIRP2/FENAME2/FETYPE2,2
+-1,Removed FENAME+FETYPE & ADDRESSES. Change FCC to A65 (this is an unnamed non-PR road),4
+-1,Removed FENAME+FETYPE (Unnamed Road) + Added ADDRESS RANGES,1
+-1,removed fename2 and fetype2,1
+-1,"removed fename2 and fetype2, corrected address range",1
+-1,Removed FENAME2/FETYPE2,1
+-1,REMOVED FENAME2/FETYPE2 (Never was named Indianapolis) + REPOSITIONED segment,2
+-1,Removed FENAME2/FETYPE2 + Added ADDRESS RANGES + REPOSITIONED on north end,1
+-1,REMOVED FENAME2/FETYPE2 + Corrected ADDRESS RANGES,2
+-1,REMOVED FENAME2/FETYPE2 + REPOSITIONED at south end,1
+-1,Removed redundant FENAME2/FETYPE2,2
+-1,"REMOVED west 2/3 of segment + Change FCC to A41 + Added FENAME, FENAME2 + Added ADDRESSES",1
+-1,REPIOSITIONED at east end of segment + Corrected ADDRESS RANGES,1
+-1,Replacing incorrectly deleted segment,3
+-1,REPOSITION & SHORTEN to proper location + Corrected FETYPE,1
+-1,REPOSITION + SPLIT for FCC (FCC=A41 - This is private portion beyond 400' certified segmnt)+ Fix FETYPE + Fix ADDRESSES,1
+-1,REPOSITION at 129th Ave intersection + Corrected ADDRESS RANGES,1
+-1,REPOSITION entier segment + Fix FENAME + Add FENAME2/FETYPE2 + Add ADDRESS RANGES,2
+-1,REPOSITION entire segment + Correct ADDRESS RANGES,1
+-1,REPOSITION entire segment + Fix FCC (A41) & LEGALSYSTEM (0) - this is a PRIVATE RD + Fix FENAME/FETYPE + Add ADDRESSES,1
+-1,REPOSITION entire segment + Fix FENAME/FETYPE + Add FENAME2/FETYPE2 + Add ADDRESSES,1
+-1,REPOSITION entire segment + Fix FENAME/FETYPE + Add FENAME2/FETYPE2 and 3 + Add ADDRESSES,1
+-1,REPOSITION entire segment + REMOVE FEDIRP + Correct FENNAME + Add FENAME3/FETYPE3 + Correct ADDRESSES,1
+-1,REPOSITION entire segment + REMOVE FEDIRS (Allegan Co does not use post directionals),1
+-1,REPOSITION entire segment + REMOVE FENAME2/FETYPE2 (Never was Sailview Dr) + Fix ADDRESSES,1
+-1,REPOSITION entire segment + SPLIT for newroad + Correct ADDRESS RANGES,2
+-1,REPOSITION entire segment to proper location,3
+-1,REPOSITION northern end of segment to center of roadway,1
+-1,REPOSITION segment to center of roadway + Added ADDRESSES,1
+-1,REPOSITION southern end of segment to center of roadway,1
+-1,REPOSITION to center of realigned ramp (USING 2014 ORTHOS!),1
+-1,REPOSITION to center of realigned roadway + Correct ADDRESSES + SPLIT for new road,2
+-1,REPOSITION to center of roadway,10
+-1,REPOSITION to center of roadway + Corrected ADDRESS RANGES,2
+-1,"Reposition to center of roadway; Added FENAME, FETYPE; Corrected ALL ADDRESS RANGES",1
+-1,REPOSITION to proper location,1
+-1,REPOSITION to proper location + Added FENAME/FETYPE + Added ADDRESSES,1
+-1,REPOSITION to proper location + Correct FENAME + Add FENAME2/FETYPE2 + Add ADDRESSES,1
+-1,REPOSITION to proper location + Correct FENAME + Remove FETYPE,1
+-1,REPOSITION to proper location + Fix FENAME/FETYPE + REMOVE FENAME2 + Fix ADDRESSES,2
+-1,REPOSITION to proper location + REMOVE FEDIRP + Add FENAME3/FETYPE3 + Correct FENAME,1
+-1,Reposition to proper location.,1
+-1,Reposition to reflect realignment,1
+-1,REPOSITIONED,1
+-1,REPOSITIONED & LENGTHENED + Added ADDRESS RANGES,1
+-1,REPOSITIONED (AGAIN!) to proper location + Corrected ADDRESS RANGES. Again.,1
+-1,REPOSITIONED (Extended) on western end + Added ADDRESS RANGES,1
+-1,REPOSITIONED (extended) segment to the south + Corrected ADDRESS RANGES,1
+-1,Repositioned + Added ADDRESS RANGES,2
+-1,REPOSITIONED + Added ADDRESS RANGES,2
+-1,REPOSITIONED + Added FEDIRP + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED + Added FENAME2 + Corrected ADDRESS RANGES,2
+-1,REPOSITIONED + Added FETYPE + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED + Added FETYPE + REMOVED FENAME2/FETYPE2 + Corrected ADDRESSES,1
+-1,REPOSITIONED + Added Intercounty Highway designation to FENAME2,3
+-1,"REPOSITIONED + Change FCC (FCC = A90) - this is an undriveable, certified right-of-way; no roadway present",1
+-1,"REPOSITIONED + Change FCC to ""A41"" (named, private road) + Added FENAME/FETYPE + Added ADDRESS RANGES",2
+-1,REPOSITIONED + Change FCC to ""A43"" (private cul-de-sac) + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED + Corrected ADDRESS RANGES,3
+-1,REPOSITIONED + Corrected ADDRESS RANGES + Corrected FENAME,1
+-1,REPOSITIONED + Corrected ADDRESSES + Corrected TRAFALIGN (""-""),1
+-1,REPOSITIONED + Corrected FENAME + Corrected ADDRESS RANGES,1
+-1,Repositioned + Corrected FENAME + Removed FENAME2/FETYPE2 + Added ADDRESSES,1
+-1,REPOSITIONED + Corrected FENAME + Removed FETYPE + Added FENAME2/FETYPE2 + Corrected ADDRESSES,2
+-1,REPOSITIONED + Corrected FENAME/FETYPE & FENAME2/FETYPE2 + Corrected ADDRESSES,2
+-1,REPOSITIONED + Corrected FENAME/FETYPE + Added FENAME2/FETYPE2,2
+-1,REPOSITIONED + Corrected FENAME/FETYPE + Added FENAME2/FETYPE2 + Corrected ADDRESSES,3
+-1,REPOSITIONED + Corrected FENAME/FETYPE + ADDRESS RANGES,1
+-1,REPOSITIONED + Corrected FENAME/FETYPE + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED + Corrected FETYPE & FETYPE2,1
+-1,REPOSITIONED + EXTENDED road to proper length + Adjusted ADDRESS RANGES,1
+-1,REPOSITIONED + SPLIT for A41/A43 correction + Corrected ADDRESSES,3
+-1,"REPOSITIONED + SPLIT for Cul-de-Sac (THIS segment, FCC = A33) + Fix ADDRESSES",1
+-1,"REPOSITIONED + SPLIT for Cul-de-Sac (THIS segment, FCC=A33) + Corrected ADDRESSES",1
+-1,"REPOSITIONED + SPLIT for Cul-de-sac (THIS segment, FCC=A43) + Corrected ADDRESS RANGES",3
+-1,"REPOSITIONED + SPLIT for cul-de-sac (THIS segment, FCC=A43) + Corrected FENAME/FETYPE + Corrected ADDRESSES",1
+-1,REPOSITIONED + SPLIT for Cul-de-sac + Corrected ADDRESS RANGES,2
+-1,REPOSITIONED + SPLIT for cul-de-sac + Corrected FENAME/FETYPE + Corrected ADDRESSES,1
+-1,REPOSITIONED + SPLIT for FCC (FCC=""A32"" - this is a certified Co Local Rd) + Corrected ADDRESSES,1
+-1,REPOSITIONED + SPLIT for FCC change + Fix FETYPE + Fix ADDRESSES,1
+-1,"REPOSITIONED + SPLIT for FCC Code (FCC=A90 - this is a Certified Co Local, but is ""NOT DRIVEABLE"") + Fix ADDRESSES",1
+-1,REPOSITIONED + SPLIT for FCC correction (THIS segment FCC=A43 Cul-de-Sac) + Fixed ADDRESSES,3
+-1,REPOSITIONED and moved northern end of segment to the north + Corrected ADDRESSES,1
+-1,REPOSITIONED and moved southern end of segment to the north + Corrected ADDRESSES,1
+-1,REPOSITIONED as sbd lanes of divided roadway + Add FENAME2 + Fix ADDRESSES,1
+-1,REPOSITIONED as sbd lanes of divided roadway + Split at City Limit + Add FENAME2 + Fix ADDRESSES,1
+-1,REPOSITIONED as sbd lanes of divided roadway + Split at City Limit + Add FENAME2 + Fix ADDRESSES + Fix FMCDL/FMCDR,1
+-1,REPOSITIONED at both ends for relocated A90 segments + Fixed ADDRESSES,1
+-1,REPOSITIONED at both ends for relocated A90 segments + Fixed ADDRESSES + REMOVED duplcative FENAME2/FETYPE2,1
+-1,REPOSITIONED at BOTH ENDS to proper location + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED at eastern end of segment + Added ADDRESS RANGES,1
+-1,Repositioned at eastern end to proper location + Added ADDRESS RANGES,1
+-1,REPOSITIONED at north end of segment + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED at north end to proper location + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED at northwest end + Added ADDRESS RANGES,1
+-1,REPOSITIONED at Old Pine Rd intersection + Corrected ADDRESS RANGES,1
+-1,Repositioned at Sagewood Ct; Corrected ADDRESS RANGES,1
+-1,Repositioned at Sagewood Ct; Corrected FRADDL+FRADDR,1
+-1,REPOSITIONED at south end + Added ADDRESS RANGES,1
+-1,REPOSITIONED at southern end of segment + Added ADDRESSES,1
+-1,Repositioned at west end + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED at west end at curve with 66th St,1
+-1,REPOSITIONED at west end of segment,1
+-1,REPOSITIONED centerline to center of roadway over entire segment,1
+-1,REPOSITIONED due to addition of other BAS segments.,1
+-1,REPOSITIONED east end of segment - Does NOT conenct to Griffith St any more + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED east end of segment (at Harmony Ln) + Adjusted ADDRESS RANGES,1
+-1,REPOSITIONED east end of segment at Washington St,1
+-1,REPOSITIONED east end of segment to center of roadway,1
+-1,REPOSITIONED east end to end of existing road + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED eastern end + Corrected FENAME/FETYPE + Added FENAME2/FETYPE2 + Corrected ADDRESSES,1
+-1,Repositioned eastern end at Ferry/Park St + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED eastern end of segment for eastern extension of street + Corrected ADDRESSES,1
+-1,REPOSITIONED eastern end to Corporate Boundary + Added FENAME2 + Added ADDRESS RANGES,1
+-1,REPOSITIONED eastern part of segment + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED entire A90 segment to center of right-of-way.,2
+-1,REPOSITIONED entire road to proper location + Fixed ADDRESS RANGES,1
+-1,REPOSITIONED entire segment,13
+-1,REPOSITIONED entire segment +  Added FENAME/FETYPE + Added ADDRESS RANGES,1
+-1,REPOSITIONED entire segment + Added ADDRESS RANGES,7
+-1,REPOSITIONED entire segment + Added ADDRESSES,3
+-1,REPOSITIONED entire segment + Added FENAME2/FETYPE2 + Added ADDRESS RANGES,2
+-1,REPOSITIONED entire segment + Adjusted ADDRESS RANGES,1
+-1,REPOSITIONED entire segment + Corrected ADDRESS RANGES,19
+-1,REPOSITIONED ENTIRE SEGMENT + Corrected ADDRESS RANGES,1
+-1,"REPOSITIONED entire segment + Corrected ADDRESS RANGES (all on R side, none on L)",1
+-1,REPOSITIONED entire segment + Corrected FENAME,2
+-1,REPOSITIONED entire segment + Corrected FENAME +  Corrected ADDRESS RANGE,1
+-1,REPOSITIONED entire segment + Corrected FENAME + Added FENAME2/FETYPE2,1
+-1,REPOSITIONED entire segment + Corrected FENAME + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED entire segment + Corrected FENAME/FETYPE + Added FENAME2/FETYPE2,1
+-1,REPOSITIONED entire segment + Corrected FENAME/FETYPE + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED entire segment + Corrected FENAME/FETYPE + Corrected ADDRESSES,1
+-1,REPOSITIONED entire segment + Corrected FENAME/FETYPE + REMOVED FENAME2/FETYPE2 + Added ADDRESSES,1
+-1,REPOSITIONED entire segment + Corrected FENAME/FETYPE + REMOVED FENAME2/FETYPE2 + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED entire segment + Corrected FETYPE + REMOVED FENAME2/FETYPE2 + Corrected ADDRESSES,1
+-1,REPOSITIONED entire segment + Fix FENAME + Add FENAME2/FETYPE2 + Fix ADDRESS RANGES,2
+-1,REPOSITIONED entire segment + Fixed ADDRESSES + Fixed FEDIRP/FENAME/FEDIRP2/FENAME2,2
+-1,REPOSITIONED entire segment + REMOVED FENAME2/FETYPE2 + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED entire segment + Split for A41/A43 + Added ADDRESSES,1
+-1,REPOSITIONED entire segment + Split for A41/A43 + Removed FEDIRP + Correct FENAME/FETYPE + Added ADDRESSES,1
+-1,REPOSITIONED entire segment onto centerline of roadway,1
+-1,REPOSITIONED entire segment to center of cul-de-sac + Corrected ADDRESSES,1
+-1,REPOSITIONED entire segment to center of road,1
+-1,REPOSITIONED entire segment to center of road + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED entire segment to center of road + Corrected ADDRESSES,2
+-1,REPOSITIONED entire segment to center of roadway,18
+-1,REPOSITIONED entire segment to center of roadway (esp. at Manlius Rd intersection),1
+-1,REPOSITIONED entire segment to center of roadway + Corrected ADDRESS RANGES,3
+-1,REPOSITIONED entire segment to center of roadway + Corrected ADDRESSES,1
+-1,REPOSITIONED entire segment to center of roadway.,1
+-1,REPOSITIONED entire segment to new location,2
+-1,REPOSITIONED entire segment to proper location,3
+-1,REPOSITIONED ENTIRE SEGMENT to proper location,1
+-1,REPOSITIONED entire segment to proper location (esp at north end),1
+-1,Repositioned entire segment to proper location + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED entire segment to proper location + Corrected ADDRESS RANGES,4
+-1,REPOSITIONED entire segment to proper location. (Street has MOVED.),1
+-1,REPOSITIONED entire segment to proper location. Does NOT connect with North Lake Dr.,1
+-1,REPOSITIONED FCC break at south end of segment + Corrected FENAME/FETYP + Added ADDRESSES,1
+-1,REPOSITIONED for easterly extension of street + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED for roundabout +  Corrected ADDRESS RANGES,3
+-1,REPOSITIONED for roundabout +  Corrected ADDRESS RANGES + Note TRAFALIGN,2
+-1,REPOSITIONED for roundabout + Added FENAME2 + Corrected ADDRESS RANGES,3
+-1,REPOSITIONED for roundabout + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED for roundabout + Corrected FENAME + Removed FETYPE,2
+-1,REPOSITIONED north end at relocated Wilson St (A90) + Fixed ADDRESS RANGES,1
+-1,Repositioned north end for repositioned Heirloom Dr + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED north end of segment + Corrected ADDRESSES and ZIP CODES,1
+-1,REPOSITIONED north end of segment + Corrected FENAME + REMOVED FENAME2 + Added ADDRESSES,1
+-1,REPOSITIONED north end of segment + Corrected FENAME/FETYPE + Corrected ADDRESSES,1
+-1,REPOSITIONED north end of segment to proper ending place + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED north end to repositioned Tomahawk Blvd segment.,1
+-1,REPOSITIONED northern end of segment to resligned roadway,1
+-1,REPOSITIONED northwest end of segment + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED on both ends + Corrected ADDRESSES +  Corrected FENAME/FETYPE and FENAME2/FETYPE2,1
+-1,REPOSITIONED on east AND west ends + Added ADDRESS RANGES,1
+-1,REPOSITIONED on east end + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED on north end + Corrected ADDRESSES +  Corrected FENAME/FETYPE and FENAME2/FETYPE2,1
+-1,REPOSITIONED on western end at intersection of Lake Shore Dr,1
+-1,REPOSITIONED segment + Added ADDRESS RANGES,2
+-1,REPOSITIONED segment + Added FEDIRP + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED segment + Added FENAME2/FETYPE2 + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED segment + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED segment + Corrected FENAME/FETYPE + Added ADDRESS RANGES,1
+-1,REPOSITIONED segment + Corrected FENAME/FETYPE + Added FENAME2/FETYPE2 + Added ADDRESSES,1
+-1,REPOSITIONED segment + Corrected FENAME/FETYPE + REMOVED FENAME2/FETYPE2 (Those were INCORRECT),1
+-1,REPOSITIONED segment + REMOVE FEDIRP + Fix FENAME + Add FENAME2/FETYPE2 + Fix ADDRESSES,1
+-1,REPOSITIONED segment + Split for A41/A43 (This is a PVT CUL-DE-SAC) + Added ADDRESSES,1
+-1,REPOSITIONED segment + Split for A41/A43 + Removed FEDIRP + Correct FENAME/FETYPE + Added ADDRESSES,1
+-1,REPOSITIONED segment to center of realigned roadway,1
+-1,REPOSITIONED segment to center of roadway,3
+-1,REPOSITIONED segment to center of roadway + Added ADDRESS RANGES,1
+-1,REPOSITIONED segment to center of roadway + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED segment to proper location,3
+-1,REPOSITIONED segment to proper location + Added ADDRESS RANGES,1
+-1,REPOSITIONED segment to proper location.,1
+-1,REPOSITIONED south end at relocated Harrison St (A90) + Fixed ADDRESS RANGES,1
+-1,REPOSITIONED south end at relocated Harrison St (A90) + Fixed ADDRESSES + Removed duplicative FENAME2/FETYPE2,2
+-1,Repositioned south end for repositioned Heirloom Dr + Corrected ADDRESS RANGES,1
+-1,REPOSITIONEd south end of segment,1
+-1,REPOSITIONED south end of segment to proper location at Lincoln Rd,1
+-1,REPOSITIONED south end to repositioned Tomahawk Blvd segment.,1
+-1,Repositioned southern end + Corrected FENAME/FETYPE + Added FENAME2/FETYPE2 + Added ADDRESSES,1
+-1,REPOSITIONED southern end of segment to proper location,1
+-1,REPOSITIONED to center of (circular) roadway + Adjusted ADDRESSES + Note TRAFALIGN (""+""),1
+-1,REPOSITIONED to center of (circular) roadway + Corrected ADDRESSES + Added TRAFALIGN (""+""),1
+-1,"REPOSITIONED to center of bridge + Corrected FENAME/FETYPE, FENAME2/FETYPE2 + Added FENAME3/FETYPE3 + Fixed ADDRESSES",2
+-1,REPOSITIONED to center of pavement + Added FENAME/FETYPE + Added ADDRESS RANGES,1
+-1,REPOSITIONED to center of raodway and adjusted at Quilters Ct,2
+-1,REPOSITIONED to center of realigned roadway (using 2014 Orthos),1
+-1,REPOSITIONED to center of right-of-way,2
+-1,REPOSITIONED to center of road,8
+-1,REPOSITIONED to center of road & at 68th St intersection + Corrected ADDRESSES,2
+-1,REPOSITIONED to center of road & at Blue Star Hwy intersection + Corrected ADDRESSES,1
+-1,REPOSITIONED to center of road + Added FETYPE2 + Added ADDRESS RANGES,1
+-1,REPOSITIONED to center of road + Corrected ADDRESS RANGES,14
+-1,REPOSITIONED to center of road + Corrected ADDRESS RANGES + Corrected TRAFALIGN,1
+-1,REPOSITIONED to center of road + Corrected ADDRESSES + also modified 20090422,1
+-1,REPOSITIONED to center of road + Corrected ALL ADDRESS RANGES,3
+-1,"REPOSITIONED to center of road + Corrected FEDIRP, FENAME, FETYPE, FEDIRP2, FENAME2, FETYPE2 + Fixed ADDRESSES",2
+-1,REPOSITIONED to center of road + Corrected FENAME + Removed FETYPE,1
+-1,REPOSITIONED to center of road + Remove FEDIRP; Correct FENAME + Correct ADDRESSES,1
+-1,REPOSITIONED to center of road + SPLIT for Cul-de-sac + Corrected ADDRESS RANGES,1
+-1,"Repositioned to center of road; Corrected ADDRESS RANGES; Added ZIPL, ZIPR",1
+-1,Repositioned to center of road; Corrected ALL ADDRESS RANGES,1
+-1,Repositioned to center of road; Corrected ALL ADDRESS RANGES; Added ZIPL+ZIPR,4
+-1,Repositioned to center of road; Corrected ALL ADDRESSES; Added ZIPL+ZIPR,2
+-1,Repositioned to center of road; Corrected ALL ADDRESSES; Added ZIPL+ZIPR; Split for Unknown road,2
+-1,REPOSITIONED to center of roadway,76
+-1,Repositioned to center of roadway + + Corrected FENAME + Added ADDRESS RANGES,1
+-1,Repositioned to center of roadway + Added ADDRESS RANGES,8
+-1,REPOSITIONED to center of roadway + Added ADDRESS RANGES,6
+-1,REPOSITIONED to center of roadway + Adjusted intersections on each end,1
+-1,Repositioned to center of roadway + Corrected ADDRESS RANGES,4
+-1,REPOSITIONED to center of roadway + Corrected ADDRESS RANGES,44
+-1,REPOSITIONED to center of roadway + Corrected ADDRESSES + Note TRAFALIGN,1
+-1,Repositioned to center of roadway + Corrected FENAME + Added ADDRESS RANGES,1
+-1,REPOSITIONED to center of roadway + Corrected FETYPE,1
+-1,REPOSITIONED to center of roadway on western end of segment.,1
+-1,"REPOSITIONED to center of roadway, mostly at northern end of segment",1
+-1,Repositioned to center of roadway.,1
+-1,Repositioned to center of roadway; Corrected ALL ADDRESS RANGES,2
+-1,"Repositioned to center of roadway; Corrected ALL ADDRESS RANGES; Added FENAME, FETYPE",1
+-1,"Repositioned to center of roadway; Corrected FETYPE; Added FENAME2, FETYPE2; Corrected ALL ADDRESS RANGES",1
+-1,"Repositioned to center of roadway; FCC is A41, NOT A43 (not a private cul-de-sac)",1
+-1,"REPOSITIONED to center of ROW + Change FCC (FCC=A90); this is a non-existant, non-driveable, certified road + Add ADDRES",1
+-1,REPOSITIONED to center of street + Added ADDRESS RANGES,1
+-1,REPOSITIONED to center of street + Added ADDRESS RANGES and ZIPs,1
+-1,Repositioned to center of street + Corrected ADDRESS RANGES,4
+-1,REPOSITIONED to center of street + Corrected ADDRESS RANGES,5
+-1,REPOSITIONED to center of street.,1
+-1,Repositioned to center of street; Corrected ALL ADDRESS RANGES,6
+-1,REPOSITIONED to cetner of realigned roadway + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED to correct location + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED to extent of roadway + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED to northbound side of divided roadway + Fixed FENAME + Added ADDRESSES + Note TRAFALIGN,1
+-1,REPOSITIONED to one half of cul-de-sac loop + Adjusted ADDRESS RANGES + Corrected TRAFALIGN,1
+-1,Repositioned to proper location,3
+-1,REPOSITIONED to proper location,23
+-1,REPOSITIONED to proper location - No longer accesses Blue Star Hwy - FIELD VERIFIED,1
+-1,REPOSITIONED to proper location - SECOND REQUEST for this!,5
+-1,REPOSITIONED to proper location - SECOND REQUEST! + Corrected FCC (FCC=A41) - NOT cul-de-sac!,1
+-1,REPOSITIONED to proper location (as wbd lanes) + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED to proper location (esp. on east end of segment),1
+-1,REPOSITIONED to proper location (NEW intersection with 74th St) + Corrected ADDRESS RANGES,1
+-1,Repositioned to proper location + Added ADDRESS RANGES,12
+-1,REPOSITIONED to proper location + Added ADDRESS RANGES,12
+-1,REPOSITIONED to proper location + Added FEDIRP + Added ADDRESS RANGES,2
+-1,Repositioned to proper location + Added FEDIRP + Corrected ADDRESS RANGES,3
+-1,Repositioned to proper location + Added FENAME2 + Corrected ADDRESS RANGES,4
+-1,REPOSITIONED to proper location + Added FETYPE + Corrected LEGALSYSTEM to ""3"" (Co Local),1
+-1,REPOSITIONED to proper location + Added FETYPE. AGAIN.,1
+-1,"REPOSITIONED to proper location + Correct FCC to ""A90"" (Certified, Not Driveable) + Added ADDRESSES",1
+-1,REPOSITIONED to proper location + Correct FENAME + Add FETYPE + REMOVE FENAME2/FETYPE2,1
+-1,Repositioned to proper location + Corrected ADDRESS RANGES,15
+-1,REPOSITIONED to proper location + Corrected ADDRESS RANGES,33
+-1,REPOSITIONED to proper location + Corrected ADDRESS RANGES (ODD + EVEN ON BOTH SIDES),1
+-1,REPOSITIONED to proper location + Corrected ADDRESS RANGS,1
+-1,REPOSITIONED to proper location + Corrected FCC (Private CUL-DE-SAC = A43),1
+-1,REPOSITIONED to proper location + Corrected FCC to ""A43"" (this IS a cul-de-sac - refer to orthos if you don't believe me,1
+-1,REPOSITIONED to proper location + Corrected FENAME & FETYPE (second request),1
+-1,Repositioned to proper location + Corrected FENAME + Added ADDRESS RANGES,1
+-1,Repositioned to proper location + Corrected FENAME + Added ADDRESSES,1
+-1,REPOSITIONED to proper location + Corrected FENAME + Added FENAME2/FETYPE2 + Corrected ADDRESSES,4
+-1,REPOSITIONED to proper location + Corrected FENAME + Corrected ADDRESS RANGES,1
+-1,Repositioned to proper location + Corrected FENAME + Corrected ADDRESSES,1
+-1,REPOSITIONED to proper location + Corrected FENAME + Removed FETYPE,1
+-1,REPOSITIONED to proper location + Corrected FENAME/FETYPE + Added ADDRESS RANGES,1
+-1,REPOSITIONED to proper location + Corrected FENAME/FETYPE + Added ADDRESSES,2
+-1,REPOSITIONED to proper location + Corrected FENAME/FETYPE + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED to proper location + Corrected FENAME/FETYPE + Corrected ADDRESS RANGES and TRAFALIGN.,1
+-1,Repositioned to proper location + Corrected FENAME+FETYPE + Added ADDRESSES,1
+-1,REPOSITIONED to proper location + Corrected FENAME2,1
+-1,REPOSITIONED to proper location + Corrected FETYPE + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED to proper location + Corrected FETYPE + Corrected ADDRESS RANGES + Note TRAFALIGN,1
+-1,REPOSITIONED to proper location + Fix FENAME + Remove FETYPE + Fix FENAME2,1
+-1,REPOSITIONED to proper location + Fix FENAME2 + Remove FETYPE2 + Add FENAME3/FETYPE3 + Fix ADDRESS RANGES,1
+-1,"REPOSITIONED to proper location + Fixed ADDRESSES + Fixed FMCDL/FMCDR (This is in FILLMORE TWP, not the City)",1
+-1,REPOSITIONED to proper location + LENGTHENED + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED to proper location + REMOVED FEDIRP + Correct FENAME + Correct ADDRESSES,2
+-1,REPOSITIONED to proper location + SPLIT for Cul-de-Sac + Corrected ADDRESSES,2
+-1,REPOSITIONED to proper location.,2
+-1,REPOSITIONED to proper location. Added ADDRESS RANGES. Again. Also note TRAFALIGN.,1
+-1,REPOSITIONED to proper location. AGAIN.,1
+-1,REPOSITIONED to proper location. AGAIN. Corrected ADDRESS RANGES. AGAIN.,1
+-1,REPOSITIONED to proper location. This road has NOT YET BEEN BUILT and is positioned in the center of the RIGHT-OF-WAY,5
+-1,Repositioned to proper position + Corrected FETYPE +  Corrected ADDRESS RANGES,1
+-1,REPOSITIONED to proper roadway + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED west end of segment (at Harmony Ln) + Adjusted ADDRESS RANGES,1
+-1,REPOSITIONED west end to Corporate Boundary + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED west end to proper location + Corrected ADDRESS RANGES,1
+-1,REPOSITIONED western end of segment to proper location,1
+-1,REPOSITIONED. AGAIN. + Corrected FENAME/FETYPE. AGAIN. + Corrected ADDRESS RANGES. AGAIN.,1
+-1,REPOSITIONED. AGAIN. Corrected FENAME/FETYPE. AGAIN. Corrected ADDRESS RANGES. AGAIN.,3
+-1,Repositioned; Scaled back end for cul-de-sac; Added ALL ADDRESS RANGES,1
+-1,REPOSTIONED entire segment + Corrected FENAME,1
+-1,REPOSTIONED to center of roadway + Corrected ADDRESS RANGES,1
+-1,road was routed differently and roadname issues are involved,1
+-1,Schoolhouse Ln,1
+-1,Segment does NOT exist - NO cul-de-sac (FCC=A43) here. DELETE SEGMENT.,1
+-1,SHORTENED segment to the east for repositioned Lilly Ct + Adjusted ADDRESS RANGES,1
+-1,SPLIT + Corrected ADDRESS RANGE on left (west) side of segment.,1
+-1,SPLIT + Corrected FENAME/FETYPE + Added ADDRESSES,1
+-1,SPLIT fo cul-de-sac (FCC = A43) + REPOSITIONED + Corrected ADDRESS RANGES,1
+-1,SPLIT for 59th St + REPOSITIONED to proper location + Corrected FENAME/FETYPE + Correct ADDRESSES,2
+-1,split for address range,2
+-1,SPLIT for address range change + Added ADDRESS RANGES,2
+-1,SPLIT for address range change + Corrected ADDRESS RANGES,6
+-1,SPLIT for ADDRESS RANGE change + Corrected ADDRESS RANGES,2
+-1,SPLIT for address range change + Corrected FENAME/FETYPE + Corrected ADDRESSES + REPOSITIONED,2
+-1,SPLIT for address range change + REPOSITION entire segment + Fix FENAME + Fix ADDRESSES,2
+-1,Split for Address Range change + Repositioned,5
+-1,Split for Address Range change + Repositioned + Added ADDRESS RANGES,2
+-1,Split for Address Range Change + Repositioned + Corrected ADDRESS RANGES,2
+-1,"split for address range, corrected address ranges",2
+-1,split for address ranges,2
+-1,"split for address ranges, corrected fename and fetype and address ranges",2
+-1,SPLIT for addresses + REPOSITIONED + Corrected FENAME + Removed FETYPE + Added FENAME2/FETYPE2 + Corrected ADDRESSES,2
+-1,SPLIT for attribute change + REPOSITIONED + Changed FENAME + Corrected ADDRESSES,1
+-1,SPLIT for attribute change + REPOSITIONED + Corrected ADDRESSES,1
+-1,SPLIT for certified/uncertified change (THIS segment is certified) + REPOSITIONED + Corrected ADDRESSES,1
+-1,"SPLIT for certified/uncertified change (THIS segment, FCC=A41) + REPOSITIONED + Corrected ADDRESSES",1
+-1,SPLIT for change in FCC (this segment remains FCC=A32) + Corrected ADDRESS RANGES,1
+-1,Split for circle drive + Repositioned + Corrected ADDRESS RANGES,1
+-1,Split for Cobblestone Aly; Added ALL ADDRESS RANGES,2
+-1,"Split for Corporate Boundary, Corrected all ADDRESS RANGES, Added FENAME2+FETYPE2",1
+-1,SPLIT for cul-de-sac - This Segment FCC=A33 (cul-de-sac) + Corrected FENAME (RESERVE nor REVERSE),1
+-1,SPLIT for Cul-de-sac (FCC = A33) + Added ADDRESS RANGES,1
+-1,Split for cul-de-sac (FCC = A33) + Corrected ADDRESS RANGES,1
+-1,SPLIT for Cul-de-sac (FCC = A33) + REPOSITIONED + Added ADDRESS RANGES,1
+-1,SPLIT for Cul-de-sac (FCC = A33) + REPOSITIONED to proper location + Added ADDRESS RANGES,2
+-1,SPLIT for cul-de-sac (FCC=A43) + Corrected ADDRESSES + REPOSITIONED,1
+-1,SPLIT for cul-de-sac (THIS segment FCC=A41) + Fixed ADDRESS + REPOSITIONED,1
+-1,SPLIT for cul-de-sac (THIS segment remains FCC=A41) + REPOSITIONED entire segment + Fixed ADDRESSES,1
+-1,"SPLIT for cul-de-sac (THIS segment, FCC = A43) + REPOSITIONED to center of road + Corrected ADDRESSES",1
+-1,"SPLIT for cul-de-sac (THIS segment, FCC change to ""A43"" private cul-de-sac) + REPOSITIONED) + Fixed ADDRESSES",1
+-1,"SPLIT for cul-de-sac (THIS segment, FCC=""A33"") + Added ADDRESS RANGES",1
+-1,"SPLIT for cul-de-sac (THIS segment, FCC=A33) + Added ADDRESS RANGES",1
+-1,SPLIT for cul-de-sac + Added ADDRESS RANGES,2
+-1,SPLIT for Cul-de-sac + Added ADDRESS RANGES,1
+-1,Split for cul-de-sac + Corrected ADDRESS RANGES,1
+-1,SPLIT for cul-de-sac + Corrected ADDRESS RANGES,1
+-1,SPLIT for cul-de-sac + Corrected FENAME (RESERVE nor REVERSE),1
+-1,Split for cul-de-sac + REPOSITIONED + Corrected ADDRESS RANGES,1
+-1,SPLIT for cul-de-sac + REPOSITIONED to center of road + Corrected ADDRESS RANGES,1
+-1,SPLIT for cul-de-sac + REPOSITIONED to center of road + Corrected ADDRESSES,1
+-1,SPLIT for Cul-de-sac + REPOSITIONED to proper location + Added ADDRESS RANGES,2
+-1,"SPLIT for FCC - this is beyond 150' of certified public road, so it's A41 + REPOSITION + Fix FEDIRP/FETYPE + Fix ADDRESS",1
+-1,SPLIT for FCC - This segment not physically present and not driveable (FCC = A90) + Added FENAME2 + Fixed ADDRESSES,1
+-1,"SPLIT for FCC (FCC=A90 - road is WASHED OUT & missing, but certified) + Fixed FENAME/TYPE + FENAME2/TYPE + ADDRESSES",1
+-1,"SPLIT for FCC (this segment is a cul-de-sac, FCC=A33) + REPOSITIONED entire segment + Fix ADDRESS RANGES",1
+-1,SPLIT for FCC (This segment not affected) + REPOSITIONED entire segment + Corrected ADDRESSES,1
+-1,SPLIT for FCC (This segment REMAINS FCC=A32) + Fixed FENAME/TYPE + FENAME2/TYPE + ADDRESSES + REPOSITION,1
+-1,SPLIT for FCC (this segment remains FCC=A32) + REPOSITIONED entire segment + Fix ADDRESS RANGES,1
+-1,SPLIT for FCC = A90 (NON-DRIVEABLE footpath for New Richmond Br Co Pk) + Fix FENAME & ADDRESSES + Add FENAME2 + REPOS.,1
+-1,SPLIT for FCC and ADDRESS RANGE corrections (NO CHANGE in FCC for this segment),1
+-1,SPLIT for FCC change - THIS segment FCC = A90 (Not a driveable roadway - check the aerials!) + Fixed ADDRESSES,1
+-1,"SPLIT for FCC change - This segment FCC=A90 (non-drivable, certified road) + Adjusted ADDRESSES",1
+-1,SPLIT for FCC change - this segment is FCC=A90 - NOT DRIVEABLE + Corrected ADDRESS RANGES,1
+-1,"SPLIT for FCC change (Road Abandoned/Bridge Removed, FCC=A90) + Adjusted ADDRESS RANGES",2
+-1,SPLIT for FCC change (THIS segment CHANGE to ""A90"" - no driveable road exists) + REPOSITIONED + Fixed ADDRESSES,1
+-1,SPLIT for FCC change (This segment doesn't exist and FCC = A90) + Adjusted ADDRESS RANGES,1
+-1,SPLIT for FCC change (THIS segment FCC=A90) + Fix FENAME/FTYPE + Remove FENAME2/FETYPE2 + Fix ADDRESSES + REPOSITION,1
+-1,"SPLIT for FCC change (this segment is a cul-de-sac, FCC=A33) + REPOSITIONED segment + Corrected ADDRESS RANGES",1
+-1,SPLIT for FCC change (This segment no change - remains FCC=A32) + Adjusted ADDRESSES,1
+-1,SPLIT for FCC change (this segment remains A32) + Corrected ADDRESS RANGES,1
+-1,SPLIT for FCC Change (THIS segment remains A32) + Corrected ADDRESS RANGES,1
+-1,SPLIT for FCC change (THIS segment remains A32) + REPOSITIONED + Corrected ADDRESS RANGES,1
+-1,SPLIT for FCC change (this segment remains A32) + REPOSITIONED entire segment + Fixed ADDRESSES,1
+-1,SPLIT for FCC change (this segment remains A32) + REPOSITIONED segment + Corrected ADDRESS RANGES,1
+-1,SPLIT for FCC change (THIS segment remains FCC=A32) + Adjusted ADDRESS RANGES,2
+-1,SPLIT for FCC Change (THIS segment remains FCC=A32) + Adjusted ADDRESSES + REPOSITIONED,1
+-1,SPLIT for FCC change (THIS segment remains FCC=A32) + Fixed FENAME/TYPE + FENAME2/TYPE2 + ADDRESSES + REPOSITION,1
+-1,"SPLIT for FCC change (THIS segment, FCC=A33, cul-de-sac) + Adjusted ADDRESS RANGES",1
+-1,"SPLIT for FCC Change (THIS segment, FCC=A90, undrivable certified road) + Adjusted ADDRESSES",1
+-1,SPLIT for FCC change + Adjusted ADDRESS RANGES,2
+-1,SPLIT for FCC change + Fix FENAME/FTYPE + Remove FENAME2/FETYPE2 + Fix ADDRESSES + REPOSITION,1
+-1,SPLIT for FCC change and New Private Road + Adjusted ADDRESS RANGES,1
+-1,Split for FEDIRP+FENAME+FETYPE Change + Repositioned + Added ADDRESSES,1
+-1,Split for FEDIRP+FENAME+FETYPE Change + Repositioned + Added ADDRESSES + FCC change to A43 (cul-de-sac),1
+-1,Split for FENAME & ADDRESS change + Repositioned + Added ADDRESS RANGES,1
+-1,Split for FENAME & ADDRESS change + Repositioned + Corrected FENAME + Added ADDRESS RANGES,1
+-1,SPLIT for FENAME & ADDRESS change + REPOSITIONED at west end,1
+-1,Split for FENAME & ADDRESS changes + Repositioned to proper location + Corrected FENAME + Added ADDRESSES,6
+-1,Split for FENAME change + Corrected FENAME/FETYPE + ADDRESSES,2
+-1,Split for FENAME change + Corrected FENAME/FETYPE ADDRESSES,1
+-1,split for fename correction and address ranges,1
+-1,"split for fename correction, corrected fename and address ranges",1
+-1,SPLIT for FENAME/ADDRESS change + REPOSITIONED at curve + Fixed FENAME/FETYPE + FENAME2/FETYPE2 + Added ADDRESSES,1
+-1,SPLIT for FENAME/ADDRESS change + REPOSITIONED entire segment + Fixed FENAME/FETYPE + FENAME2/FETYPE2 + Added ADDRESSES,1
+-1,Split for FENAME/ADDRESS corrections + Corrected FENAME/FETYPE + Corrected ADDRESSES + REPOSITIONED,1
+-1,SPLIT for FENAME/FETYPE and ADDRESS RANGE correction.,3
+-1,SPLIT for FENAME/FETYPE and ADDRESS RANGE corrections.,1
+-1,Split for FENAME/FETYPE change + Added ADDRESSES + Repositioned,1
+-1,Split for FENAME/FETYPE change + Corrected FENAME/FETYPE + Corrected ADDRESSES + Repositioned,1
+-1,Split for FENAME/FETYPE corrections (on other segments),1
+-1,Split for FENAME+ADDRESS change + Repositioned + Corrected FENAME + Corrected ADDRESS RANGES,2
+-1,Split for FENAME+FETYPE Change + Repositioned + Added ADDRESSES,1
+-1,Split for FENAME+FETYPE Change + Repositioned + Added ADDRESSES + FCC = A43 (cul-de-sac),1
+-1,SPLIT for intersecting road + Adjusted ADDRESS RANGES + Added FENAME2,2
+-1,SPLIT for intersecting segment + REPOSITIONED + Added ADDRESS RANGES,2
+-1,split for Lavery Ln,2
+-1,Split for Liberty Ct; Repositioned at curves;,2
+-1,split for Mallard,1
+-1,split for Mallard Dr,1
+-1,SPLIT for name/address + REPOSITIONED to center of street + Added ADDRESSES,1
+-1,SPLIT for name/address + REPOSITIONED to center of street + Corrected FENAME + Added ADDRESSES,2
+-1,SPLIT for name/address change + Correct FENAME/FETYPE + Remove FENAME2/FETYPE2 + Fix ADDRESSES + REPOSITION,1
+-1,SPLIT for name/address change + Corrected ADDRESS RANGES,1
+-1,SPLIT for Name/Address change + Corrected FENAME + Corrected ADDRESSES,1
+-1,SPLIT for name/address change + Corrected FENAME/FETYPE + Corrected ADDRESSES + REPOSITIONED entire segment,2
+-1,SPLIT for name/address change + Corrected FENAME/FETYPE + Fixed ADDRESSES + REPOSITIONED,1
+-1,SPLIT for name/address change + REPOSITIONED + Fix FENAME + Remove FETYPE + Fix ADDRESSES,1
+-1,SPLIT for name/address change + REPOSITIONED entire segment,1
+-1,SPLIT for name/address correction + REPOSITION entire segment + Fix FENAME/FETYPE + Remvoe FENAME2/FETYPE2 + Fix ADDRESS,1
+-1,SPLIT for name/address correction + REPOSITIONED + Fixed FENAME/FETYPE + Fixed ADDRESSES,1
+-1,SPLIT for name/address correction + REPOSITIONED entire segment + Corrected ADDRESSES + REPOSITIONED segment,1
+-1,SPLIT for name/address correction + REPOSITIONED on west end + Fixed ADDRESS RANGES,1
+-1,Split for new cutoff road + Corrected ADDRESS RANGES,2
+-1,Split for new cutoff segment + REPOSITIONED to proper location + Corrected ADDRESS RANGES,2
+-1,SPLIT for new FETYPE & ADDRESS Ranges + REPOSITIONED at south end.,1
+-1,SPLIT for new intersecting road + Adjusted ADDRESS RANGES,4
+-1,SPLIT for new intersecting road + Adjusted ADDRESS RANGES + REPOSITIONED,1
+-1,SPLIT for new intersecting road + REPOSITIONED + Corrected ADDRESS RANGES,1
+-1,SPLIT for new intersecting road segment,2
+-1,SPLIT for new intersecting segment + REPOSITIONED + Corrected ADDRESS RANGES,2
+-1,SPLIT for new intersection with 101st St (West) + Corrected ADDRESS RANGES,2
+-1,SPLIT for new private road + Adjusted ADDRESS RANGES,6
+-1,SPLIT for new private road + Correct FETYPE + Corrected ADDRESS RANGES + Added FENAME2/FETYPE2,1
+-1,SPLIT for new private road + Corrected ADDRESS RANGES,4
+-1,SPLIT for new private road + Corrected ADDRESS RANGES + Corrected FETYPE + Added FENAME2/FETYPE2,1
+-1,SPLIT for new private road + REPOSITIONED + Corrected ADDRESS RANGES,2
+-1,Split for new pvt rd + REPOSITIONED to proper location + Corrected ADDRESS RANGES,3
+-1,split for new road,1
+-1,SPLIT for new road & name/address change + Added FETYPE + Fixed ADDRESSES + REPOSITIONED,1
+-1,SPLIT for new road + Added ADDRESS RANGES,2
+-1,SPLIT for new road + Added FEDIRP + Added ADDRESS RANGES,2
+-1,SPLIT for new road + Added FETYPE + Fixed ADDRESSES + REPOSITIONED,1
+-1,SPLIT for new road + Added Intercounty Highway designation to FENAME2 + Corrected ADDRESSES,2
+-1,SPLIT for new road + Adjusted ADDRESS RANGES,35
+-1,SPLIT for New Road + Adjusted ADDRESS RANGES,1
+-1,SPLIT for new road + Adjusted ADDRESS RANGES + REPOSITIONED to proper location,2
+-1,SPLIT for new road + Correct ADDRESS RANGES,2
+-1,SPLIT for new road + Corrected ADDRESS RANGES,7
+-1,"SPLIT for new road + Fixed ADDRESSES, Added FENAME2+FETYPE2",2
+-1,SPLIT for new road + REMOVE duplicative FENAME2/FETYPE2 (Same in both fields) + REMOVE FEDIRP + Correct ADDRESSES,2
+-1,"SPLIT for new road + REPOSITION on south end + Corrected ADDRESSES + fix FENAME/FETYPE, FENAME2/FETYPE2 + fix ADDRESSES",1
+-1,SPLIT for new road + REPOSITION to center of road + Adjust ADDRESSES,2
+-1,SPLIT for new road + REPOSITIONED + Add FENAME2/FETYPE2 + Correct ADDRESSES,3
+-1,SPLIT for new road + REPOSITIONED + Added FENAME,1
+-1,SPLIT for new road + REPOSITIONED + Added FENAME/FETYPE + Added ADDRESSES,2
+-1,"SPLIT for new road + REPOSITIONED + Corrected ADDRESSES + fix FENAME/FETYPE, FENAME2/FETYPE2 + fix ADDRESSES",1
+-1,SPLIT for new road + REPOSITIONED + Fixed FENAME/FETYPE + Fixed FENAME2/FETYPE2 + Fixed ADDRESSES,2
+-1,SPLIT for new road + REPOSITIONED entire segment + Add ADDRESSES,2
+-1,SPLIT for new road + REPOSITIONED entire segment + Added ADDRESS RANGES,2
+-1,SPLIT for new road + REPOSITIONED entire segment + Added ADDRESSES,1
+-1,SPLIT for new road + REPOSITIONED entire segment + Corrected FENAME/FETYPE + Corrected ADDRESSES,2
+-1,SPLIT for new road + Repositioned to proper location + Corrected ADDRESS RANGES,2
+-1,SPLIT for new road segment + Assigned ADDRESS RANGES,2
+-1,SPLIT for new road segment + Corrected ADDRESS RANGES,2
+-1,SPLIT for new road segment + Corrected ADDRESS RANGES + COMPLETELY REPOSITIONED,2
+-1,SPLIT for new road segment + REPOSITIONED + Added FENAME,1
+-1,SPLIT for new roads + Added FEDIRP + Corrected FETYPE + Added FENAME2/FETYPE2 + Fixed ADDRESSES,3
+-1,SPLIT for new roads + Added FENAME/FETYPE + Added ADDRESSES,2
+-1,Split for new roads + COMPLETELY REPOSITIONED + Corrected ADDRESS RANGES,3
+-1,SPLIT for new segment + REALIGNED + Adjusted ADDRESSES + Note TRAFALIGN (""-""),1
+-1,SPLIT for new segment intersection + REALIGNED + Adjusted ADDRESSES,1
+-1,SPLIT for new segments + Added FENAME,1
+-1,SPLIT for new segments + REPOSITIONED + Added FENAME,1
+-1,"SPLIT for new, intersecting roadway + Corrected ADDRESS RANGES",2
+-1,Split for newroad + Corrected FENAME/FETYPE + Corrected ADDRESSES + REPOSITIONED,1
+-1,Split for newroad + Repositioned + Added FEDIRP + Added ADDRESSES,2
+-1,split for newroad Sunrise Dr and corrected address ranges,2
+-1,"split for newroad, 20120621 Corrected ADDRESS RANGES",2
+-1,"split for newroad, 20150603 SPLIT for new road + Adjusted ADDRESS RANGES",2
+-1,"split for newroad, corrected address range",2
+-1,"split for Novi Pl, 20120604corrected address ranges",2
+-1,"split for Pacific, Added Intercounty Highway designation to FENAME2",2
+-1,Split for PRIVATE CUL-DE-SAC (FCC = A43) + REPOSITIONED + Corrected ADDRESS RANGES,1
+-1,SPLIT for private cul-de-sac (FCC = A43) + Repositioned + Corrected ADDRESS RANGES,1
+-1,SPLIT for private cul-de-sac (THIS segment FCC=A43) + Corrected ADDRESS RANGES,1
+-1,Split for proper location of Carlton Ct (East) + Added ADDRESSES,2
+-1,SPLIT for public/private (this is 150' certified portion) + Fix FENAME/FETYPE + Fix ADDRESSES + REPOSITION,1
+-1,SPLIT for reconfigured roadway + Completely REPOSITIONED + Corrected FENAME/FETYPE + Added FENAME2/FETYPE2,1
+-1,SPLIT for reconfigured roadway + REPOSITIONED + Corrected FENAME/FETYPE + Added FENAME2/FETYPE2 + Note TRAFALIGN = ""+"",1
+-1,SPLIT for Road Name Change + Adjusted ADDRESS RANGES,1
+-1,SPLIT for Road Name Change + Corrected FENAME/FETYPE & ADDRESS RANGES,1
+-1,SPLIT for road name/address change + REPOSITIONED + Corrected FEDIRP/FENAME + Corrected ADDRESSES,1
+-1,SPLIT for roadname change + Corrected ADDRESS RANGES,1
+-1,SPLIT for roadname change + Corrected FENAME/FETYPE + Corrected ADDRESS RANGES,1
+-1,split for roadname problem,1
+-1,split for roadname problem corrected to Geneva Lake Dr,1
+-1,"split for roadname, corrected roadname, added address ranges",1
+-1,"split for roadname, corrected roadname, corrected ranges",1
+-1,SPLIT for roadname/address change + Added ADDRESS RANGES,1
+-1,"SPLIT for roadname/address change + Corrected FETYPE (this is CT, not AVE)",1
+-1,SPLIT for roadname/address change + REPOSITIONED + Added FEDIRP + Corrected ADDRESSES,1
+-1,SPLIT for roadname/address change + REPOSITIONED + Corrected ADDRESS RANGES,1
+-1,SPLIT for roadname/address change + REPOSITIONED + Corrected ADDRESSES,1
+-1,SPLIT for roadname/address change + REPOSITIONED + Corrected FETYPE + Corrected ADDRESSES,1
+-1,SPLIT for roadname/address change + REPOSITIONED entire segment + Fixed ADDRESSES,2
+-1,SPLIT for roadname/address correction + REPOSITIONED + Added ADDRESSES,1
+-1,SPLIT for roadname/address correction + REPOSITIONED + Fixed FENAME/FETYPE + Added ADDRESSES,1
+-1,SPLIT for roadname/addressing change + Corrected ADDRESS RANGES,1
+-1,split for roadrange,2
+-1,split for Schoolhouse Ln an shift position,2
+-1,SPLIT for Service St + REPOSITIONED entire segment + Added ADDRESSES,2
+-1,SPLIT for status (FCC) change + Adjusted ADDRESS RANGES,1
+-1,SPLIT for status change (FCC=""A90) - Road OBLITERATED + Adjusted ADDRESSES,1
+-1,SPLIT for status change + FCC = ""A00"" (Future Road) + Correct FENAME + Correct ADDRESSES,1
+-1,SPLIT for status change + REPOSITIONED + Correct FENAME + Correct ADDRESSES,1
+-1,SPLIT for two new intersecting roads + Adjusted ADDRESS RANGES,3
+-1,Split for Wyngarden Way; Adjusted ADDRESS RANGES,2
+-1,SPLIT in two places + Completely REPOSITIONED + Added ADDRESSES,2
+-1,SPLIT in two places + Completely REPOSITIONED + Added ADDRESSES + Note TRAFALIGN = ""-"",1
+-1,SPLIT into 3 segments + REPOSITIONED + Corrected ADDRESS RANGES,2
+-1,SPLIT into multiple segments for new roads + Fix ADDRESSES + Fix FENAME/FENAME2 + REPOSITIONED,8
+-1,SPLIT off private cul-de-sac + Repositioned + Corrected ADDRESS RANGES,2
+-1,Splitfor FCC (""A32"") and LEGALSYSTEM (""3"") - This is a Certified County Local Road + Added FENAME2/FETYPE2 + REPOSITIONE,1
+-1,Splitfor FCC / LEGALSYSTEM - Other portion is a Certified County Local Road + Added FENAME2/FETYPE2 + REPOSITIONED,2
+-1,"This is a COUNTY LOCAL cul-de-sac, not private + FCC = ""A33"" + LEGALSYSTEM = 3",1
+-1,THIS IS AN ""A90"" (FCC) - Ask ACRC if there's a doubt. Also Added ADDRESSES.,1
+-1,"THIS is the certified segment, not Lake Mich Dr. FCC = A32, LEGALSYSTEM = 3 (Verified with Allegan Co Rd Comm)",1
+-1,"THIS is the NOT certified segment (that's 117th) FCC = A41, LEGALSYSTEM = 0 (Verified with Allegan Co Rd Comm)",1
+-1,this one had some funky data in it,1
+-1,This street NO LONGER PHYSICALLY EXISTS IN REALITY; Please change FCC to A90,1
+-1,TRUNCATED east end of segment for roundabout + Corrected ADDRESS RANGES,1
+-1,updated surface to Paved,2
+-1,"updated surface to Paved, 20120611 corrected address ranges",3

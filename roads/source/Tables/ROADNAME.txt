@@ -1,0 +1,2663 @@
+OBJECTID,ROADNAME,Cnt_ROADNAME
+1, ,171
+2,1 Cobblestone Aly,1
+3,100th Ave,2
+4,101st Ave,23
+5,102nd Ave,82
+6,103rd Ave,32
+7,103rd/52nd Cutoff,1
+8,104th Ave,63
+9,104th/40th Cutoff,1
+10,105th Ave,32
+11,106th Ave,61
+12,106th/N US 131 RAMP,1
+13,107th Ave,41
+14,108th Ave,55
+15,108th St,11
+16,108th St SW,18
+17,109th Ave,76
+18,109th/N I 196 RAMP,1
+19,109th/S I 196 RAMP,1
+20,10th St,51
+21,10th/137th Cutoff (Obliterated),1
+22,110th Ave,58
+23,111th Ave,32
+24,112th,1
+25,112th Ave,63
+26,113th Ave,28
+27,114th Ave,45
+28,115th Ave,14
+29,116th Ave,76
+30,116th/N US 131 RAMP,1
+31,116th/S US 131 RAMP,1
+32,117th Ave,21
+33,118th Ave,82
+34,119th Ave,16
+35,11th St,21
+36,120th Ave,75
+37,121st Ave,33
+38,121st St,1
+39,121st/15th Cutoff Rd,1
+40,122nd Ave,80
+41,123rd Ave,30
+42,124th Ave,79
+43,124th/N I 196 RAMP,1
+44,124th/N US 131 RAMP,1
+45,124th/S I 196 RAMP,1
+46,125th Ave,40
+47,126th Ave,73
+48,127th Ave,47
+49,128th Ave,73
+50,128th/47th Cutoff,1
+51,129th Ave,32
+52,129th/N US 131 RAMP,2
+53,12th St,64
+54,12th/S US 131 RAMP,2
+55,130th Ave,55
+56,131st Ave,20
+57,132nd Ave,61
+58,133rd Ave,55
+59,134th Ave,60
+60,135th Ave,51
+61,135th/N US 131 RAMP,1
+62,135th/S US 131 RAMP,1
+63,136th Ave,97
+64,136th/63rd Cutoff,1
+65,137th Ave,32
+66,138th Ave,73
+67,139th Ave,21
+68,13th St,27
+69,140th Ave,99
+70,141st Ave,35
+71,142nd Ave,125
+72,142nd/N US 131 RAMP,1
+73,142nd/S US 131 RAMP,1
+74,143rd Ave,43
+75,144th Ave,102
+76,145th Ave,26
+77,146th Ave,102
+78,146th St,1
+79,147th Ave,53
+80,14th St,41
+81,15th St,22
+82,16th St,59
+83,17th St,16
+84,18th St,52
+85,19th St,36
+86,1st St,8
+87,2 Cobblestone Aly,1
+88,20th St,45
+89,21st St,47
+90,22nd St,37
+91,23rd St,20
+92,24th St,40
+93,25th St,11
+94,26th St,66
+95,27th St,15
+96,28th St,43
+97,29th St,7
+98,2nd Division St,1
+99,2nd St,54
+100,30th St,63
+101,31st St,3
+102,32nd St,46
+103,33rd St,9
+104,34th St,57
+105,35th St,14
+106,36th St,48
+107,37th St,17
+108,38 1/2 St,1
+109,38th St,48
+110,39th St,19
+111,3rd St,9
+112,40th Ave,2
+113,40th St,34
+114,41st St,28
+115,42nd St,43
+116,42nd/104th Cutoff,1
+117,42nd/Baseline Cutoff,1
+118,43rd St,34
+119,44th Ave,1
+120,44th St,55
+121,45th St,16
+122,46th St,44
+123,46th/109th Cutoff,1
+124,47th St,35
+125,48th St,64
+126,49th St,17
+127,4th Ave,1
+128,4th St,53
+129,50th St,30
+130,51st St,11
+131,52nd St,58
+132,52nd/104th Cutoff,1
+133,53rd St,21
+134,54th St,48
+135,54th/103rd Cutoff,1
+136,55th St,32
+137,56th St,60
+138,56th/128th Cutoff,1
+139,57th St,19
+140,58th St,56
+141,59th St,19
+142,5th St,29
+143,60th St,71
+144,61st St,13
+145,62nd St,60
+146,63rd St,30
+147,64th Ave,2
+148,64th St,67
+149,65th St,27
+150,66th St,69
+151,67th St,2
+152,68th St,20
+153,69th St,3
+154,6th St,39
+155,70th St,12
+156,71st St,12
+157,72nd Ave,3
+158,72nd St,3
+159,74th St,10
+160,7th St,29
+161,8th St,25
+162,9th St,24
+163,A Ave,5
+164,A St,1
+165,Abandoned 118th Ave,1
+166,Abandoned 132nd Ave,2
+167,Abandoned Ridge Ave,1
+168,Abbey Dr,1
+169,Abigail Ln,1
+170,Academy Ln,1
+171,Academy St,6
+172,Acorn Dr,1
+173,Acorn St,4
+174,Acres,1
+175,Adams Dr,1
+176,Adams Rd,1
+177,Adams St,5
+178,Advent Lake Rd,1
+179,Agnes Ave,2
+180,Airport Ct,2
+181,Airport Dr,1
+182,Airview Dr,1
+183,Airway Dr,7
+184,Alberta Pl,1
+185,Alchandylissag Dr,1
+186,Alden Ct,4
+187,Alden St,1
+188,Alexa Ln,2
+189,Alexander St,1
+190,Alivia Dr,3
+191,Allan Ave,1
+192,Allegan Ave,3
+193,Allegan County Fair Dr,2
+194,Allegan Dam East BAS,4
+195,Allegan Dam Rd,15
+196,Allegan High School East Access,3
+197,Allegan High School Front Access,1
+198,Allegan High School North Access,2
+199,Allegan High School South Access,1
+200,Allegan High School West Access,4
+201,Allegan Lake BAS,1
+202,Allegan St,24
+203,Allegan/N US 131 RAMP,1
+204,Allen Ct,2
+205,Allen Rd,1
+206,Allen St,1
+207,Allett St,1
+208,Alley,6
+209,Alpha Rd,2
+210,Alpine Dr,2
+211,Alpine St,1
+212,Alyssa Ln,1
+213,Amash Industrial Dr,1
+214,Amelia St,3
+215,Ames Ave,3
+216,Amity St,2
+217,Ammerman St,1
+218,Ampitheatre Dr,3
+219,Ampitheatre/S Audubon Cutoff,2
+220,Anderson Dr,1
+221,Andrea's Ln,2
+222,Andrews Ct,2
+223,Ann Ct,1
+224,Ann St,1
+225,Anna Michen Dr,2
+226,Anns Ct,1
+227,Ansbury St,1
+228,Anthony Ct,2
+229,Anvil Ln,4
+230,Apollo Ct,7
+231,Apollo Pl,3
+232,Apple Blossom Ln,3
+233,Apple Ridge Ct,2
+234,Appleton Ct,1
+235,Appy Way Ln,2
+236,Arbor Creek Dr,2
+237,Arbor Ln,2
+238,Arbor St,4
+239,Arbor Trl,2
+240,Arcadia Ln,1
+241,Ardmore St,1
+242,Argon Ct,1
+243,Ariel Dr,2
+244,Arlene Ln,2
+245,Armintrout Ridge Ct,2
+246,Arndt Ave,1
+247,Arndt Ct,2
+248,Arndt Dr,2
+249,Arnold St,2
+250,Arrow Dr,1
+251,Arrowhead Dr,2
+252,Arrowhead Trl,1
+253,Artian Row Ct,1
+254,Artisan Row Ct,2
+255,Ash Dr,1
+256,Ashland Dr,1
+257,Ashton,1
+258,Ashville Dr,1
+259,Aspen Dr,3
+260,Aster St,4
+261,Atkins Dr,2
+262,Atlantic Ave,5
+263,Audubon St,8
+264,Autumn Crest Dr,1
+265,Autumn Ct,1
+266,Autumn Dr,2
+267,Autumn Trl,4
+268,Autumn Wood Dr,5
+269,Avis Ln,2
+270,Avon Dr,1
+271,Avonlea Ln,2
+272,Ayers Ave,1
+273,B Ave,6
+274,B J Ct,2
+275,B J Dr,3
+276,B St,3
+277,Babylon Rd,16
+278,Bailey's Cove,3
+279,Bailey Ln,1
+280,Baker St,4
+281,Balmoral Ave,1
+282,Banberry,2
+283,Bandle St,2
+284,Bannister St,1
+285,Bardeen Ct,2
+286,Barnwood Dr,3
+287,Barton St,6
+288,Baseline Lake BAS,3
+289,Baseline Rd,89
+290,Bass Dr,1
+291,Bauer Ln,2
+292,Baum Ave,1
+293,Bauman Grove,2
+294,Bay Breeze,6
+295,Bay Breeze/Winding Cutoff,1
+296,Bayberry Ln,1
+297,Baylor Ln,1
+298,Bayou Ct,2
+299,Bayou Dr,2
+300,Bayou Trl,2
+301,Bayview Ct,1
+302,Bayview Dr,6
+303,Bayview Ln,1
+304,Beach Dr,5
+305,Beach Glass Ln,1
+306,Beach House Ln,1
+307,Beach Trl,1
+308,Beachview Dr,1
+309,Bear Creek Dr,1
+310,Bedford Pl,2
+311,Beech Ct,2
+312,Beech Dr,1
+313,Beech St,5
+314,Beechnut Cir,2
+315,Beechnut Trl,3
+316,Beechwood Ave,2
+317,Beechwood Ct,2
+318,Beechwood Dr,1
+319,Beeline Rd,11
+320,Beethoven St,6
+321,Begonia Ave,2
+322,Belgrave St,4
+323,Bellwood Dr,3
+324,Belmont Way,2
+325,Ben St,2
+326,Bendemeer Dr,3
+327,Benhoy Ave,1
+328,Benhoy St,3
+329,Benjamin St,1
+330,Benny Dr,1
+331,Bent Ridge Dr,2
+332,Beretta Dr,1
+333,Beth St,2
+334,Beverly Dr,1
+335,Big Lake BAS,1
+336,Big Sable Dr,2
+337,Big Timber Cir,2
+338,Big Timber Trl,3
+339,Birch Ct,2
+340,Birch St,3
+341,Birchmoor Dr,1
+342,Birchwood Rd,4
+343,Birds Nest Ln,1
+344,Birmingham Ave,2
+345,Biscayne Dr,2
+346,Blackstone St,2
+347,Blake Ct,2
+348,Blarney Ln,1
+349,Bliss St,2
+350,Bloomfield Ave,1
+351,Bloomfield St,1
+352,Blue Goose Ave,3
+353,Blue Jay Ln,2
+354,Blue Sky Dr,1
+355,Blue Spruce Ln,6
+356,Blue Star Hwy,157
+357,Blue Star/N I 196 RAMP,6
+358,Blue Star/S I 196 RAMP,5
+359,Blue Water Ln,1
+360,Blueberry Pine Ct,2
+361,Bluebird Ln,4
+362,Bluegill Dr,2
+363,Bluff Creek Dr,1
+364,Bluff St,3
+365,Boardwalk,6
+366,Bode'Wadmi Trl,2
+367,Bolks Pl,3
+368,Bond St,4
+369,Boot Lake Ridge,3
+370,Booth Pkwy,1
+371,Bordeaux St,1
+372,Bosek Ct,1
+373,Boulder Dr,7
+374,Box Canyon Cir,2
+375,Boysen Rd,8
+376,Braden Blvd,2
+377,Bradley Rd,4
+378,Brady St,2
+379,Braeden St,1
+380,Bramblewood Ct,2
+381,Bramblewood Dr,3
+382,Brandon Way,1
+383,Brandy Ln,1
+384,Breanna's Way,2
+385,Breezy Point Dr,1
+386,Breezy Ty Dr,1
+387,Brenda St,1
+388,Brenner Dr,1
+389,Brentwood Ct,3
+390,Brianne Dr,1
+391,Briarlane St,2
+392,Briarwood Ave,1
+393,Briarwood St,1
+394,Bridge Rd,16
+395,Bridge St,4
+396,Bridges Acres Ct,2
+397,Bridgeview Dr,1
+398,Briggs Ave,1
+399,Briggs Ct,1
+400,Briggs St,4
+401,Brigham St,6
+402,Brinn Vista Dr,1
+403,Brittany,3
+404,Broad St,5
+405,Bronson Ave,2
+406,Brook Point Dr,1
+407,Brook St,1
+408,Brook Village Ct,1
+409,Brook Village Dr,3
+410,Brookfield Dr,3
+411,Brookhill Dr,3
+412,Brooks Ave,1
+413,Brookside Dr,5
+414,Brookside/Dix Cutoff,1
+415,Brookstone St,2
+416,Browning Dr,5
+417,Brownstone St,1
+418,Bruce Ave,1
+419,Bryans Way,1
+420,Bryant Ave,2
+421,Buck Trail Ln,1
+422,Buckingham St,9
+423,Buena Vista Dr,3
+424,Burgess Bay Dr,1
+425,Burton Dr,2
+426,Bushon Trl,1
+427,Butler St,9
+428,Buttercup Ln,1
+429,Butternut Ave,1
+430,Butternut Ln,4
+431,Bysterveld County Park,2
+432,C Dr,1
+433,C St,1
+434,Cabill Dr,1
+435,Calgary Ln,4
+436,Calkins Ct,1
+437,Cambridge St,2
+438,Camellia Ct,2
+439,Camellia Ln,4
+440,Camelot Ct,1
+441,Cameron Ct,2
+442,Camille Rd,1
+443,Campbell Rd,4
+444,Candlelight Dr,3
+445,Cannonball Ln,2
+446,Canopy Ln,1
+447,Canter Dr,4
+448,Cardinal Dr,1
+449,Cardinal Points Dr,2
+450,Carl Ct,1
+451,Carl St,1
+452,Carlson Dr,1
+453,Carlton Ct,2
+454,Carousel Ln,1
+455,Carrie Ave,3
+456,Castle Ave,4
+457,Castle Ct,2
+458,Castle Ridge Dr,2
+459,Castleview Ct,1
+460,Casual Ln,1
+461,Catfish Dr,1
+462,Catherine Ct,1
+463,Catherine St,2
+464,Cattail Ct,2
+465,Cedar Square St,1
+466,Cedar St,11
+467,Cedar Walk,3
+468,Cemetery Rd,2
+469,Centennial Ct,3
+470,Centennial Oak Dr,1
+471,Center St,7
+472,Central Ave,16
+473,Centre Ln,3
+474,Century Dr,3
+475,Chalmers St,2
+476,Chappell St,6
+477,Charity Dr,3
+478,Charles St,10
+479,Charleston Ct,3
+480,Chase Farm,2
+481,Chatham Ave,1
+482,Chautauqua Ridge,2
+483,Cheetah Run,2
+484,Chelsea Ct,4
+485,Chelsea Ln,1
+486,Cherokee Cir,2
+487,Cherokee Trl,6
+488,Cherry Cir,1
+489,Cherry Dr,4
+490,Cherry Ln,5
+491,Cherry St,13
+492,Cherry Walk,1
+493,Cherryland Dr,4
+494,Cherrywood Dr,2
+495,Chestnut Ln,3
+496,Chestnut St,3
+497,Chicory Ct,2
+498,Chippewa Ave,2
+499,Chippewa Trl,3
+500,Christopher,3
+501,Church St,13
+502,Cider Hill,1
+503,Cider Hill Ln,1
+504,Cidermill Dr,1
+505,Cimarron Dr,1
+506,Circle Dr,2
+507,Circuit Ct,2
+508,Clan Alpine Dr,3
+509,Clara St,1
+510,Claremont Ct,1
+511,Clareridge Ct,2
+512,Clarewood Ct,4
+513,Clark St,3
+514,Clearbrook Ct,2
+515,Clearbrook Dr,8
+516,Clearbrook Green,1
+517,Clearview Ln,2
+518,Cleo Dr,1
+519,Closed Taft Rd,1
+520,Clover Trl,1
+521,Cloverfield Ct,1
+522,Clubhouse Ct,1
+523,Clyde Rd,1
+524,Clyde St,1
+525,Cobblestone Rd,4
+526,Colfax Ct,3
+527,Colfax St,3
+528,College Ave,6
+529,Colonial Ct,4
+530,Colonial Dr,2
+531,Columbia Ave,7
+532,Columbine Dr,1
+533,Colver St,1
+534,Commerce Dr,2
+535,Commerce St,2
+536,Comstock Ct,2
+537,Conference St,6
+538,Conklin Ln,1
+539,Conley Dr,3
+540,Cook St,1
+541,Cooke Farm Dr,3
+542,Coppice Ct,2
+543,Cora St,2
+544,Corey Ln,2
+545,Cornflower Dr,1
+546,Cortez Dr,4
+547,Cottage Ave,2
+548,Cottage Ln,2
+549,Cottage St,1
+550,Cottontail Ct,2
+551,Cottontail Run,2
+552,Cottonwood Ave,3
+553,Cottonwood Dr,2
+554,Country,1
+555,Country Club Blvd,2
+556,Country Ln,3
+557,Country Ridge Ct,2
+558,Countryair Dr,2
+559,Countryview Dr,2
+560,County Road 653,1
+561,Court St,6
+562,Courtney Ln,2
+563,Covault Ln,1
+564,Cove Ct,3
+565,Cove Dr,6
+566,Coyote Ln,1
+567,Coyote Point,2
+568,Cranberry Ct,1
+569,Crane St,1
+570,Cranville Ave,5
+571,Crawford St,1
+572,Creeekwood Ct,1
+573,Creekridge Dr,3
+574,Creekside Ct,3
+575,Creekside Dr,3
+576,Creekside Ln,4
+577,Creekview Ct,2
+578,Creekwood Dr,7
+579,Creekwood Ln,2
+580,Crescent Dr,2
+581,Crescent St,1
+582,Crescent Walk,6
+583,Crest St,2
+584,Creston Dr,3
+585,Crestridge Ct,2
+586,Crestview Dr,1
+587,Crestview St,3
+588,Crestwood Ave,2
+589,Critchfield Rd,1
+590,Cross Ln,1
+591,Cross Oaks Dr,2
+592,Cross Oaks Mall,2
+593,Crossroad Ln,1
+594,Crosswind Ln,1
+595,Crows Nest Ln,3
+596,Crystal Cove Dr,2
+597,Crystal Ln,1
+598,Culver St,3
+599,Cumberland Ave,3
+600,Cuper Ave,1
+601,Cuper Ct,2
+602,Curt St,2
+603,Curtis Blvd,1
+604,Cushman St,1
+605,Cutlass St,2
+606,Cutler St,5
+607,Cutting Industrial Dr,1
+608,Cygnet Dr,2
+609,Cypress St,1
+610,Daffodil Ave,2
+611,Daffodil Ln,1
+612,Dahlia St,7
+613,Daisy Ln,2
+614,Daisy St,1
+615,Dale Ct,1
+616,Dale Dr,3
+617,Dalton Ridge,2
+618,Damal Dr,5
+619,Dana Dr,2
+620,Danby Ct,1
+621,Daniel Dr,1
+622,Danielle Ln,2
+623,Danz's Dr,1
+624,Darling Ln,1
+625,Davis St,7
+626,Davoren St,1
+627,Day Ave,1
+628,Dead End Rd,1
+629,Deannie St,1
+630,Deeerfield Trl,1
+631,Deep Forest Way,3
+632,Deep Woods Bayou Dr,1
+633,Deer Fly Ln,1
+634,Deer Ln,2
+635,Deer Meadow Dr,1
+636,Deer Path Way,1
+637,Deer Point Dr,5
+638,Deer Run,1
+639,Deer Run Blvd,2
+640,Deer Run Cir,3
+641,Deer Run Ct,2
+642,Deer Trl,2
+643,Deer Valley Dr,1
+644,Deerfield Cir,2
+645,Deerfield Ct,5
+646,Deerfield Run,4
+647,Deerfield Trl,5
+648,Deerfield/Deerfield Cutoff,1
+649,Deerview Dr,1
+650,Deerview Ln,3
+651,Delano St,14
+652,Delete,46
+653,DELETE,5
+654,Della Ct,1
+655,Denali Dr,1
+656,Dennis St,5
+657,Depot Hill Ct,2
+658,Destin Ct,2
+659,Devon Dr,2
+660,Diamond Dr,3
+661,Dillingham Dr,2
+662,Dilly's Dr,1
+663,Discovery Dr,3
+664,Division St,29
+665,Dix St,13
+666,Dix Street Elemetary Access,1
+667,Dodges Run,1
+668,Dogwood Dr,1
+669,Dogwood Ln,1
+670,Dogwood Rd,2
+671,Dolphin St,1
+672,Donald Dr,1
+673,Dorothy Blvd,1
+674,Dorothy Dr,1
+675,Dorothy St,4
+676,Dorr Commerce Dr,1
+677,Dory Dr,2
+678,Doster Rd,21
+679,Double Eagle Rd,1
+680,Douglas Ave,1
+681,Douglas Cv,2
+682,Dover Dr,11
+683,Dover Industrial Dr,1
+684,Downing Ave,3
+685,Drake Ct,1
+686,Drew Ln,2
+687,Drive,2
+688,Ducharme Dr,1
+689,Duck Lake BAS,2
+690,Dugout Rd,2
+691,Dumont Lake BAS,2
+692,Dumont Lake County Park,1
+693,Dumont Lake Dr,1
+694,Dumont Lake Rd,6
+695,Dumont Rd,9
+696,Dune View Dr,1
+697,Dutch Acres Dr,5
+698,Dwight,1
+699,Dylan Dr,1
+700,Dylan Trl,2
+701,E 32nd St,25
+702,E 33rd St,3
+703,E 34th St,3
+704,E 35th St,4
+705,E 37th St,2
+706,E 38th St,2
+707,E 39th St,3
+708,E 40th St,16
+709,E 48th St,16
+710,E 64th Ave,1
+711,E 64th St,6
+712,E Allegan St,17
+713,E Apple Ln,2
+714,E Arrowhead Trl,3
+715,E Baseline Rd,3
+716,E Bridge St,17
+717,E Brighton St,3
+718,E Center St,4
+719,E Chart St,3
+720,E Cherry St,2
+721,E Chestnut St,2
+722,E Elm St,4
+723,E Fennville St,2
+724,E First Ave,1
+725,E First St,2
+726,E Franklin St,5
+727,E Fremont St,2
+728,E Fulton St,2
+729,E Grant St,3
+730,E Gun River Dr,2
+731,E Hammond St,7
+732,E Hill St,3
+733,E I 196,24
+734,E I 196/M 40 RAMP,3
+735,E Lake Dr,1
+736,E Lake Sixteen Dr,1
+737,E Lane Dr,2
+738,E Main St,10
+739,E Maple St,4
+740,E Morrell St,6
+741,E Orleans St,3
+742,E Plainwell St,3
+743,E Rabbit River Ct,2
+744,E Randolph St,2
+745,E River St,3
+746,E Ryan Woods Dr,1
+747,E Scenic Ln,1
+748,E South St,3
+749,E Summer Grove Dr,1
+750,E Sunfield Ln,1
+751,E Superior St,10
+752,E Sycamore St,1
+753,E Van Bruggen St,1
+754,E Village Dr,3
+755,E Wall St,2
+756,E Walter St,1
+757,E Wiley Rd,7
+758,E Wise St,2
+759,Eagle Crest,1
+760,Eagle Dr,2
+761,Eagle Greens Ct,4
+762,Eagle Lake Rd,2
+763,Eagle Point Dr,2
+764,Earl St,1
+765,East Ave,3
+766,East Baseline Lake Rd,5
+767,East Dr,1
+768,East Lake Dr,4
+769,East Ln,1
+770,East Shore Dr,3
+771,East St,1
+772,East Stoneridge Dr,2
+773,Eastern Ave,6
+774,Eastern Ave SE,1
+775,Easy Ct,2
+776,Eaton Dr,1
+777,Echo Dr,1
+778,Edgehill,1
+779,Edgewater,2
+780,Edgewater Ter,3
+781,Edgewood Dr,1
+782,Edmonton Trl,3
+783,Edsell St,1
+784,Edson Dr,2
+785,Edward Dr,1
+786,Edwards Ave,3
+787,Edwards St,1
+788,Edy St,1
+789,Electric Ave,4
+790,Electron Ct,1
+791,Eley St,5
+792,Elizabeth Ave,1
+793,Elizabeth St,13
+794,Ell Ct,2
+795,Ellis St,3
+796,Elm Dr,1
+797,Elm St,17
+798,Elm Tree Ln,1
+799,Elmwood Ave,1
+800,Elsie St,1
+801,Ely St,11
+802,Embo Dr,1
+803,Emerald Dr,1
+804,Emergency Access,1
+805,Emergency Beach Access,2
+806,Emma Ln,2
+807,Emmons Dr,1
+808,Enterprise Dr,1
+809,Euclid Ave,5
+810,Evergreen,1
+811,Evergreen Ct,1
+812,Evergreen Dr,1
+813,Evergreen Ln,1
+814,Excalibur Dr,1
+815,Fabun Rd,6
+816,Fair Haven Dr,2
+817,Fairlane Ct,3
+818,Fairlane Dr,1
+819,Fairlane Rd,1
+820,Fairlane St,1
+821,Fairview Ct,1
+822,Fairview Dr,2
+823,Fairview St,1
+824,Fairway Ct,3
+825,Fairway Dr,3
+826,Fairway Ln,2
+827,Falcon Dr,1
+828,Falconshire Ln,1
+829,Fallbrook Trl,2
+830,Fallen Leaf Trl,3
+831,Far Hill Trl,2
+832,Fareed Dr,1
+833,Farmer,1
+834,Farmer/Washington Cutoff,1
+835,Farmview Dr,2
+836,Farmview Ln,3
+837,Fawn Dr,1
+838,Fawn Ln,2
+839,Fawn Path,2
+840,Fawnbrooke Run,2
+841,Fawnsrest,1
+842,Fenwick Dr,2
+843,Fern St,1
+844,Fern Walk,2
+845,Ferndell Ave,5
+846,Fiddlers Way,4
+847,Field Stone Ct,2
+848,Fillmore Ln,2
+849,Fillmore Rd,4
+850,Fireside Dr,1
+851,Fireside Trl,1
+852,First Division St,1
+853,First St,4
+854,Flamingo Dr,1
+855,Flora Glynn Dr,1
+856,Floral Ave,2
+857,Floralwood Ln,1
+858,Florence St,5
+859,Florida Dr,1
+860,Folly Beach Rd,1
+861,Foote Trl,1
+862,Forbes St,1
+863,Forest Beach Dr,3
+864,Forest Cove Trl,1
+865,Forest Haven,2
+866,Forest Ln,3
+867,Forest Ridge Dr,2
+868,Forest Trail Cir,2
+869,Forest Trl,2
+870,Forest View Dr,1
+871,Forgotten Ct,1
+872,Former Bannister St,1
+873,Former Main St,1
+874,Former Mill District Rd,1
+875,Forrest Dr,2
+876,Foster Ln,1
+877,Fountain View Cir,3
+878,Four Oaks Dr,1
+879,Fourth St,3
+880,Fox Cir,2
+881,Fox Hill Ln,3
+882,Fox Mountain Dr,1
+883,Fox Ridge Ct,1
+884,Fox Run,1
+885,Fox Run Dr,2
+886,Fox Trl,5
+887,Foxmoor Dr,1
+888,Foxtrail Dr,1
+889,Foxwood Ln,2
+890,Francis St,6
+891,Frank Ct,2
+892,Frank St,4
+893,Frederick Ln,1
+894,Frederick St,1
+895,Friesian Ct,1
+896,Front St,2
+897,Frontier Ln,2
+898,Fulham Ct,1
+899,Fuller Dr,1
+900,Fursman Ln,1
+901,Future Stonebridge Trl,3
+902,Future Yamoto Way,1
+903,Gainder Rd,2
+904,Garandana Ct,1
+905,Garden Dr,1
+906,Garden Ln,2
+907,Garden St,4
+908,Garden Ter,2
+909,Garfield St,3
+910,Gaslight Ln,1
+911,Gates Corner,1
+912,Gatewat,1
+913,Gateway,10
+914,Gauri Ma Ln,1
+915,Gayhart St,1
+916,Gene Ct,1
+917,Gene Dr,2
+918,Gene St,5
+919,Geneva Dr,4
+920,Geneva Lake Dr,2
+921,Gerber,1
+922,Gerhardt Dr,1
+923,Geurink Blvd,1
+924,Gilkey St,3
+925,Gilpin St,1
+926,Ginny Dr,1
+927,Gladys St,3
+928,Glascow Grove,4
+929,Glasgow Ave,2
+930,Glasgow Ct,1
+931,Gleason Rd,2
+932,Glen Cree Rd,4
+933,Glendale Dr,1
+934,Glenn Oaks Dr,4
+935,Glenn Rest Area,2
+936,Glenn Rest Area RAMP,2
+937,Glenn St,2
+938,Glennview Dr,1
+939,Glennview Ln,1
+940,Glenview Cir,1
+941,Glenview Dr,3
+942,Gloucester Dr,1
+943,Golden Oaks Ln,1
+944,Golf Circle Ct,2
+945,Golf Mere Ave,6
+946,Golf View Dr,3
+947,Golfview Dr,7
+948,Goodell St,1
+949,Goodrich St,1
+950,Goodsell St,2
+951,Goodwin St,2
+952,Gordon Dr,1
+953,Goshorn Lake Ct,1
+954,Goshorn Way Dr,2
+955,Graafschap Rd,8
+956,Grand Ave,1
+957,Grand Ravine Dr,4
+958,Grand St,18
+959,Grand Tranverse Dr,1
+960,Grandview Ave,2
+961,Grandview Dr,2
+962,Grant Dr,3
+963,Grant St,12
+964,Grape Holw,2
+965,Gray Fox Ct,3
+966,Gray Fox Ln,1
+967,Gray St,1
+968,Graystone Rd,3
+969,Green Meadow Ct,4
+970,Green Meadow Dr,2
+971,Green Pointe Center,1
+972,Green Ridge Dr,5
+973,Green Ridge Trl,5
+974,Green St,1
+975,Green View Dr,5
+976,Greenfield Ln,6
+977,Greensview Ct,2
+978,Greggery Ln,1
+979,Gregor Dr,1
+980,Gregorville Rd,8
+981,Griffith St,6
+982,Griswold Ave,5
+983,Grooming Ln,1
+984,Grove Dr,2
+985,Grove Ln,2
+986,Grove St,6
+987,Gun River Ct,1
+988,H Dr,1
+989,Haas Dr,4
+990,Hackel Ct,2
+991,Hackel Dr,1
+992,Hacker Dr,1
+993,Hacklander BAS,2
+994,Halcyon Dr,1
+995,Halifax Pl,1
+996,Hambley Dr,1
+997,Hamilton St,6
+998,Hanlon St,1
+999,Hanson Ln,1
+1000,Happy Hollow,1
+1001,Happy Hour Ln,1
+1002,Harbor Ct,1
+1003,Harbor Rd,4
+1004,Harbors Lake Dr,2
+1005,Harborview Dr,4
+1006,Hardwood Dr,1
+1007,Hare Ln,1
+1008,Harley Ct,1
+1009,Harmony Ln,1
+1010,Harmony Rd,2
+1011,Harold Dr,2
+1012,Harris Dr,3
+1013,Harrison St,1
+1014,Harter Dr,1
+1015,Harvest Dr,3
+1016,Harvest Haven Dr,1
+1017,Harvest Ln,1
+1018,Harvestway Ct,3
+1019,Harvestway Dr,3
+1020,Hastings St,1
+1021,Hawksnest Dr,2
+1022,Haworth Center Dr,3
+1023,Hawthorn Ct,1
+1024,Hawthorn Dr,2
+1025,Hawthorne Ct,3
+1026,Hayes Dr,1
+1027,Hayes Rd,2
+1028,Hazelwood Dr,5
+1029,He Loses Dr,1
+1030,Heather,1
+1031,Heather Hill Ct,1
+1032,Heather Hills Ct,3
+1033,Heather Ln,1
+1034,Heathridge Trl,2
+1035,Hedcor St,2
+1036,Hedgestone Ct,3
+1037,Heirloom Ln,1
+1038,Helen Ave,5
+1039,Helenjoy St,1
+1040,Helens Dr,2
+1041,Helmer St,1
+1042,Hemlock,1
+1043,Hemlock Ave,4
+1044,Hemlock Dr,1
+1045,Henry Ln,1
+1046,Herbert St,1
+1047,Heritage Dr,1
+1048,Heritage Ln,2
+1049,Heritage Meadow Ct,1
+1050,Heritage Meadow Dr,7
+1051,Heritage South,1
+1052,Herkimer St,4
+1053,Herlan Lake Dr,2
+1054,Heron Bay Dr,2
+1055,Heron Creek Trl,1
+1056,Heron Ct,1
+1057,Heron Ridge Rd,2
+1058,Hestia Dr,1
+1059,Hi Lo Ln,2
+1060,Hickory Ave,1
+1061,Hickory Ct,1
+1062,Hickory Dr,7
+1063,Hickory Ln,1
+1064,Hickory St,2
+1065,Hickory View Ct,2
+1066,Hicks Ave,6
+1067,Hidden Creek Dr,3
+1068,Hidden Dunes Dr,1
+1069,Hidden Forest Ct,1
+1070,Hidden Forest Dr,3
+1071,Hidden Hollow Ln,2
+1072,Hidden Lake Dr,1
+1073,Hidden Lane Dr,1
+1074,Hidden Meadow,1
+1075,Hidden Meadows,1
+1076,Hidden Ponds Dr,6
+1077,Hidden River Dr,1
+1078,Hide-A-Way,1
+1079,Hide Away Ln,1
+1080,High Shores Ln,2
+1081,Highbanks Dr,3
+1082,Highfield Beach Dr,3
+1083,Highland Ave,11
+1084,Highland Ct,2
+1085,Highland St,1
+1086,Highpointe Ct,2
+1087,Highpointe Dr,3
+1088,Hilda Ave,1
+1089,Hill Lake Ave,1
+1090,Hill Rd,3
+1091,Hill St,1
+1092,Hillcrest Dr,5
+1093,Hillcrest Rd,5
+1094,Hillside Cir,2
+1095,Hillside Dr,1
+1096,Hillside Trl,2
+1097,Hilltop Ct,1
+1098,Hilltop Dr,9
+1099,Hilltop View Dr,3
+1100,Hobbs Dr,1
+1101,Hoffman St,7
+1102,Hoffmaster St,3
+1103,Hogback Rd,2
+1104,Holiday Dr,2
+1105,Holiday Ln,1
+1106,Holland St,12
+1107,Hollow Ln,1
+1108,Holly Creek Dr,4
+1109,Holly Ct,2
+1110,Holly Field Ct,1
+1111,Home,3
+1112,Homer Dr,4
+1113,Homestead Ct,2
+1114,Homestead Dr,5
+1115,Hooker Rd,8
+1116,Hooter Ln,1
+1117,Hopkins Elementary School Access,2
+1118,Hopkins High School Access,1
+1119,Horseshoe Ct,6
+1120,Horseshoe Cv,2
+1121,Horseshoe Ln,2
+1122,Howard St,8
+1123,Hubbard,4
+1124,Hubbard St,6
+1125,Huber St,1
+1126,Hudson St,2
+1127,Hughes Pl,1
+1128,Hummingbird Ln,1
+1129,Hunters Creek,1
+1130,Hunters Glen Blvd,6
+1131,Hunters Ridge,2
+1132,Hunters St,3
+1133,Hunters Trl,1
+1134,Huntington Dr,1
+1135,Huron Cir,3
+1136,Huron Trl,1
+1137,Hutchins Lake Dr,2
+1138,Hyder Circle Dr,3
+1139,Hynes St,2
+1140,I 196 Crossover,20
+1141,Ida St,2
+1142,Idaho Dr,1
+1143,Illinois Ave,1
+1144,Imperial Point Dr,1
+1145,Indian Acres MHP,6
+1146,Indian Ave,2
+1147,Indian Lake Ct,2
+1148,Indian Pipe Cir,3
+1149,Indian Point Rd,3
+1150,Indian Trl,2
+1151,Indiana Ave,2
+1152,Indianapolis Ave,1
+1153,Industrial Ave,5
+1154,Industrial Dr,3
+1155,Industrial Park Dr,2
+1156,Industrial Pkwy,2
+1157,Ingle Rd,2
+1158,Interchange Dr,8
+1159,Interlaken Dr,1
+1160,Irene Dr,1
+1161,Iron Works Dr,1
+1162,Ironwood Dr,1
+1163,Iroquois Cir,2
+1164,Iroquois trl,1
+1165,Iroquois Trl,22
+1166,Iroquois/Cove Cutoff,1
+1167,Iroquois/Ottawa Cutoff,1
+1168,Irving Ave,1
+1169,Irving St,4
+1170,Island Ave,1
+1171,Island Lake Rd,3
+1172,Island View Cir,1
+1173,Island View Ct,1
+1174,Island View Trl,3
+1175,J Dr,2
+1176,Jack Pine Ct,1
+1177,Jack Pine Dr,2
+1178,Jack Rabbit Ct,3
+1179,Jack Wilson Rd,1
+1180,Jackson St,1
+1181,Jakes Aly,1
+1182,James Ave,2
+1183,James Ct,1
+1184,James Dr,2
+1185,James St,7
+1186,Jane St,1
+1187,Janet Dr,5
+1188,Janice St,2
+1189,Jansen Woods Ct,1
+1190,Jasmine Dr,2
+1191,Jaycee Park Dr,1
+1192,Jeff's Way,1
+1193,Jefferson Ct,1
+1194,Jefferson Rd,13
+1195,Jefferson St,4
+1196,Jeffrey Dr,1
+1197,Jeffrey Spur,4
+1198,Jenner Dr,5
+1199,Jennifer Ln,3
+1200,Jennings Ct,1
+1201,Jenny St,1
+1202,Jersey St,5
+1203,Jewell St,1
+1204,Joan Ct,3
+1205,Joan Dr,3
+1206,Joels Trl,1
+1207,John St,1
+1208,Johnson Rd,1
+1209,Jolly Roger Dr,1
+1210,Joseph St,1
+1211,Josie Dr,2
+1212,Joyce St,1
+1213,Julia St,5
+1214,June Ave,4
+1215,June Ct,2
+1216,Jupiter St,1
+1217,Justin Ct,2
+1218,Justin Rd,1
+1219,Justin St,1
+1220,Kalamazoo Dr,16
+1221,Kalamazoo St,8
+1222,Kalamazoo/South Shore Cutoff,2
+1223,Kandel St,3
+1224,Karen Dr,3
+1225,Katherine St,5
+1226,Katheryne Ln,1
+1227,Kathy Dr,1
+1228,Kay Dr,2
+1229,Kay Ln,1
+1230,Kay St,6
+1231,Kaywood Dr,1
+1232,Keewatin Ct,1
+1233,Keewatin Way,1
+1234,Keith St,3
+1235,Kellamie St,3
+1236,Kelly Creek Dr,2
+1237,Kemp St,1
+1238,Ken J Dr,1
+1239,Kenneth Dr,1
+1240,Kenneth St,1
+1241,Kenny's Dr,1
+1242,Kensington Park Cir,4
+1243,Kenwood St,2
+1244,Keppel Ln,2
+1245,Kester Ave,1
+1246,Keystone Rd,3
+1247,Kiella Dr,1
+1248,Kiess Pl,1
+1249,Kim St,2
+1250,Kimbel Dr,1
+1251,Kimber St,5
+1252,Kimberly Dr,1
+1253,Kimberly Ln,1
+1254,King Dr,2
+1255,Kingfisher Cove Dr,1
+1256,Kings Way,2
+1257,Kingsway Ct,2
+1258,Kinney Ln,2
+1259,Kirkview Dr,2
+1260,Kirkwell St,1
+1261,Kittyhawk Ln,1
+1262,Klingenmeyer Dr,1
+1263,Knapp St,4
+1264,Knight Ave,1
+1265,Knowlcrest Dr,1
+1266,Kooiker Dr,1
+1267,Koops Dr,1
+1268,Kooyers Ct,1
+1269,Koteras Dr,2
+1270,Kottler Dr,1
+1271,Kricky Ln,1
+1272,Kruz Kountry Dr,1
+1273,Kuperus Ct,2
+1274,Kupres Creek Dr,1
+1275,Kyle Ln,1
+1276,La Rochelle Ct,2
+1277,La Salle St,1
+1278,Labrador Ln,1
+1279,Ladd St,1
+1280,Lady Bug Ln,1
+1281,Lafayette St,1
+1282,Lagoon Pkwy,2
+1283,Lake Allegan Dr,2
+1284,Lake Ave,2
+1285,Lake Breeze Dr,2
+1286,Lake Dr,15
+1287,Lake Effect Dr,2
+1288,Lake Forest Ave,2
+1289,Lake Forest Dr,3
+1290,Lake Forest Rd,1
+1291,Lake Michigan Dr,8
+1292,Lake Ridge Ln,3
+1293,Lake Ridge Rd,1
+1294,Lake Shore Dr,7
+1295,Lake Sixteen Dr,1
+1296,Lake St,17
+1297,Lake Trail Dr,1
+1298,Lake View Dr,1
+1299,Lake Woods Dr,1
+1300,Lakeland Dr,1
+1301,Lakeshore Ct,1
+1302,Lakeshore Dr,49
+1303,Lakeside Ave,2
+1304,Lakeside Dr,3
+1305,Laketown Dr,3
+1306,Lakeview Ave,7
+1307,Lakeview Ct,2
+1308,Lakeview Dr,5
+1309,Lakeview Ln,1
+1310,Lakeview St,1
+1311,Lakeview Terr,2
+1312,Lakewood Dr,1
+1313,Lakewood Ln,1
+1314,Lakewood Shores Dr,2
+1315,Lamar Ct,2
+1316,Landsburg Rd,2
+1317,Lane St,1
+1318,Lantern Watch,3
+1319,Larry Blvd,1
+1320,Larry Dr,1
+1321,LaRue Ln,3
+1322,Lauder Ave,1
+1323,Laura Ln,2
+1324,Laura St,2
+1325,Lauren St,1
+1326,Laurence Ave,2
+1327,Lawn St,2
+1328,Lawrence Ave,2
+1329,Lawrence Dr,9
+1330,Lawrence Ln,1
+1331,Le Boeuf Ln,1
+1332,Le Vine St,1
+1333,Leafy Ln,1
+1334,Leap Frog Ln,1
+1335,Lebarre St,1
+1336,Lee St,4
+1337,Leeds St,1
+1338,Legacy Woods Dr,1
+1339,Leighton Lakes Dr,2
+1340,Leisure Ct,4
+1341,Leisure Dr,3
+1342,Leisure St,4
+1343,Leo's Ln,2
+1344,Leon Ave,2
+1345,Lesa St,2
+1346,Lester Lake Dr,1
+1347,Leverich Ln,2
+1348,Lewis Ln,1
+1349,Liberty Ct,1
+1350,Liberty St,3
+1351,Lighthouse Ct,2
+1352,Lighthouse Way,3
+1353,Lilac Ln,6
+1354,Lilac St,3
+1355,Liland Trce,1
+1356,Lillie Dr,2
+1357,Lilly Ct,2
+1358,Lily Ln,1
+1359,Lilypad Ln,1
+1360,Limberlost Ln,2
+1361,Lincoln Ave,28
+1362,Lincoln Pkwy,3
+1363,Lincoln Rd,104
+1364,Lincoln St,11
+1365,Lincolnshire Dr,4
+1366,Linda St,1
+1367,Linn St,6
+1368,Lisa,1
+1369,Lisa Ln,2
+1370,Litchfield Dr,5
+1371,Litchfield Pl,2
+1372,Little Diamond St,1
+1373,Little Sable Dr,3
+1374,LittleJohn Lake Rd,1
+1375,Liverpool,1
+1376,Livvie Ln,1
+1377,Locust Grove Ave,1
+1378,Locust St,5
+1379,Loew Hills Dr,1
+1380,Loew Rd,1
+1381,Logan Ct,2
+1382,Lohman Dr,2
+1383,Lois Ln,1
+1384,London St,1
+1385,Lone Oak Ct,2
+1386,Lone Oak Dr,2
+1387,Lone Oak Ln,1
+1388,Lone Oak Path,1
+1389,Lone Pine Trl,1
+1390,Long Rd,1
+1391,Longfellow Dr,4
+1392,Longview Ct,2
+1393,Lorene St,1
+1394,Lorna Ln,1
+1395,Lorraine Dr,4
+1396,Lorrimar Ln,1
+1397,Lou St,1
+1398,Lovers Ln,2
+1399,Lowe St,3
+1400,Luciel St,2
+1401,Lucielle Dr,1
+1402,Lucy St,2
+1403,Lugers Rd,6
+1404,Lynn St,1
+1405,M-40/E I-196 RAMP,1
+1406,M 40,41
+1407,M 40/E I 196 RAMP,2
+1408,M 40/W I 196 RAMP,3
+1409,M 89,29
+1410,M 89/S US 131 RAMP,1
+1411,M Brown St,2
+1412,M Dr,1
+1413,Maas Ln,2
+1414,Mac St,1
+1415,MacAlpine Ter,3
+1416,MacBeth Ave,2
+1417,Macdougall Dr,3
+1418,MacDougall Dr,2
+1419,Mackenzie Dr,1
+1420,Main,8
+1421,Main St,7
+1422,Maize Ln,1
+1423,Maksaba Trl,5
+1424,Mallard,1
+1425,Mallard Dr,2
+1426,Mallard St,1
+1427,Manchester Ct,1
+1428,Manchester Ln,2
+1429,Manchester St,2
+1430,Mandan Cir,2
+1431,Mandan Trl,1
+1432,Manitoba Trl,3
+1433,Mankin St,2
+1434,Manlius Rd,2
+1435,Manncreek Dr,4
+1436,Manor Ln,2
+1437,Maple Ave,8
+1438,Maple Gate Dr,2
+1439,Maple Greens Ln,1
+1440,Maple Lake Dr,2
+1441,Maple Lane Ave,1
+1442,Maple Leaf Ln,2
+1443,Maple Ln,11
+1444,Maple St,16
+1445,Maple Woods Dr,1
+1446,Maraleighde Dr,1
+1447,Marcia Ln,2
+1448,Margaret Dr,5
+1449,Mariette St,1
+1450,Mariners Cove Ct,1
+1451,Marion Ave,1
+1452,Markus Glen Rd,2
+1453,Marlo Ln,1
+1454,Marsh Rd,11
+1455,Marshall Ln,2
+1456,Marshall St,16
+1457,Martha Ct,1
+1458,Martin St,4
+1459,Marty Dr,2
+1460,Marvin Ave,1
+1461,Mary Knoll Dr,1
+1462,Mary Lynn Ln,1
+1463,Mary Rd,3
+1464,Mary Rd Eagle Lake Access,1
+1465,Mary St,15
+1466,Mason St,11
+1467,Masters Ln,3
+1468,Matehuala Ave,1
+1469,Matt Urban Dr,1
+1470,Maxwell St,1
+1471,May Ave,6
+1472,Maywood Dr,1
+1473,Mazzie Ln,1
+1474,McCreery Dr,1
+1475,McKinley St,2
+1476,McMulan Way,1
+1477,McVea Dr,2
+1478,Meade Rd,2
+1479,Meadow Ave,1
+1480,Meadow Creek Dr,1
+1481,Meadow Creek Ln,2
+1482,Meadow Ct,2
+1483,Meadow Dr,2
+1484,Meadow Ln,8
+1485,Meadow Pond Way,1
+1486,Meadow Wood Ln,2
+1487,Meadowbrook Dr,3
+1488,Meadowlark Ln,2
+1489,Medie St,2
+1490,Medlock St,1
+1491,Megan Ln,1
+1492,Melanie Ln,1
+1493,Melodee Park Dr,1
+1494,Melody Ln,2
+1495,Melrose St,1
+1496,Melville Pl,1
+1497,Melvin Dr,2
+1498,Mercury Ct,2
+1499,Merson St,1
+1500,Mesa Ct,2
+1501,Metcalf's Dr,3
+1502,Mexico Ln,1
+1503,Meyer Dr,3
+1504,Mia St,1
+1505,Miami Ave,3
+1506,Michele Ln,1
+1507,Michigan Ave,4
+1508,Michigan Dr,2
+1509,Middle St,2
+1510,Midlakes Blvd,4
+1511,Midway Dr,4
+1512,Mildred Ave,1
+1513,Mill District Rd,3
+1514,Mill St,5
+1515,Millbridge Ave,2
+1516,Miller Dr,3
+1517,Miller Rd,16
+1518,Millers Ln,1
+1519,Millstone Dr,4
+1520,Miner Lake BAS,1
+1521,Miner Lake Dr,1
+1522,Miner Lake Rd,1
+1523,Miner Ln,2
+1524,Minkler Lake Dr,2
+1525,Minkler Rd,2
+1526,Mishawaka Walk,1
+1527,Mitchell Ct,3
+1528,Mitchell Dr,1
+1529,Mitchell St,2
+1530,Mixer St,3
+1531,Mohawk Cir,1
+1532,Mohawk Ct,2
+1533,Mohawk Trl,8
+1534,Mollie Ln,1
+1535,Monroe Ct,1
+1536,Monroe Ln,1
+1537,Monroe Rd,25
+1538,Monroe St,5
+1539,Monterey Bay Cir,2
+1540,Monterey Lake,1
+1541,Monterey Lake Cir,2
+1542,Monterey Lake Dr,2
+1543,Monterey Lake Trl,7
+1544,Montrose Ave,3
+1545,Moon Dr,1
+1546,Moore Dr,3
+1547,Moore Rd,5
+1548,Moore St,1
+1549,Morning Dew Ln,1
+1550,Morrell St,4
+1551,Morren Ct,4
+1552,Morren Ln,1
+1553,Morrison Rd,1
+1554,Morter Rd,1
+1555,Mosley Dr,1
+1556,Mossy Oak Dr,1
+1557,Mountain Ash Ln,1
+1558,Mozart Ct,1
+1559,Mulberry Ln,1
+1560,Mulder Dr,1
+1561,Mulderink Ln,2
+1562,Muriel St,5
+1563,Murphy Ln,3
+1564,My Rd,1
+1565,Myrtle Ave,2
+1566,Myrtle St,1
+1567,N 19th St,5
+1568,N 4th Ave,1
+1569,N Anderson St,5
+1570,N Apple Ct,2
+1571,N Apple Ln,2
+1572,N Arrowhead Trl,1
+1573,N Audubon Rd,4
+1574,N Baseline Lake Rd,1
+1575,N Big Lake Dr,2
+1576,N Blue Star Hwy,9
+1577,N Cedar St,5
+1578,N Cherry Ave,1
+1579,N Clark St,1
+1580,N Eastern Ave,4
+1581,N Fair St,1
+1582,N Farmer St,8
+1583,N Ferry St,4
+1584,N Forrest St,5
+1585,N Franklin St,2
+1586,N Grant St,3
+1587,N Gun River Dr,3
+1588,N I 196,66
+1589,N I 196/109th RAMP,1
+1590,N I 196/124th RAMP,1
+1591,N I 196/Blue Star RAMP,5
+1592,N I 196/North Shore RAMP,1
+1593,N I 196/S Blue Star RAMP,1
+1594,N Lake Geneva Dr,1
+1595,N Lake St,1
+1596,N Laraway Ave,1
+1597,N Locust St,2
+1598,N Main St,41
+1599,N Maple St,20
+1600,N Morning Glory Ln,1
+1601,N North St,4
+1602,N Peach Ct,2
+1603,N Platt St,1
+1604,N Pratt Lake Rd,1
+1605,N Riverwalk Dr,2
+1606,N Ryan Ridge Dr,1
+1607,N Ryan Woods Cir,2
+1608,N Selby St,4
+1609,N Sherman St,6
+1610,N Sherwood Ave,6
+1611,N Spring St,3
+1612,N Sunset St,2
+1613,N Union St,5
+1614,N US 131,74
+1615,N US 131/116th RAMP,1
+1616,N US 131/124th RAMP,1
+1617,N US 131/129th RAMP,1
+1618,N US 131/135th RAMP,1
+1619,N US 131/142nd RAMP,1
+1620,N US 131/E Allegan RAMP,1
+1621,N US 131/E M 89 RAMP,1
+1622,N US 131/W Allegan RAMP,1
+1623,N US 31,18
+1624,N US 31 BR RAMP,1
+1625,N US 31/Washington RAMP,1
+1626,N Van Bruggen St,1
+1627,N Walnut St,1
+1628,N Washington St,6
+1629,N Water St,3
+1630,N Wilmott St,2
+1631,N Woodhams St,1
+1632,Nadeau Dr,2
+1633,Nahant Path,1
+1634,Naman Ct,2
+1635,Nantucket Dr,4
+1636,Naomi St,4
+1637,Nate Dr,1
+1638,Nate St,1
+1639,Natilyn Dr,2
+1640,Nature View Dr,2
+1641,Nature View Ln,2
+1642,Nellie Dr,3
+1643,Nelson Ct,2
+1644,Nelson Ln,1
+1645,New Richmond BAS,4
+1646,New Richmond Bridge,5
+1647,Newell St,2
+1648,Newman Dr,1
+1649,Newnham St,1
+1650,Newport Dr,2
+1651,Nicholas Dr,1
+1652,Nichols Ln,1
+1653,Nicholson St,2
+1654,Nicole Ct,1
+1655,Nicolson St,7
+1656,Nodding Pine Cir,2
+1657,Nodding Pine Way,2
+1658,Nolan Rd,1
+1659,Nop Ln,2
+1660,Norcrest Pl,2
+1661,Normandy,1
+1662,North Ave,3
+1663,North Lake BAS,1
+1664,North Lake Dr,7
+1665,North Lake Ln,1
+1666,North Memorial Dr,2
+1667,North Miller Lake Rd,2
+1668,North Point Dr,2
+1669,North Shore Dr,25
+1670,North Shore/N I 196 RAMP,1
+1671,North Shore/S I 196 RAMP,3
+1672,North Spur Ct,2
+1673,North St,12
+1674,North Stoneridge Dr,3
+1675,North Vista Ln,2
+1676,Northgate Dr,1
+1677,Northview Ln,3
+1678,Northwest Shore Dr,1
+1679,Nottingham St,2
+1680,Novi Pl,1
+1681,Nuthatch Ct,2
+1682,O'Sullivan Dr,1
+1683,O D Ln,1
+1684,Oak Creek Dr,1
+1685,Oak Ct,3
+1686,Oak Dr,2
+1687,Oak Hills Dr,2
+1688,Oak Hollow Ct,2
+1689,Oak Leaf Ln,1
+1690,Oak Rd,2
+1691,Oak Ridge Cir,3
+1692,Oak Ridge Dr,3
+1693,Oak St,13
+1694,Oak Tree Ln,1
+1695,Oak Valley Dr,1
+1696,Oakdale Dr,2
+1697,Oakhurst St,2
+1698,Oakland Hills Ct,2
+1699,Oakland Hills Dr,5
+1700,Oakley St,2
+1701,Oakridge Dr,3
+1702,Oaks Crossing,2
+1703,Oakwood Ct,2
+1704,Oakwood Ln,1
+1705,Oakwood Trl,1
+1706,Obliterated 68th/114th Cutoff,1
+1707,Obliterated Blue Star Hwy,1
+1708,Odawa Trl,1
+1709,Ojibwa Trl,3
+1710,Okemos Ln,1
+1711,Old 129th Ave,1
+1712,Old Allegan Otsego Rd,1
+1713,Old Allegan Rd,48
+1714,Old Garden Rd,1
+1715,Old Interurban Dr,1
+1716,Old M 40,1
+1717,Old Mill Dr,2
+1718,Old Owl Dr,6
+1719,Old Pine Rd,2
+1720,Old Silo Dr,2
+1721,Old Singapore Trl,2
+1722,Old Walnut Ln,1
+1723,Olive Ave,1
+1724,Oneida Cir,2
+1725,Oneida Ct,2
+1726,Oneida Trl,4
+1727,Orchard Ave,4
+1728,Orchard Lake Dr,12
+1729,Orchard Ln,3
+1730,Orchard Rd,2
+1731,Orchard St,1
+1732,Orchard Trl,1
+1733,Orchard Valley Dr,1
+1734,Orchard View Dr,1
+1735,Oriole Dr,2
+1736,Oriole St,2
+1737,Otis Ave,3
+1738,Otis Blvd,1
+1739,Otis Rd,5
+1740,Otis Trl,1
+1741,Ototeman Trl,2
+1742,Ottawa Ave,8
+1743,Ottawa Cir,3
+1744,Ottawa Ct,3
+1745,Ottawa Trl,8
+1746,Ottogan St,43
+1747,Otuna Ct,4
+1748,Otuna Dr,1
+1749,Outlook Dr,2
+1750,Oval Dr,3
+1751,Overlook Dr,6
+1752,Owen St,1
+1753,Oxford St,4
+1754,Pacific Ave,3
+1755,Padgham Dr,1
+1756,Palmer Dr,7
+1757,Palmetto Ct,2
+1758,Papoose Trl,1
+1759,Par Four Ct,2
+1760,Paradise Ln,3
+1761,Paris Ridge Dr,1
+1762,Pariso Oved Ave,2
+1763,Park,4
+1764,Park Ave,6
+1765,Park Dr,9
+1766,Park Drive Ct,1
+1767,Park Ln,3
+1768,Park St,28
+1769,Parker Dr,1
+1770,Parkside Ln,2
+1771,Parkway Ave,3
+1772,Parkway Dr,2
+1773,Partridge Ln,2
+1774,Pasture Ln,1
+1775,Patterson Rd,75
+1776,Patti Rd,2
+1777,Paul St,1
+1778,Paula St,1
+1779,Pauline Dr,2
+1780,Payton Pl,1
+1781,Peach Ave,2
+1782,Peach Creek Ct,1
+1783,Peach Creek Ln,4
+1784,Peach Ct,2
+1785,Peach Ln,2
+1786,Peach St,3
+1787,Pear Pl,1
+1788,Pearl St,5
+1789,Penashi Trl,1
+1790,Peninsula Trl,1
+1791,Penn Central St,1
+1792,Penn Crossing,1
+1793,Penny Ln,2
+1794,Peony Ave,5
+1795,Pepper Brooke Ln,2
+1796,Pepper Ln,1
+1797,Perales Dr,1
+1798,Perch Dr,3
+1799,Perry Cir,1
+1800,Perryman St,5
+1801,Pershing Ave,3
+1802,Peterson Dr,4
+1803,Petoskey Dr,2
+1804,Petunia Ave,3
+1805,Phase 6 Entrance,1
+1806,Pheasant Run Dr,2
+1807,Phoenix Ct,2
+1808,Pickeral Dr,1
+1809,Pickwick Ln,1
+1810,Pier Cove Ln,1
+1811,Pierce Rd,1
+1812,Pike Ct,1
+1813,Pike Lake BAS,1
+1814,Pike Lake Rd,2
+1815,Pine Ave,9
+1816,Pine Cone Cir N,2
+1817,Pine Cone Cir S,2
+1818,Pine Cone Trl,3
+1819,Pine Creek BAS,1
+1820,Pine Creek Dr,1
+1821,Pine Dr,5
+1822,Pine Hill Dr,1
+1823,Pine Hollow Rd,2
+1824,Pine Island Dr,1
+1825,Pine Place Ct,2
+1826,Pine Rd,3
+1827,Pine Ridge Dr,5
+1828,Pine River Dr,1
+1829,Pine St,13
+1830,Pine Trail Ln,2
+1831,Pine Tree Dr,1
+1832,Pine Tree Ln,3
+1833,Pine Tree St,3
+1834,Pinecrest Dr,1
+1835,Pinegrove Dr,2
+1836,Pineview Dr,2
+1837,Pinewood Ln,2
+1838,Pinnacle Ct,2
+1839,Pinnacle Dr,2
+1840,Pioneer Ave,5
+1841,Pipp Hospital Access,2
+1842,Pleasant Rd,1
+1843,Pleasant Ridge Dr,2
+1844,Pleasant St,2
+1845,Pleasantview Ave,2
+1846,Pleasantview Dr,1
+1847,Pleasantview Ln,2
+1848,Plum Holw,2
+1849,Plum Ln,1
+1850,Plum St,4
+1851,Plummer Park Pl,1
+1852,Plummerville Ln,2
+1853,Plymouth Ave,2
+1854,Point-of-View Dr,3
+1855,Point Betsie Dr,6
+1856,Ponderosa Ct,2
+1857,Ponderosa Dr,5
+1858,Pontiac Cir,3
+1859,Pontiac Ct,3
+1860,Pony Ln,1
+1861,Poplar Ridge Dr,2
+1862,Pottawatomie Ridge Dr,3
+1863,Pottawatomie Trl,1
+1864,Potwyne Pl,1
+1865,Prairie Ct,2
+1866,Prairie St,2
+1867,Prairiewood Ct,2
+1868,Prairiewood Dr,3
+1869,Presbyterian Camps,1
+1870,Preservation Ct,2
+1871,Preservation Dr,3
+1872,Prestwick Dr,3
+1873,Primrose Pl,1
+1874,Prince St,5
+1875,Pritchard Ct,1
+1876,Productions Ct,2
+1877,Productions Pl,3
+1878,Proline Ct,2
+1879,Proposed Singapore Dunes Dr,4
+1880,Proposed Singapore Dunes Way,3
+1881,Prospect Rd,1
+1882,Prospect St,2
+1883,Pullin Dr,1
+1884,Pullman Ave,5
+1885,Pulver Dr,1
+1886,Quade Dr,1
+1887,Quail Run Dr,1
+1888,Quebec Trl,4
+1889,Queensway St,1
+1890,Quiet Cove,1
+1891,Quilters Ct,1
+1892,Rabbit Ridge Dr,1
+1893,Rabbit River Dr,6
+1894,Rabbit River Farms Dr,1
+1895,Rabbit River Ln,1
+1896,Rabbit River Run,5
+1897,Race Ct,1
+1898,Race St,2
+1899,Radstock Dr,5
+1900,Railroad St,4
+1901,Railside Ct,2
+1902,Railside Dr,5
+1903,Railside Ln,2
+1904,Ramblewood Ct,1
+1905,Ranchero Dr,6
+1906,Randall Ln,1
+1907,Ratcliff Dr,1
+1908,Ravenswood Ave,2
+1909,Ravine Ct,1
+1910,Ravine Dr,6
+1911,Ravine Rd,7
+1912,Ravine Trl,1
+1913,Ravines Ct,1
+1914,Ravinna Ave,1
+1915,Raylynn Ln,1
+1916,Raymond Blvd,3
+1917,Raynes Dr,2
+1918,Recreation Dr,2
+1919,Red Fox Ct,2
+1920,Red Fox Ln,1
+1921,Red Oak Dr,2
+1922,Red Pine Dr,1
+1923,Red Pine Rd,2
+1924,Red Run Dr,2
+1925,Redman Pkwy,1
+1926,Redwood Ln,1
+1927,Regent Blvd,5
+1928,Regent St,2
+1929,Regina Trl,3
+1930,Reimink St,1
+1931,Remington Ct,4
+1932,Reno Dr,6
+1933,Reserve Way,2
+1934,Retreat Rd,1
+1935,Revs Rd,1
+1936,Reynolds St,2
+1937,Rhonda Dr,3
+1938,Rice Dr,1
+1939,Richards Dr,1
+1940,Richardson Dr,3
+1941,Richelieu St,5
+1942,Richland Ct,2
+1943,Ridge Ave,3
+1944,Ridge Ct,1
+1945,Ridge Rd,1
+1946,Ridge St,1
+1947,Ridgeview Ct,2
+1948,Ridgeview Ln,2
+1949,Ridgeway St,2
+1950,Ridgewood Dr,1
+1951,River Ct,3
+1952,River Lane Rd,2
+1953,River Ledge Dr,2
+1954,River Ln,1
+1955,River Rd,7
+1956,River Ridge Ct,6
+1957,River Ridge Dr,7
+1958,River St,16
+1959,Riverbend Dr,4
+1960,Riverbend Trl,1
+1961,Riverbluff Ct,2
+1962,Riverbluff Trl,5
+1963,Riverfront Plz,1
+1964,Rivers Edge,2
+1965,Riverside Dr,7
+1966,Riverside Rd,15
+1967,Riverview Dr,14
+1968,Riverview Park Dr,2
+1969,Riverwalk Dr,1
+1970,Roberts St,2
+1971,Robin St,1
+1972,Robinson St,4
+1973,Rockwood Ave,3
+1974,Roger Dr,1
+1975,Rolling Hills Dr,2
+1976,Rolling Meadows Dr,2
+1977,Rolling Oaks Ct,2
+1978,Rolling Oaks Ln,1
+1979,Rolling Ridge Dr,2
+1980,Rolling Way,3
+1981,Rollingview Dr,2
+1982,Ronalds Rd,7
+1983,Rookus Dr,3
+1984,Rosco Dr,1
+1985,Rose Bud Ln,1
+1986,Rose Dr,3
+1987,Rose Ln,1
+1988,Rose St,1
+1989,Rosewood Ave,7
+1990,Round Lake Cir,1
+1991,Round Lake Ct,3
+1992,Round Lake Dr,7
+1993,Royce Ave,1
+1994,Ruby Ln,2
+1995,Ruby St,7
+1996,Rupprecht Way,3
+1997,Rushing Dr,3
+1998,Russcher Rd,5
+1999,Russell Ct,2
+2000,Russell St,4
+2001,Russet Dr,2
+2002,Russon Rd,1
+2003,Rustic Ln,1
+2004,Rustic Rd,1
+2005,Rustic Ridge Rd,1
+2006,Ryan Ridge Ct,2
+2007,Ryan St,1
+2008,Ryan Woods Ct,3
+2009,Ryan Woods Dr,1
+2010,Ryder Rd,1
+2011,Rymore Wood,2
+2012,S Acorn St,1
+2013,S Anderson St,7
+2014,S Apple Ct,2
+2015,S Arrowhead Trl,1
+2016,S Audubon St,6
+2017,S Blue Star Hwy,9
+2018,S Cedar St,3
+2019,S Cherry Ave,6
+2020,S Clark St,5
+2021,S Division Ave,1
+2022,S Fair St,6
+2023,S Farmer St,8
+2024,S Fenner Lake Rd,2
+2025,S Ferry St,2
+2026,S Franklin St,1
+2027,S Geneva Lake Dr,1
+2028,S Goodell St,2
+2029,S Grant St,5
+2030,S I 196,70
+2031,S I 196/109th RAMP,1
+2032,S I 196/124th RAMP,1
+2033,S I 196/Blue Star RAMP,4
+2034,S I 196/North Shore RAMP,1
+2035,S Kensington Dr,6
+2036,S Lake Geneva Dr,2
+2037,S Lake Sixteen Dr,1
+2038,S Laraway Ave,1
+2039,S Locust St,7
+2040,S Main St,25
+2041,S Maple St,11
+2042,S Morning Glory,1
+2043,S North St,8
+2044,S Peach Ct,2
+2045,S Platt St,4
+2046,S Pratt Lake Dr,1
+2047,S Riverwalk Dr,2
+2048,S Round Lake Dr,7
+2049,S Ryan Ridge Dr,1
+2050,S Ryan Woods Dr,1
+2051,S Selby St,2
+2052,S Sheridan St,1
+2053,S Sherman St,9
+2054,S Sherwood Ave,4
+2055,S Spring St,2
+2056,S Sunset St,3
+2057,S Union St,6
+2058,S US 131,71
+2059,S US 131/106th RAMP,1
+2060,S US 131/116th RAMP,1
+2061,S US 131/12th RAMP,3
+2062,S US 131/135th RAMP,1
+2063,S US 131/142nd RAMP,1
+2064,S US 131/E Allegan RAMP,1
+2065,S US 131/W M 89 RAMP,1
+2066,S US 31,16
+2067,S US 31 BR RAMP,3
+2068,S US 31/Bus US 31 RAMP,1
+2069,S US 31/Washington RAMP,2
+2070,S Van Bruggen St,1
+2071,S Walnut St,1
+2072,S Washington Ave,28
+2073,S Washington St,3
+2074,S Water St,7
+2075,S Waverly Ct,2
+2076,S Wilmott St,13
+2077,S Woodhams St,7
+2078,Sagewood Ct,2
+2079,Sagewood Trl,1
+2080,Sailview Dr,5
+2081,Saint Peters Dr,2
+2082,Saint Sebina,1
+2083,Salem Cir,1
+2084,Salem Ct,1
+2085,Salem Dr,1
+2086,Salem Rd,1
+2087,Sambroek Ln,4
+2088,Samuel St,1
+2089,Sanctuary Way,4
+2090,Sand Castle View,2
+2091,Sand Creek Ln,1
+2092,Sandcastle Dr,2
+2093,Sandra Dr,1
+2094,Sandra Kay Dr,2
+2095,Sandra Ln,1
+2096,Sandy Beach,1
+2097,Sandy Dr,2
+2098,Sandy Pines Dr,1
+2099,Sandy Ridge Ct,1
+2100,Sandy Ridge Dr,3
+2101,Sandy Ridge Ln,4
+2102,Sandy View Dr,1
+2103,Sara Ln,1
+2104,Sarah St,2
+2105,Saskatoon Trl,1
+2106,Sassafras Dr,2
+2107,Sassafras Ln,2
+2108,Saturn Dr,4
+2109,Saugatuck Dunes Park Rd,1
+2110,Saugatuck Dunes State Park Rd,2
+2111,Saugatuck Rest Area,4
+2112,Saugatuck Rest Area RAMP,2
+2113,Sauk Cir,2
+2114,Sauk Ct,2
+2115,Scarborough Ave,1
+2116,Scarborough Ct,1
+2117,Scenic Dr,4
+2118,Scenic Shores Dr,1
+2119,Scenic View Dr,2
+2120,Schaffer Dr,1
+2121,Schanz Rd,4
+2122,Schermerhorn Lake Dr,5
+2123,School Dr,4
+2124,School St,1
+2125,Schoolhouse Ln,1
+2126,Schultz Park Boat Launch,5
+2127,Schultz Park Dr,4
+2128,Scotch Pine Cir,2
+2129,Scott St,1
+2130,Scurio Ln,1
+2131,Sea Gate Ave,2
+2132,Secluded Acres Ct,1
+2133,Secluded Acres Dr,3
+2134,Second Ave,1
+2135,Second Division St,1
+2136,Second St,13
+2137,Seiser Dr,1
+2138,Selkirk Lake Dr,1
+2139,Selly Oak Ave,1
+2140,Serenity Ln,1
+2141,Serenity Now,2
+2142,Serenity Pines Dr,3
+2143,Serenity Ridge Dr,2
+2144,Serry Dr,3
+2145,Service St,1
+2146,Settlers Creek Rd,2
+2147,Seymour Dr,2
+2148,Shady Creek Dr,2
+2149,Shady Ln,1
+2150,Shady Oak Ln,1
+2151,Shady View Trl,1
+2152,Shag Way Dr,1
+2153,Shangrai La Dr,3
+2154,Shangri La Cir,2
+2155,Sharon Blvd,1
+2156,Sharon Dr,1
+2157,Sharon Ln,1
+2158,Sharps Rd,1
+2159,Shawnee Cir,2
+2160,Shawnee Trl,4
+2161,Sheen Hollow,2
+2162,Sheffer Lake BAS,1
+2163,Sheffield Ln,1
+2164,Shekora Shores Dr,2
+2165,Shepherds Ct,1
+2166,Sherman Ct,1
+2167,Sherman St,3
+2168,Sherwood Ave,5
+2169,Sherwood St,7
+2170,Sherwood Trl,3
+2171,Shipwreck Ln,2
+2172,Shirley Ln,2
+2173,Shore Crest Dr,2
+2174,Shore Dr,5
+2175,Shoreline Cir,2
+2176,Shoreline Ln,1
+2177,Shorewood Dr,4
+2178,Shorewood Dunes Trl,1
+2179,Short St,2
+2180,Sib Rumery St,2
+2181,Sigmund Bluff Rd,1
+2182,Signal Point Cir,1
+2183,Signal Point Dr,3
+2184,Silas Dr,1
+2185,Silver Acres Dr,1
+2186,Silver Creek Dr,3
+2187,Silver Lake Dr,4
+2188,Silver Lake Rd,1
+2189,Silver Leaf Trl,1
+2190,Silver Rd,1
+2191,Silverhawk Dr,4
+2192,Silverstone Dr,2
+2193,Simonson Dr,3
+2194,Singapore Ct,1
+2195,Singapore Dr,2
+2196,Sir Knight Rd,1
+2197,Sixteen Lake BAS,1
+2198,Skinner Ln,1
+2199,Skylark Ct,2
+2200,Skyline Rd,1
+2201,Skyview Dr,1
+2202,Skyview Way,2
+2203,Slater Ave,2
+2204,Sleepy Hollow Beach Resort,4
+2205,Smalla Ln,1
+2206,Smith Lane Dr,1
+2207,Snell's Back River Crossing,1
+2208,Snow Farm Dr,1
+2209,Sobus Ct,2
+2210,Solace Way,1
+2211,Songbird Ln,2
+2212,Sophia Way,3
+2213,South Ave,3
+2214,South Baseline Lake Rd,1
+2215,South Fork Dr,2
+2216,South Lake Doster Dr,12
+2217,South Lake Ln,2
+2218,South Memorial Dr,2
+2219,South Pine Trl,2
+2220,South Point Ridge,5
+2221,South Rolling Ridge Dr,2
+2222,South Shore Dr,12
+2223,South Spec Lake Dr,1
+2224,South St,6
+2225,South Stoneridge Dr,2
+2226,Southern Ct,2
+2227,Southpointe Trl,3
+2228,Southside Ln,1
+2229,Southwoods Trl,2
+2230,Sparks Ave,1
+2231,Spear St,5
+2232,Spring Beauty Ln,1
+2233,Spring Brook Dr,1
+2234,Spring Hill Point Ln,1
+2235,Spring Ln,4
+2236,Spring Meadow Dr,2
+2237,Springbrook Dr,5
+2238,Springhill Dr,2
+2239,Springwell Ct,1
+2240,Spruce Cir,2
+2241,Spruce Dr,3
+2242,Spruce Ln,10
+2243,Spruce St,2
+2244,Spruceview Dr,2
+2245,Squire Ct,1
+2246,St Andrews Dr,7
+2247,St Joseph St,4
+2248,Standing Stone Dr,2
+2249,Standish Dr,2
+2250,Standish St,2
+2251,Stanton Ct,1
+2252,Stanton Farms Dr,1
+2253,Starlite Dr,4
+2254,Starr Elem School Access,2
+2255,Starr Rd,9
+2256,Starry Ln,2
+2257,State Park Dr,2
+2258,State St,4
+2259,Sterling Ave,1
+2260,Sterling Dr,2
+2261,Sterling Rd,1
+2262,Stern St,1
+2263,Stevens Ct,1
+2264,Stoney Hill Dr,2
+2265,Stoney Point Dr,2
+2266,Stoney Ridge Ct,2
+2267,Stoneybrook Ln,2
+2268,Stratford Ave,1
+2269,Streeter Ave,1
+2270,Suequehanna Ln,1
+2271,Summer Creek Ct,2
+2272,Summer Creek Dr,3
+2273,Summer Grove Dr,1
+2274,Summerwyn Dr,3
+2275,Summit Dr,2
+2276,Summit Path,2
+2277,Summit St,1
+2278,Summit View Concourse,1
+2279,Sun And Surf Ct,3
+2280,Sun Valley Ln,2
+2281,Sunday Dr,3
+2282,Sunfish Dr,2
+2283,Sunflower Dr,4
+2284,Sunny Pine Dr,1
+2285,Sunnyside Dr,3
+2286,Sunquest Ave,4
+2287,Sunrise Dr,3
+2288,Sunrise Ln,1
+2289,Sunrise Trl,3
+2290,Sunset Cir,2
+2291,Sunset Concourse,2
+2292,Sunset Cove Dr,2
+2293,Sunset Cove Ln,2
+2294,Sunset Dr,7
+2295,Sunset Ln,3
+2296,Sunset Meadow Dr,2
+2297,Sunset Pkwy,1
+2298,Sunset Point,3
+2299,Sunset Trl,1
+2300,Sunset View,2
+2301,Superman Dr,1
+2302,Susan,1
+2303,Susan St,1
+2304,Sussex Pl,1
+2305,Sutherland St,1
+2306,Sutter Memorial Dr,1
+2307,Swan Ave,3
+2308,Swan Creek Ct,3
+2309,Swan Dr,2
+2310,Swan Lake BAS,3
+2311,Swan Lake Dr,2
+2312,Swansea St,2
+2313,Swing Bridge Ln,2
+2314,Sycamore Bend,1
+2315,Sycamore Ct,2
+2316,Sycamore Dr,1
+2317,Sycamore St,3
+2318,Tabbert Dr,1
+2319,Tadpole Aly,1
+2320,Taft Rd,6
+2321,Takken St,1
+2322,Tall Tree Ln,1
+2323,Talley's Aly,1
+2324,Tamarack St,1
+2325,Tanglewood Dr,1
+2326,Tannery Creek Dr,1
+2327,Tavistock Dr,1
+2328,Taylor Dr,1
+2329,Taylor Ln,1
+2330,Taylor St,1
+2331,Temple St,1
+2332,Templeton St,2
+2333,Tepee Trl,2
+2334,Terrace Ct,1
+2335,Terrace Dr,1
+2336,Terrace St,2
+2337,Terravita Cir,4
+2338,Terravita Way,1
+2339,The Beach Rd,2
+2340,The Glade,1
+2341,The Hermitage,1
+2342,Thelen Dr,4
+2343,Third St,8
+2344,Thomas Ave,4
+2345,Thomas St,15
+2346,Thompson Ave,1
+2347,Thompson Dr,1
+2348,Thoreau Ct,1
+2349,Thornhill Rd,2
+2350,Three Fires Trl,1
+2351,Tiffany Dr,1
+2352,Timber Creek Dr,3
+2353,Timber Oaks Ct,3
+2354,Timber Ridge Bay Ct,2
+2355,Timber Ridge Bay Dr,2
+2356,Timbercrest Ln,1
+2357,Timberidge Trl,2
+2358,Timberview,1
+2359,Tippy Ln,1
+2360,Tom Ct,2
+2361,Tom Nolan Rd,1
+2362,Tomahawk Blvd,1
+2363,Tomahawk Trl S,2
+2364,Tompkins Dr,1
+2365,Tony Ave,3
+2366,Topview Dr,1
+2367,Toronto Trl,4
+2368,Townline Ave,2
+2369,Track Side Dr,1
+2370,Tracy Trl,3
+2371,Trails End,1
+2372,Tranquility Ln,1
+2373,Transport Ln,2
+2374,Trappers Crossing,1
+2375,Travistock Dr,2
+2376,Tree Haven,3
+2377,Tree Haven Cir,2
+2378,Trestle Ln,1
+2379,Trillium Ct,1
+2380,Trinity Dr,1
+2381,Troon Ct,3
+2382,Trowbridge St,6
+2383,Tulip Ln,4
+2384,Tulip Tree Ln,2
+2385,Tumbleweed Dr,1
+2386,Turkey Ln,2
+2387,Turkey Run,3
+2388,Turnberry Way,1
+2389,Turtle Dr,2
+2390,Tyler Rd,2
+2391,Tyler Trl,1
+2392,Union St,4
+2393,Unity Ln,1
+2394,University St,4
+2395,Unknown,48
+2396,Unknown 1,2
+2397,Unknown0051202,1
+2398,Unknown005161 Rd,1
+2399,Unknown0051701 Rd,1
+2400,Unknown0053001,3
+2401,Urfer Dr,1
+2402,US 131 Crossover,13
+2403,US 31 Crossover,1
+2404,Uthers Dr,1
+2405,Valkyrie Ln,2
+2406,Valley Ave,1
+2407,Valley Dr,1
+2408,Valley View Ct,2
+2409,Valley View Ln,1
+2410,Valley Vista Dr,8
+2411,Valleywood Ct,2
+2412,Van Dalson St,1
+2413,Van Dyke Dr,1
+2414,Van Horn Ct,2
+2415,Van Wieren Dr,1
+2416,Vancouver Pl,1
+2417,Vandermeulen Rd,1
+2418,Varney St,1
+2419,Vassar Ave,1
+2420,Vernon D. Ebersole Center,1
+2421,Vernon St,1
+2422,Versailles Dr,3
+2423,Veterans Dr,2
+2424,Viaduct Rd,1
+2425,Victoria,1
+2426,Vienna Strasse,5
+2427,Villa Ave,3
+2428,Village Ct,1
+2429,Village Dr,3
+2430,Village Ln,2
+2431,Vine St,6
+2432,Vineyard Dr,1
+2433,Violet St,1
+2434,Vista Ct,1
+2435,Volkers St,3
+2436,Vos Pl,2
+2437,Voss Ave,2
+2438,Voyager Ct,2
+2439,Voyager Dr,1
+2440,W 32nd St,58
+2441,W 33rd St,9
+2442,W 34th St,5
+2443,W 35th St,8
+2444,W 36th St,1
+2445,W 37th St,3
+2446,W 38th St,1
+2447,W 39th St,3
+2448,W 40th St,9
+2449,W 48th St,10
+2450,W 48th/Regent Cutoff,1
+2451,W 64th St,3
+2452,W Allegan St,8
+2453,W Apple Ln,3
+2454,W Arrowhead Trl,3
+2455,W Baseline Rd,5
+2456,W Bridge St,13
+2457,W Brighton St,1
+2458,W Center St,17
+2459,W Chart St,5
+2460,W Cherry St,5
+2461,W Chestnut St,4
+2462,W Elm St,8
+2463,W Fennville St,4
+2464,W First Ave,2
+2465,W First St,4
+2466,W Former Bridge St,1
+2467,W Franklin St,6
+2468,W Fremont St,7
+2469,W Fulton St,4
+2470,W Geneva Lake Dr,2
+2471,W Grant St,3
+2472,W Gun River Dr,1
+2473,W Hammond St,3
+2474,W Hill St,8
+2475,W I 196,24
+2476,W I 196/M 40 RAMP,1
+2477,W Lake Dr,1
+2478,W Main St,16
+2479,W Maple St,5
+2480,W Morrell St,4
+2481,W Orleans St,4
+2482,W Plainwell St,3
+2483,W Rabbit River Ct,1
+2484,W Rabbit River Run,1
+2485,W Randolph St,5
+2486,W River St,6
+2487,W Ryan Woods Dr,1
+2488,W Scenic Turn Ln,3
+2489,W Selkirk Lake Dr,1
+2490,W South St,1
+2491,W Summer Grove Dr,1
+2492,W Sunfield Ln,2
+2493,W Superior St,16
+2494,W Sycamore St,5
+2495,W Van Bruggen St,2
+2496,W Village Dr,3
+2497,W Wall St,3
+2498,W Walter St,2
+2499,W Wiley Rd,9
+2500,W Wise St,3
+2501,Wake Robin Ln,3
+2502,Wakefield St,2
+2503,Walden Dr,1
+2504,Walker Ave,1
+2505,Walker Ridge Rd,1
+2506,Walking Horse Ln,2
+2507,Wallace Dr,2
+2508,Walnut Ct,2
+2509,Walnut Dale Dr,4
+2510,Walnut Dr,1
+2511,Walnut Park Dr,3
+2512,Walnut St,10
+2513,Walnut Woods Ct,1
+2514,Walter Rd,2
+2515,Walters Dr,2
+2516,Wanamaker Rd,2
+2517,Wapiti Dr,3
+2518,Warbler Dr,1
+2519,Ward Dr,4
+2520,Warrant St,1
+2521,Warwick St,1
+2522,Washington Ave,1
+2523,Washington Ct,1
+2524,Washington St,13
+2525,Washington/N US 31 RAMP,3
+2526,Washington/S US 31,1
+2527,Water St,20
+2528,Waterfall Way,1
+2529,Waters Edge,4
+2530,Waters Edge Ln,2
+2531,Waters Pointe Dr,2
+2532,Watson Blvd,3
+2533,Watson St,1
+2534,Watts Rd,2
+2535,Waukazoo Trl,2
+2536,Waverly Rd,9
+2537,Wayne Rd,2
+2538,Wayne St,2
+2539,Weber Ln,2
+2540,Wedgewood Dr,13
+2541,Wedgewood Way,1
+2542,Weeks St,1
+2543,Wegnar Dr,1
+2544,Weicks Dr,2
+2545,Weirich Dr,2
+2546,Wellhead Access,2
+2547,Wells Ave,1
+2548,Wells Rd,1
+2549,Wells St,2
+2550,Wendy Ln,1
+2551,Wesler Dr,5
+2552,West Dr,1
+2553,West Ln,2
+2554,West Memorial Dr,1
+2555,West Shore Dr,3
+2556,West Shore Woods,3
+2557,West Side County Park,1
+2558,West St,4
+2559,Western Ave,6
+2560,Westfield Ct,2
+2561,Westfield Ln,1
+2562,Westshore St,3
+2563,Westview Ct,3
+2564,Westview Dr,4
+2565,Westwind Ct,1
+2566,Westwoods Ct,1
+2567,Westwoods Dr,3
+2568,Wetheral Lake Dr,1
+2569,Wetmore Dr,1
+2570,Whipporwill Ln,2
+2571,Whisper Ct,2
+2572,Whisper Ln,3
+2573,Whispering Oaks,1
+2574,Whispering Pines Dr,2
+2575,White Horse Ln,3
+2576,White Oak Ct,2
+2577,White Pine Dr,7
+2578,White Pine St,4
+2579,White Pine Trl,3
+2580,White Tail Ln,1
+2581,White Trail Dr,3
+2582,Whiteside Ln,2
+2583,Whitetail Run,1
+2584,Whitney Way,1
+2585,Whittier Ave,1
+2586,Whyment Ave,1
+2587,Wild Creek Dr,2
+2588,Wild Flower Ct,2
+2589,Wild Flower Dr,3
+2590,Wild Turkey Ln,2
+2591,Wildcat Dr,1
+2592,Wilderness Ln,3
+2593,Wilderness Ridge Dr,6
+2594,Wilderness Trl,1
+2595,Wildflower Ave,1
+2596,Wildflower Ln,2
+2597,Wildwood Ct,2
+2598,Wildwood Dr,9
+2599,Wildwood Ln,3
+2600,Wiley Ct,2
+2601,Wiley Rd,3
+2602,Williams Ln,1
+2603,Williams Rd,3
+2604,Williams St,2
+2605,Willow Ln,2
+2606,Willow Run,2
+2607,Willow St,5
+2608,Willyard St,3
+2609,Wilson Dr,2
+2610,Wilson St,3
+2611,Winchester Ct,3
+2612,Winchester St,3
+2613,Windcliff Dr,2
+2614,Windego Ln,1
+2615,Windemuller Ct,2
+2616,Windhaven Dr,2
+2617,Winding Oak Dr,1
+2618,Winding Way,20
+2619,Windsor Dr,1
+2620,Windsor Woods Dr,5
+2621,Windwood Ln,1
+2622,Windy Ridge,1
+2623,Windy Ridge Dr,2
+2624,Winfield,1
+2625,Winnebago Trl,3
+2626,Winnipeg Pl,1
+2627,Winsted Ave,1
+2628,Wintergreen Dr,3
+2629,Wintergreen Rd,2
+2630,Wkama Way,3
+2631,Wolcott St,1
+2632,Wonderland Dr,4
+2633,Wood Ct,2
+2634,Wood St,2
+2635,Woodberry Ln,1
+2636,Woodcliff St,2
+2637,Woodcrest Ct,3
+2638,Woodfield Ct,2
+2639,Woodie Ln,1
+2640,Woodland,1
+2641,Woodland Ave,5
+2642,Woodland Dr,1
+2643,Woodland Trl,3
+2644,Woodlea Dr,3
+2645,Woodridge,1
+2646,Woodridge Ct,2
+2647,Woodside Dr,1
+2648,Woodside Meadow Ct,2
+2649,Woodstock Dr,2
+2650,Woodstone,1
+2651,Woodveiw Dr,1
+2652,Woodview Ln,4
+2653,Wooln St,1
+2654,Wren Dr,3
+2655,Wyndarden Way,1
+2656,Yale St,1
+2657,Yamoto Way,2
+2658,Yazmin Dr,1
+2659,York Ave,3
+2660,Zak Rd,3
+2661,Zellman Ct,2
+2662,Zonne Ct,2

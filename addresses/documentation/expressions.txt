@@ -1,0 +1,9 @@
+[NUMBER] +" "+ [NUMBERSUP] +" "+ [PREDIRECTI] +" "+ [NAME] +" "+ [SUFFIX] +" "+ [POSTDIRECT] +" "+ [SUPPLEMENT]
+
+[NUMBER]+(IIF(isNull([NUMBERSUP]),"",(" "+[NUMBERSUP])))+(IIF(isNull([PREDIRECTI]),"",(" "+[PREDIRECTI])))+" "+[NAME]+(IIF(isNull([SUFFIX]),"",(" "+[SUFFIX])))+(IIF(isNull([POSTDIRECT]),"",(" "+[POSTDIRECT])))+(IIF(isNull([SUPPLEMENT]),"",(" "+[SUPPLEMENT])))
+
+IIF  ([DIAM]<=6, "RED",    IIF  ([DIAM]<=10, "ORANGE",    IIF  ([DIAM]<=15, "GREEN", "BLUE")  )  )
+
+
+
+887-ORD649701

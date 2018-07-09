@@ -1,0 +1,37 @@
+OBJECTID,MUNI,Cnt_MUNI
+1, ,2799
+2,Allegan City,2054
+3,Allegan Twp,2292
+4,Casco Twp,2134
+5,Cheshire Twp,1191
+6,Clyde Twp,939
+7,Dorr Twp,2808
+8,Douglas City,1259
+9,Fennville City,613
+10,Fillmore Twp,1355
+11,Ganges Twp,1664
+12,Gun Plain Twp,2646
+13,Heath Twp,1573
+14,Holland City,3445
+15,Hopkins Twp,778
+16,Hopkins Village,256
+17,Laketown Twp,2647
+18,Lee Twp,1957
+19,Leighton Twp,2475
+20,Manlius Twp,1239
+21,Martin Twp,925
+22,Martin Village,178
+23,Monterey Twp,1903
+24,Otsego City,1613
+25,Otsego Twp,2368
+26,Overisel Twp,1100
+27,Plainwell City,1561
+28,Salem Twp,3479
+29,Saugatuck City,847
+30,Saugatuck Twp,2318
+31,South Haven City,18
+32,Trowbridge Twp,1186
+33,Valley Twp,1089
+34,Watson Twp,880
+35,Wayland City,1517
+36,Wayland Twp,1563

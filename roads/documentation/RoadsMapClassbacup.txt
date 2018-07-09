@@ -1,0 +1,21 @@
+Code,Class,Sql
+-3,Alley,CLASSIFICATION = 'Alley"
+-2,County Primary Impassable,(CLASSIFICATION='County Primary') AND SURFACE = 'Impassable'
+0,Ramp,(CLASSIFICATION ='Ramp')
+1,Freeway (Controlled-Access Highway),(CLASSIFICATION ='Expressway')
+2,State Trunkline Highway: Undivided,(CLASSIFICATION ='State Highway')
+3,State Trunkline Highway: Divided, None
+4,Intercounty Highway Route: County Primary,(FENAME2 ='A-2' AND CLASSIFICATION = 'County Primary') OR (FENAME2 ='A-37' AND CLASSIFICATION = 'County Primary') OR (FENAME2 ='A-45' AND CLASSIFICATION = 'County Primary') OR (FENAME2 ='A-42' AND CLASSIFICATION = 'County Primary')
+5,Intercounty Highway Route: City Major,(FENAME2 ='A-2' AND CLASSIFICATION = 'City Major') OR (FENAME2 ='A-37' AND CLASSIFICATION = 'City Major') OR (FENAME2 ='A-45' AND CLASSIFICATION = 'City Major') OR (FENAME2 ='A-42' AND CLASSIFICATION = 'City Major')
+6,County Primary Road-Paved,((CLASSIFICATION='County Primary') AND SURFACE = 'Paved' AND MAINTENANCE = 'Allegan Co Rd Comm' ) AND ((FENAME2 <>'A-2' ) AND (FENAME2 <>'A-37') AND (FENAME2 <>'A-45') AND (FENAME2 <>'A-42' ))
+7,County Primary Road-Unpaved,(CLASSIFICATION='County Primary') AND SURFACE = 'Unpaved' AND MAINTENANCE = 'Allegan Co Rd Comm'
+8,County Local Road-Paved,CLASSIFICATION='County Local' AND SURFACE = 'Paved'  AND MAINTENANCE  = 'Allegan Co Rd Comm'
+9,County Local Road-Unpaved,(CLASSIFICATION='County Local') AND SURFACE = 'Unpaved' AND RESTRICTIONS <> 'Seasonal'  AND MAINTENANCE  = 'Allegan Co Rd Comm'
+10,County Local Road-Unpaved/Seasonal,(CLASSIFICATION='County Local') AND SURFACE = 'Unpaved' AND RESTRICTIONS = 'Seasonal'
+11,County Local Road-Impassable/Seasonal,(CLASSIFICATION='County Local') AND SURFACE = 'Impassable'
+12,Municipal Street: City Major,(CLASSIFICATION='City Major')  AND ((FENAME2 <>'A-2' ) AND (FENAME2 <>'A-37') AND (FENAME2 <>'A-45') AND (FENAME2 <>'A-42' ))
+13,Municipal Street: City Minor,(CLASSIFICATION='City Minor')
+14,Private/Unclassified Road: Paved,(CLASSIFICATION ='Private')AND SURFACE = 'Paved'
+15,Private/Unclassified Road: Unpaved / Unknown / Impassable,(CLASSIFICATION ='Private')AND SURFACE <> 'Paved'
+16,Unpaved Road Maintained by Adjacent County,(MAINTENANCE  <>  'Allegan Co Rd Comm' AND SURFACE = 'Unpaved' AND CLASSIFICATION='County Local') OR (MAINTENANCE <> 'Allegan Co Rd Comm' AND SURFACE = 'Unpaved' AND CLASSIFICATION='County Primary')
+17,Paved Road Maintained by Adjacent County,((MAINTENANCE  <> 'Allegan Co Rd Comm' AND SURFACE = 'Paved' AND CLASSIFICATION='County Local') OR (MAINTENANCE <> 'Allegan Co Rd Comm'  AND SURFACE = 'Paved' AND CLASSIFICATION='County Primary')) AND ((FENAME2 <>'A-2' ) AND (FENAME2 <>'A-37') AND (FENAME2 <>'A-45') AND (FENAME2 <>'A-42' ))

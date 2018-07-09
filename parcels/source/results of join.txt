@@ -1,0 +1,3 @@
+The number of matching records for the join:
+- 62192 of 63973 records matched by joining [MAPPING_ID] from <AC_Pro.DBO.AC_Parcels2016_Combined> with [pnum] from <ParcelMaster$>.
+Matching records may not appear in table view due to join validation errors.

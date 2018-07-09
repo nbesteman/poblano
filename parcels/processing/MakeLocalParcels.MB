@@ -1,0 +1,74 @@
+
+Include "main.def"
+
+Sub Main()
+Set ProgressBars Off
+
+Dim sUnit,sUnitID,sBSAUnit,sCurrentID,sLeft2,sParcelID as String 
+'Dim sOwn,sOwnAddress,sOwnCity,sOwnState,sOwnZip,sOwnCare,sPropertyAddress,sZoning,sLiberPage,sTaxPayName,sTaxPayCareOf,sTaxPayStreet,sTaxPayCity,sTaxPayState,sTaxPayZIP as string
+'Dim sSchoolDistrict,sPropertyClass,sHomestead as string
+'Dim iAssessment as Integer
+'Dim fDeedAcres as Float
+'Dim oParcel as object
+
+
+Open Table "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\meters\AC_ParcelsComb_meters.TAB" as src_parcels
+Commit Table src_parcels As  "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\meters\srcparcels.TAB"
+Open Table "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\meters\srcparcels.TAB" as tmpEQparcels
+Select Parcel_ID,
+       Deed_Acres,
+       Acres,     'this has to be MInfo_Acres
+       Owner,
+       Owner_Addr,
+       Owner_City,
+       OwnerState,
+       Owner_Zip,
+       OwnerCare,
+       PropAddrss,
+       Zoning,
+       Liber_Page,
+       Tax_Name,
+       Tax_Careof,
+       Tax_Addres,
+       Tax_City,
+       Tax_State,
+       Tax_Zip,
+       PDR,
+       PropClass,
+       SchoolDist,
+       MayPRE,
+       Assessment,
+       Taxable
+       from src_parcels
+       into tmpparcels2
+Commit Table tmpparcels2 As "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\meters\parcels.TAB"
+
+'change the format of Deed_Acres and Acres from Float to the
+Close All
+
+Open Table "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\meters\parcels.TAB" as tmpparcels
+Alter Table "tmpparcels" ( modify Acres Decimal(9,2),Deed_Acres Decimal(9,2) ) Interactive
+Update tmpparcels Set Acres = Area(obj, "acre")
+Commit Table tmpparcels
+Close All
+
+Open Table "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\meters\parcels.TAB" as tmpparcels
+'---unit selection list
+Open Table "J:\Apps\Python\LayerUpdates\parcels\processing\tabs\units_select.tab" as Units
+Select * from Units where Process = "T" Order by Code into Unitselect
+'Select * from Units where Code = "16" or Code = "21" Order by Code into Unitselect
+Fetch First from Unitselect
+Do While Not EOT(Unitselect)
+	sUnit = Unitselect.Unit
+	sUnitID = Unitselect.Code
+Print "starting "+sUnitID + " " +sUnit
+
+
+select * from tmpparcels Where Left$(Parcel_ID,2) = sUnitID into srcSelect
+Commit Table srcSelect As "J:\Apps\Python\LayerUpdates\parcels\build_MapInfo\"+sUnit+" Parcels.TAB" TYPE NATIVE Charset "WindowsLatin1" Version 300
+
+Fetch Next from Unitselect
+loop
+Close All
+
+End Sub

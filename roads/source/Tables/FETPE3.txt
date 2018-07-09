@@ -1,0 +1,8 @@
+OBJECTID,FETYPE3,Cnt_FETYPE3
+-1, ,12861
+-1,Ave,7
+-1,Cv,2
+-1,Dr,17
+-1,Ln,1
+-1,Rd,54
+-1,St,87

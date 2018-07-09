@@ -1,0 +1,99 @@
+MAPCLASS groups
+
+-3
+count: 6
+CLASSIFICATION = 'Alley"
+
+-2
+count:3
+(CLASSIFICATION='County Primary') AND SURFACE = 'Impassable' 
+
+*0
+(CLASSIFICATION ='Ramp')   OR (FCC='A14')
+count: 34
+
+1
+Freeway (Controlled-Access Highway)
+count: 450
+(CLASSIFICATION ='Expressway')  AND (NOT (FCC='A14'))
+
+*2
+State Trunkline Highway: Undivided
+count: 415
+(CLASSIFICATION ='State Highway')  AND (NOT (FCC='A14'))
+
+*3
+State Trunkline Highway: Divided
+Divided State Highway 
+
+4
+Intercounty Highway Route: County Primary
+count: 312
+(FENAME2 ='A-2' AND CLASSIFICATION = 'County Primary') OR (FENAME2 ='A-37' AND CLASSIFICATION = 'County Primary') OR (FENAME2 ='A-45' AND CLASSIFICATION = 'County Primary') OR (FENAME2 ='A-42' AND CLASSIFICATION = 'County Primary') 
+
+5
+Intercounty Highway Route: City Major 
+count: 104
+(FENAME2 ='A-2' AND CLASSIFICATION = 'City Major') OR (FENAME2 ='A-37' AND CLASSIFICATION = 'City Major') OR (FENAME2 ='A-45' AND CLASSIFICATION = 'City Major') OR (FENAME2 ='A-42' AND CLASSIFICATION = 'City Major') 
+
+6
+County Primary Road-Paved
+count: 1548
+((CLASSIFICATION='County Primary') AND SURFACE = 'Paved' AND MAINTENANCE = 'Allegan Co Rd Comm' ) AND ((FENAME2 <>'A-2' ) AND (FENAME2 <>'A-37') AND (FENAME2 <>'A-45') AND (FENAME2 <>'A-42' ))
+
+7
+County Primary Road-Unpaved
+count: 86
+(CLASSIFICATION='County Primary') AND SURFACE = 'Unpaved' AND MAINTENANCE = 'Allegan Co Rd Comm' 
+
+8  note  this includes other counties
+County Local Road-Paved
+count: 2877
+CLASSIFICATION='County Local' AND SURFACE = 'Paved'  AND MAINTENANCE  = 'Allegan Co Rd Comm' 
+
+9 note  this includes other counties
+County Local Road-Unpaved
+count: 1703
+(CLASSIFICATION='County Local') AND SURFACE = 'Unpaved' AND RESTRICTIONS <> 'Seasonal'  AND MAINTENANCE  = 'Allegan Co Rd Comm' 
+
+10
+County Local Road-Unpaved/Seasonal
+count: 72
+(CLASSIFICATION='County Local') AND SURFACE = 'Unpaved' AND RESTRICTIONS = 'Seasonal' 
+
+11
+County Local Road-Impassable/Seasonal
+count: 87
+(CLASSIFICATION='County Local') AND SURFACE = 'Impassable' 
+
+12
+Municipal Street: City Major
+count: 655
+(CLASSIFICATION='City Major')  AND ((FENAME2 <>'A-2' ) AND (FENAME2 <>'A-37') AND (FENAME2 <>'A-45') AND (FENAME2 <>'A-42' ))
+
+13
+Municipal Street: City Minor 
+count: 1204
+(CLASSIFICATION='City Minor') 
+
+14
+Private/Unclassified Road: Paved 
+count: 2130
+(CLASSIFICATION ='Private')AND SURFACE = 'Paved'  
+
+15
+Private/Unclassified Road: Unpaved / Unknown / Impassable
+count: 1173
+(CLASSIFICATION ='Private')AND SURFACE <> 'Paved'  
+
+16
+Unpaved Road Maintained by Adjacent County
+count: 34
+(MAINTENANCE  <>  'Allegan Co Rd Comm' AND SURFACE = 'Unpaved' AND CLASSIFICATION='County Local') OR (MAINTENANCE <> 'Allegan Co Rd Comm' AND SURFACE = 'Unpaved' AND CLASSIFICATION='County Primary')
+
+17
+Paved Road Maintained by Adjacent County
+count: 135
+((MAINTENANCE  <> 'Allegan Co Rd Comm' AND SURFACE = 'Paved' AND CLASSIFICATION='County Local') OR (MAINTENANCE <> 'Allegan Co Rd Comm'  AND SURFACE = 'Paved' AND CLASSIFICATION='County Primary')) AND ((FENAME2 <>'A-2' ) AND (FENAME2 <>'A-37') AND (FENAME2 <>'A-45') AND (FENAME2 <>'A-42' ))
+
+total:13028

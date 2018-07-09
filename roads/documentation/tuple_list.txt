@@ -1,0 +1,10 @@
+import arcpy, os, sys, time
+
+TupleList = [("M 89", "M89 HWY"),("M 40", "M 40 HWy")]
+
+# unzip each element of the tuples into separate lists by index position
+List0 = list(zip(*TupleList)[0])
+
+#print "\nList of index: 0\t" + str(List0)
+
+print TupleList[0][1]

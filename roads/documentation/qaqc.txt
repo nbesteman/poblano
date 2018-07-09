@@ -1,0 +1,1 @@
+FRADDL > TOADDL or FRADDR > TOADDR  result is 316

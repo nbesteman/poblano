@@ -5,6 +5,7 @@
 # Created:  20170703
 # Modified: 20170707
 # Modified: 20171220
+# Modified: 20180713
 #https://gis.stackexchange.com/questions/152481/how-to-delete-selected-rows-using-arcpy
 #-------------------------------------------------------------------------------
 def main():
@@ -29,8 +30,7 @@ arcpy.DeleteField_management(in_table="GeoAddresses",
                             "Landmark;Seat;Floor;Bldg;MSAGcom;PSAP;ESN;St_Premod;Nhbrhd;Uncorp;MCD_Div;entityID;"+
                             "Latitude;Longitude;Common_Source;Common_Name;Source;Field_Verified;Site_ID;O06;O05;O04;O99;"+
                             "Unoccupied;Hseno_Pre;St_Postmod;Room;Unit;SOURCE0;NAME0;VERIFIED;A2RETIRED;PARETIRED;"+
-                            "SUPPLEME1;POSTDIRE1;SUFFIX2;NAME2;PREDIREC1;NUMBERSUP2;NUMBER2;SUPPLEME0;POSTDIRE0;"+
-                            "SUFFIX1;NAME1;PREDIREC0;NUMBERSUP1;NUMBER1;")
+                            "SUPPLEME1;POSTDIRE1;SUFFIX2;NAME2;PREDIREC1;NUMBERSUP2;NUMBER2;SUPPLEME0;POSTDIRE0;")
 arcpy.AddMessage("deleted fields from GeoAddresses")
 
 fields = ['NUMBER']

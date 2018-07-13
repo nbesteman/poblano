@@ -27,6 +27,8 @@ build_MapInfoEQ/
 build_Parcels/
 build_ParcelsPlus/
 build_Test/
+shapes/
+tabs/
 
 ## Vim edit files
 *.*~

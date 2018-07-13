@@ -20,7 +20,7 @@ fc = "AC_Parcels_Combined_2_MapInfoEQ"
 if arcpy.Exists(fc):
     arcpy.AddMessage("Deleting old version of AC_Parcels_Combined_2_MapInfoEQ...")
     arcpy.Delete_management(in_data="J:/Apps/Python/LayerUpdates/parcels/source/Parcels_Combined.gdb/AC_Parcels_Combined_2_MapInfoEQ", data_type="FeatureClass")
-    arcpy.Merge_management(inputs="J:/Apps/Python/LayerUpdates/parcels/source/Parcels_Combined.gdb/AC_Splits_2018",
+    arcpy.Merge_management(inputs="J:/Apps/Python/LayerUpdates/parcels/source/Parcels_Combined.gdb/AC_Splits_2019",
     output="J:/Apps/Python/LayerUpdates/parcels/source/Parcels_Combined.gdb/AC_Parcels_Combined_2_MapInfoEQ")
     arcpy.AddMessage("   ...and replaced with new AC_Parcels_Combined_2_MapInfoEQ.")
 else:

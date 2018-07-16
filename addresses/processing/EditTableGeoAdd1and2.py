@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------------
-# Name:     edit_table_GeoAddress2.py
+# Name:     edit_table_GeoAdd1and2.py
 # Purpose:  Edit table schema.
 # Author:   Neil Besteman
 # Created:  20180713
-# Modified:
+# Modified: 20180716
 #-------------------------------------------------------------------------------
 def main():
     pass
@@ -16,7 +16,6 @@ arcpy.env.workspace = "J:/Apps/Python/LayerUpdates/addresses/source/AddressData.
 #edit GeoAdd1
 arcpy.DeleteField_management(in_table= "GeoAdd1", drop_field="NUMBER1;PREDIR1;NAME1;SUFFIX1;POSTDIR1;SUPPLEM1;NUMBERSUP1")
 
-
 #delete primary address fields
 #drop fields
 arcpy.DeleteField_management(in_table= "GeoAdd2", drop_field="NUMBER;PREDIR;NAME;SUFFIX;POSTDIR;SUPPLEM")
@@ -28,3 +27,16 @@ arcpy.AlterField_management(in_table="GeoAdd2", field="PREDIR1", new_field_name=
 arcpy.AlterField_management(in_table="GeoAdd2", field="SUFFIX1", new_field_name="SUFFIX", new_field_alias="", field_type="TEXT", field_length="4", field_is_nullable="NULLABLE", clear_field_alias="true")
 arcpy.AlterField_management(in_table="GeoAdd2", field="POSTDIR1", new_field_name="POSTDIR", new_field_alias="", field_type="TEXT", field_length="2", field_is_nullable="NULLABLE", clear_field_alias="true")
 arcpy.AlterField_management(in_table="GeoAdd2", field="SUPPLEM1", new_field_name="SUPPLEM", new_field_alias="", field_type="TEXT", field_length="30", field_is_nullable="NULLABLE", clear_field_alias="true")
+
+fc = "GeoAdd2"
+fields = ['NUMBER']
+with arcpy.da.UpdateCursor(fc,fields) as cursor:
+    for row in cursor:
+        #delete records with no number assigned
+        if row[0] == '':
+            cursor.deleteRow()
+        if row[0] == ' ':
+            cursor.deleteRow()
+        if row[0] == None:
+            cursor.deleteRow()
+arcpy.AddMessage("deleted addresses where null or with no number or a space as a number")

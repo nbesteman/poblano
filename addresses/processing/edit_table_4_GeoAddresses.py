@@ -18,23 +18,26 @@ arcpy.env.workspace = "J:/Apps/Python/LayerUpdates/addresses/source/AddressData.
 fc = "GeoAddresses"
 
 fields = ['NUMBER']
-#delete addresses with no Number
+#delete records
 with arcpy.da.UpdateCursor(fc,fields) as cursor:
     for row in cursor:
+        #delete records with no number assigned
         if row[0] == '':  # and row[4] == 'Sleepy Hollow Beach Resort - Main Office, Delicatessen and Crafts Area':
             cursor.deleteRow()
-        #arcpy.AddMessage("deleted addresses with blank number")
         if row[0] == ' ':
+            cursor.deleteRow()
+        if row[0] == None:
             cursor.deleteRow()
 arcpy.AddMessage("deleted addresses with no number or a space as a number")
 
 fields = ['ADDRESS']
-#delete specific addresses that cause problems for NewWorld system and Dispatch
 with arcpy.da.UpdateCursor(fc,fields) as cursor:
     for row in cursor:
-        if row[0] == '7400 North Shore Dr':  # and row[4] == 'Sleepy Hollow Beach Resort - Main Office, Delicatessen and Crafts Area':
+        #delete specific addresses that cause problems for NewWorld system and Dispatch
+        #if row[0] == '7400 North Shore Dr':
+        if row[0] == 'Sleepy Hollow Beach Resort - Main Office, Delicatessen and Crafts Area':
             cursor.deleteRow()
-            arcpy.AddMessage("deleted 7400 North Shore Dr") #requested by Dispatch
+            arcpy.AddMessage("deleted Sleepy Hollow Main office") #requested by Dispatch
 
 fields = ['COUNTY','MUNI']
 #create update cursor for County names
@@ -58,4 +61,4 @@ arcpy.AddMessage("finished updateing surrounding counties")
 
 # Replace a layer/table view name with a path to a dataset (which can be a layer file) or create the layer/table view within the script
 # The following inputs are layers or table views: "GeoAddresses"
-arcpy.DeleteField_management(in_table="GeoAddresses", drop_field="ADDRESS;PROBLEM;NOTES;NUMBERSUP;SUPPLEMENT;COUNTY")
+arcpy.DeleteField_management(in_table="GeoAddresses", drop_field="ADDRESS;PROBLEM;NOTES;NUMBERSUP;SUPPLEMENT;COUNTY;BUSNAME;BUSSOURCE;A1RETIRED;ADDRESS2;PREDIR2;POSTDIR2;SUPPLEM2")

@@ -4,6 +4,7 @@
 # Author:   Neil Besteman
 # Created:  20170703
 # Modified: 20170707
+# Modified: 20180716 deleted ADDRESS2;PREDIR2;POSTDIR2;SUPPLEM2
 #https://gis.stackexchange.com/questions/152481/how-to-delete-selected-rows-using-arcpy
 #-------------------------------------------------------------------------------
 def main():

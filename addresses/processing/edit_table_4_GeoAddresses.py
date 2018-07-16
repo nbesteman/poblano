@@ -62,4 +62,4 @@ arcpy.AddMessage("finished updateing surrounding counties")
 
 # Replace a layer/table view name with a path to a dataset (which can be a layer file) or create the layer/table view within the script
 # The following inputs are layers or table views: "GeoAddresses"
-arcpy.DeleteField_management(in_table="GeoAddresses", drop_field="ADDRESS;PROBLEM;NOTES;NUMBERSUP;SUPPLEMENT;COUNTY;BUSNAME;BUSSOURCE;A1RETIRED;ADDRESS2;PREDIR2;POSTDIR2;SUPPLEM2")
+arcpy.DeleteField_management(in_table="GeoAddresses", drop_field="ADDRESS;ADDRESS1;PROBLEM;NOTES;NUMBERSUP;SUPPLEMENT;COUNTY;BUSNAME;BUSSOURCE;A1RETIRED;ADDRESS2;PREDIR2;POSTDIR2;SUPPLEM2")

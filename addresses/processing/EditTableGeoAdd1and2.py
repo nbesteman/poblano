@@ -15,14 +15,6 @@ import arcpy
 arcpy.env.workspace = "J:/Apps/Python/LayerUpdates/addresses/source/AddressData.gdb/"
 #edit GeoAdd1
 arcpy.DeleteField_management(in_table= "GeoAdd1", drop_field="NUMBER1;PREDIR1;NAME1;SUFFIX1;POSTDIR1;SUPPLEM1;NUMBERSUP1")
-arcpy.AlterField_management(in_table="GeoAdd1", field="PREDIR", clear_field_alias="true")
-arcpy.AlterField_management(in_table="GeoAdd1", field="NAME", clear_field_alias="true")
-arcpy.AlterField_management(in_table="GeoAdd1", field="SUFFIX", clear_field_alias="true")
-arcpy.AlterField_management(in_table="GeoAdd1", field="POSTDIR", clear_field_alias="true")
-arcpy.AlterField_management(in_table="GeoAdd1", field="SUPPLEM", clear_field_alias="true")
-arcpy.AlterField_management(in_table="GeoAdd1", field="MUNI", clear_field_alias="true")
-arcpy.AlterField_management(in_table="GeoAdd1", field="CITY", clear_field_alias="true")
-arcpy.AlterField_management(in_table="GeoAdd1", field="ZIP", clear_field_alias="true")
 
 
 #delete primary address fields

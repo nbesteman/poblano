@@ -5,6 +5,7 @@ https://git-scm.com/docs/gitignore
 ## big files
 *.pdf
 *.gdb
+*.xlsx
 
 ## folders
 archive/

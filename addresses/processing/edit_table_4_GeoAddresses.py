@@ -17,7 +17,6 @@ import arcpy
 arcpy.env.workspace = "J:/Apps/Python/LayerUpdates/addresses/source/AddressData.gdb/"
 #arcpy.env.workspace = "source/AddressData.gdb/"
 fc = "GeoAddresses"
-
 fields = ['NUMBER']
 #delete records
 with arcpy.da.UpdateCursor(fc,fields) as cursor:

@@ -15,4 +15,4 @@ import arcpy
 arcpy.env.workspace = "J:/Apps/Python/LayerUpdates/addresses/source/AddressData.gdb/"
 
 
-arcpy.Append_management(inputs="GeoAdd2", target="GeoAddAddresses", schema_type="TEST", field_mapping="", subtype="")
+arcpy.Append_management(inputs="GeoAdd2", target="GeoAdd1", schema_type="TEST", field_mapping="", subtype="")

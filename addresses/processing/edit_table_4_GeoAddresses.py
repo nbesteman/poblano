@@ -5,6 +5,7 @@
 # Created:  20170703
 # Modified: 20170707
 # Modified: 20180716 deleted ADDRESS2;PREDIR2;POSTDIR2;SUPPLEM2
+# Modified: 20181019 added Source field to populate with Primary or Secondary address
 #https://gis.stackexchange.com/questions/152481/how-to-delete-selected-rows-using-arcpy
 #-------------------------------------------------------------------------------
 def main():
@@ -70,3 +71,6 @@ arcpy.AlterField_management(in_table="GeoAddresses", field="SUPPLEM", clear_fiel
 arcpy.AlterField_management(in_table="GeoAddresses", field="MUNI", clear_field_alias="true")
 arcpy.AlterField_management(in_table="GeoAddresses", field="CITY", clear_field_alias="true")
 arcpy.AlterField_management(in_table="GeoAddresses", field="ZIP", clear_field_alias="true")
+# Replace a layer/table view name with a path to a dataset (which can be a layer file) or create the layer/table view within the script
+# The following inputs are layers or table views: "GeoAddresses"
+arcpy.AddField_management(in_table="GeoAddresses", field_name="Source", field_type="TEXT", field_precision="", field_scale="", field_length="10", field_alias="", field_is_nullable="NULLABLE", field_is_required="NON_REQUIRED", field_domain="")

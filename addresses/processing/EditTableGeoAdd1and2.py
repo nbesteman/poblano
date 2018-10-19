@@ -4,6 +4,7 @@
 # Author:   Neil Besteman
 # Created:  20180713
 # Modified: 20180716
+# Modifiwed: 20181019 populated source column with primary and secondary addresses
 #-------------------------------------------------------------------------------
 def main():
     pass
@@ -40,3 +41,6 @@ with arcpy.da.UpdateCursor(fc,fields) as cursor:
         if row[0] == None:
             cursor.deleteRow()
 arcpy.AddMessage("deleted addresses where null or with no number or a space as a number")
+
+arcpy.CalculateField_management(in_table="GeoAdd1", field="Source", expression='"primary"', expression_type="PYTHON_9.3", code_block="")
+arcpy.CalculateField_management(in_table="GeoAdd2", field="Source", expression='"secondary"', expression_type="PYTHON_9.3", code_block="")

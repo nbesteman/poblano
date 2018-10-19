@@ -23,7 +23,7 @@ fields = ['PREDIR']
 with arcpy.da.UpdateCursor(fc,fields) as cursor:
     for row in cursor:
         if row[0] == 'East':
-           #row[0] == 'West'
-           #cursor.updateRow(row)
+           row[0] == 'test'
+           cursor.updateRow(row)
            cursor.deleteRow()
 arcpy.AddMessage("replace null with blank")

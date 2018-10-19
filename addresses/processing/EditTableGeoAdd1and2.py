@@ -44,3 +44,8 @@ arcpy.AddMessage("deleted addresses where null or with no number or a space as a
 
 arcpy.CalculateField_management(in_table="GeoAdd1", field="Source", expression='"primary"', expression_type="PYTHON_9.3", code_block="")
 arcpy.CalculateField_management(in_table="GeoAdd2", field="Source", expression='"secondary"', expression_type="PYTHON_9.3", code_block="")
+
+# Replace a layer/table view name with a path to a dataset (which can be a layer file) or create the layer/table view within the script
+# The following inputs are layers or table views: "GeoAdd2"
+#arcpy.CalculateField_management(in_table="GeoAdd2", field="ROADNAME", expression="!PREDIR! +' '+ !NAME!+ ' ' + !SUFFIX!", expression_type="PYTHON_9.3", code_block="")
+arcpy.CalculateField_management(in_table="GeoAdd2", field="ROADNAME", expression="(!PREDIR! +' '+ !NAME!+ ' ' + !SUFFIX!).strip()", expression_type="PYTHON_9.3", code_block="")

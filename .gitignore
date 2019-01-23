@@ -12,11 +12,8 @@ archive/
 build/
 
 ## layer update folders
-AC_ProDevelopment/
-AttributeAssistant/
-oil_and_gas_wells/
-water_well/
-zipcode/
+##foldername
+
 
 ## layer update parcel folders
 backup_MapInfo/
